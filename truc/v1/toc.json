@@ -43,21 +43,24 @@
         "page_title": "page4",
         "page_slug": "page4",
         "page_type": "empty",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       },
       {
         "page_suid": "59olGxDPUn",
         "page_title": "test5",
         "page_slug": "test5",
         "page_type": "empty",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       },
       {
         "page_suid": "AXqe4hfKr5",
         "page_title": "test6",
         "page_slug": "test6",
         "page_type": "empty",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       }
     ],
     "publish": true
@@ -67,13 +70,23 @@
     "page_title": "trucplus",
     "page_slug": "trucplus",
     "page_type": "empty",
-    "subpage": []
+    "subpage": [],
+    "publish": false
   },
   {
     "page_suid": "zCeLHfj7Uu",
     "page_title": "huphup",
     "page_slug": "huphup",
     "page_type": "empty",
-    "subpage": []
+    "subpage": [],
+    "publish": false
+  },
+  {
+    "page_suid": "7uqoAYnrFn",
+    "page_title": "hophop",
+    "page_slug": "hophop",
+    "page_type": "empty",
+    "subpage": [],
+    "publish": false
   }
 ]
