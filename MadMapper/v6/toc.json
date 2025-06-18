@@ -32,21 +32,33 @@
             "page_title": "The Future",
             "page_slug": "the-future",
             "page_type": "empty",
-            "subpage": []
+            "subpage": [],
+            "publish": false
           },
           {
             "page_suid": "gwHOZFmpAU",
             "page_title": "The End",
             "page_slug": "the-end",
             "page_type": "empty",
-            "subpage": []
+            "subpage": [
+              {
+                "page_suid": "4A19MAyN4y",
+                "page_title": "not problematic page",
+                "page_slug": "not-problematic-page",
+                "page_type": "empty",
+                "subpage": [],
+                "publish": false
+              }
+            ],
+            "publish": false
           },
           {
             "page_suid": "K4zC0vQRsG",
             "page_title": "Problematic Page",
             "page_slug": "problematic-page",
             "page_type": "empty",
-            "subpage": []
+            "subpage": [],
+            "publish": false
           }
         ],
         "publish": false
