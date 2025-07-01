@@ -60,5 +60,38 @@
     "retina": false,
     "edited": 0,
     "source_id": null
+  },
+  {
+    "media_id": "9Vkb13ghNs",
+    "filename": "truc.png",
+    "imgName": "truc",
+    "ext": "png",
+    "mimetype": "image/png",
+    "folder": "/Xk2jHST85q-test3/medias",
+    "url": "/truc.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "source_id": null
   }
 ]
