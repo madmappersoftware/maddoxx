@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "media_id": "RWJD9SwbFz",
+    "filename": "7C3C6A98-D1A3-434D-B46F-A6B075411841.png",
+    "imgName": "7C3C6A98-D1A3-434D-B46F-A6B075411841",
+    "ext": "png",
+    "mimetype": "image/png",
+    "folder": "/K4zC0vQRsG-problematic-page/medias",
+    "url": "/7C3C6A98-D1A3-434D-B46F-A6B075411841.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "source_id": null
+  }
+]
