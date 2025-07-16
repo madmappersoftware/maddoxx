@@ -63,5 +63,18 @@
     "lang": [
       "en"
     ]
+  },
+  {
+    "product_name": "EyeMapper",
+    "product_slug": "eyemapper",
+    "product_versions": [
+      {
+        "num": "1",
+        "version": "v1"
+      }
+    ],
+    "lang": [
+      "en"
+    ]
   }
 ]
