@@ -6,45 +6,11 @@
     "page_type": "empty",
     "subpage": [
       {
-        "page_suid": "0aAXfsfuIA",
-        "page_title": "Historicsal concept",
-        "page_slug": "historicsal-concept",
-        "page_type": "empty",
-        "subpage": [
-          {
-            "page_suid": "zhOoeZDMnI",
-            "page_title": "The day before it happenned",
-            "page_slug": "the-day-before-it-happenned",
-            "page_type": "empty",
-            "subpage": [],
-            "publish": false
-          }
-        ],
-        "publish": false
-      },
-      {
         "page_suid": "YxaRDWwB4v",
         "page_title": "About",
         "page_slug": "about",
         "page_type": "empty",
         "subpage": [
-          {
-            "page_suid": "cKuSVasvuN",
-            "page_title": "And Beyond",
-            "page_slug": "and-beyond",
-            "page_type": "empty",
-            "subpage": [
-              {
-                "page_suid": "gwHOZFmpAU",
-                "page_title": "The End",
-                "page_slug": "the-end",
-                "page_type": "empty",
-                "subpage": [],
-                "publish": false
-              }
-            ],
-            "publish": false
-          },
           {
             "page_suid": "4A19MAyN4y",
             "page_title": "not problematic page",
@@ -78,9 +44,43 @@
               }
             ],
             "publish": false
+          },
+          {
+            "page_suid": "cKuSVasvuN",
+            "page_title": "And Beyond",
+            "page_slug": "and-beyond",
+            "page_type": "empty",
+            "subpage": [
+              {
+                "page_suid": "gwHOZFmpAU",
+                "page_title": "The End",
+                "page_slug": "the-end",
+                "page_type": "empty",
+                "subpage": [],
+                "publish": false
+              }
+            ],
+            "publish": false
           }
         ],
         "publish": true
+      }
+    ],
+    "publish": false
+  },
+  {
+    "page_suid": "0aAXfsfuIA",
+    "page_title": "Historicsal concept",
+    "page_slug": "historicsal-concept",
+    "page_type": "empty",
+    "subpage": [
+      {
+        "page_suid": "zhOoeZDMnI",
+        "page_title": "The day before it happenned",
+        "page_slug": "the-day-before-it-happenned",
+        "page_type": "empty",
+        "subpage": [],
+        "publish": false
       }
     ],
     "publish": false
