@@ -7,13 +7,30 @@
     "mimetype": "image/png",
     "folder": "/IfpZwdwuwQ-about/medias",
     "url": "/Screenshot 2025-04-29 at 22.21.20.png",
-    "captions": { "en": "" },
+    "captions": {
+      "en": ""
+    },
     "size": [
-      { "name": "full", "dimension": 1920 },
-      { "name": "large", "dimension": 1440 },
-      { "name": "big", "dimension": 600 },
-      { "name": "small", "dimension": 350 },
-      { "name": "thumbnail", "dimension": 256 }
+      {
+        "name": "full",
+        "dimension": 1920
+      },
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
     ],
     "retina": false,
     "edited": 0,
