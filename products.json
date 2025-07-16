@@ -2,25 +2,66 @@
   {
     "product_name": "truc",
     "product_slug": "truc",
-    "product_versions": [{ "num": "1", "version": "v1" }],
-    "lang": ["en"]
+    "product_versions": [
+      {
+        "num": "1",
+        "version": "v1"
+      }
+    ],
+    "lang": [
+      "en"
+    ]
   },
   {
     "product_name": "BedMapper",
     "product_slug": "bedmapper",
-    "product_versions": [{ "num": "1", "version": "v1" }],
-    "lang": ["en"]
+    "product_versions": [
+      {
+        "num": "1",
+        "version": "v1"
+      }
+    ],
+    "lang": [
+      "en"
+    ]
   },
   {
     "product_name": "BadMapper",
     "product_slug": "badmapper",
-    "product_versions": [{ "num": "1", "version": "v1" }],
-    "lang": ["en"]
+    "product_versions": [
+      {
+        "num": "1",
+        "version": "v1"
+      }
+    ],
+    "lang": [
+      "en"
+    ]
   },
   {
     "product_name": "MadMapper",
     "product_slug": "madmapper",
-    "product_versions": [{ "num": "6", "version": "v6" }],
-    "lang": ["en"]
+    "product_versions": [
+      {
+        "num": "6",
+        "version": "v6"
+      }
+    ],
+    "lang": [
+      "en"
+    ]
+  },
+  {
+    "product_name": "EyeMapper",
+    "product_slug": "eyemapper",
+    "product_versions": [
+      {
+        "num": "1",
+        "version": "v1"
+      }
+    ],
+    "lang": [
+      "en"
+    ]
   }
 ]
