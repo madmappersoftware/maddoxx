@@ -72,5 +72,42 @@
     "retina": false,
     "edited": 0,
     "source_id": null
+  },
+  {
+    "media_id": "WRu8lASiun",
+    "filename": "MadAI city shader.jpg",
+    "imgName": "MadAI city shader",
+    "ext": "jpg",
+    "mimetype": "image/jpeg",
+    "folder": "/eu02LAaJNr-madai-(test)/medias",
+    "url": "/MadAI city shader.jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "full",
+        "dimension": 1920
+      },
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "source_id": null
   }
 ]
