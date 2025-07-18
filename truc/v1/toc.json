@@ -199,5 +199,55 @@
       }
     ],
     "publish": false
+  },
+  {
+    "page_suid": "eu02LAaJNr",
+    "page_title": "MadAI (test)",
+    "page_slug": "madai-(test)",
+    "page_type": "empty",
+    "minor_version": "1",
+    "subpage": [
+      {
+        "page_suid": "YHwM11Cm4K",
+        "page_title": "Getting started",
+        "page_slug": "getting-started",
+        "page_type": "empty",
+        "minor_version": "1",
+        "subpage": [
+          {
+            "page_suid": "hjLCZqjVZ5",
+            "page_title": "Credits",
+            "page_slug": "credits",
+            "page_type": "empty",
+            "minor_version": "1",
+            "subpage": []
+          }
+        ]
+      },
+      {
+        "page_suid": "HhvGRytJTm",
+        "page_title": "Troubleshooting",
+        "page_slug": "troubleshooting",
+        "page_type": "empty",
+        "minor_version": "1",
+        "subpage": []
+      },
+      {
+        "page_suid": "BgPeuLY4Ir",
+        "page_title": "Video tutorials",
+        "page_slug": "video-tutorials",
+        "page_type": "empty",
+        "minor_version": "1",
+        "subpage": []
+      },
+      {
+        "page_suid": "zdMQRcZTP9",
+        "page_title": "Cheat sheet",
+        "page_slug": "cheat-sheet",
+        "page_type": "empty",
+        "minor_version": "1",
+        "subpage": []
+      }
+    ]
   }
 ]
