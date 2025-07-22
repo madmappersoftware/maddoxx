@@ -18,17 +18,7 @@
         "page_title": "test3",
         "page_slug": "test3",
         "page_type": "empty",
-        "subpage": [
-          {
-            "page_suid": "IBTMoTcbeF",
-            "page_title": "test31",
-            "page_slug": "test31",
-            "page_type": "empty",
-            "minor_version": "1",
-            "subpage": [],
-            "publish": false
-          }
-        ],
+        "subpage": [],
         "publish": false
       }
     ],
@@ -223,17 +213,16 @@
         "page_slug": "getting-started",
         "page_type": "empty",
         "minor_version": "1",
-        "subpage": [
-          {
-            "page_suid": "hjLCZqjVZ5",
-            "page_title": "Credits",
-            "page_slug": "credits",
-            "page_type": "empty",
-            "minor_version": "1",
-            "subpage": [],
-            "publish": false
-          }
-        ],
+        "subpage": [],
+        "publish": false
+      },
+      {
+        "page_suid": "hjLCZqjVZ5",
+        "page_title": "Credits",
+        "page_slug": "credits",
+        "page_type": "empty",
+        "minor_version": "1",
+        "subpage": [],
         "publish": false
       },
       {
@@ -264,15 +253,6 @@
         "publish": false
       }
     ],
-    "publish": false
-  },
-  {
-    "page_suid": "bLjqeYzfC0",
-    "page_title": "truc",
-    "page_slug": "truc",
-    "page_type": "empty",
-    "minor_version": "",
-    "subpage": [],
     "publish": false
   }
 ]
