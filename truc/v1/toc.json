@@ -18,7 +18,17 @@
         "page_title": "test3",
         "page_slug": "test3",
         "page_type": "empty",
-        "subpage": [],
+        "subpage": [
+          {
+            "page_suid": "IBTMoTcbeF",
+            "page_title": "test31",
+            "page_slug": "test31",
+            "page_type": "empty",
+            "minor_version": "1",
+            "subpage": [],
+            "publish": false
+          }
+        ],
         "publish": false
       }
     ],
@@ -220,9 +230,11 @@
             "page_slug": "credits",
             "page_type": "empty",
             "minor_version": "1",
-            "subpage": []
+            "subpage": [],
+            "publish": false
           }
-        ]
+        ],
+        "publish": false
       },
       {
         "page_suid": "HhvGRytJTm",
@@ -230,7 +242,8 @@
         "page_slug": "troubleshooting",
         "page_type": "empty",
         "minor_version": "1",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       },
       {
         "page_suid": "BgPeuLY4Ir",
@@ -238,7 +251,8 @@
         "page_slug": "video-tutorials",
         "page_type": "empty",
         "minor_version": "1",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       },
       {
         "page_suid": "zdMQRcZTP9",
@@ -246,8 +260,19 @@
         "page_slug": "cheat-sheet",
         "page_type": "empty",
         "minor_version": "1",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       }
-    ]
+    ],
+    "publish": false
+  },
+  {
+    "page_suid": "bLjqeYzfC0",
+    "page_title": "truc",
+    "page_slug": "truc",
+    "page_type": "empty",
+    "minor_version": "",
+    "subpage": [],
+    "publish": false
   }
 ]
