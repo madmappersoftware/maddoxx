@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "media_id": "weoEvxIOwT",
+    "filename": "City shader MadMapper.jpg",
+    "imgName": "City shader MadMapper",
+    "ext": "jpg",
+    "mimetype": "image/jpeg",
+    "folder": "/YHwM11Cm4K-getting-started/medias",
+    "url": "/City shader MadMapper.jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "full",
+        "dimension": 1920
+      },
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "source_id": null
+  }
+]
