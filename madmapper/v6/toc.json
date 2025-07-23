@@ -12,6 +12,23 @@
         "page_type": "empty",
         "subpage": [
           {
+            "page_suid": "cKuSVasvuN",
+            "page_title": "And Beyond",
+            "page_slug": "and-beyond",
+            "page_type": "empty",
+            "subpage": [
+              {
+                "page_suid": "gwHOZFmpAU",
+                "page_title": "The End",
+                "page_slug": "the-end",
+                "page_type": "empty",
+                "subpage": [],
+                "publish": false
+              }
+            ],
+            "publish": false
+          },
+          {
             "page_suid": "4A19MAyN4y",
             "page_title": "not problematic page",
             "page_slug": "not-problematic-page",
@@ -40,23 +57,6 @@
                     "publish": false
                   }
                 ],
-                "publish": false
-              }
-            ],
-            "publish": false
-          },
-          {
-            "page_suid": "cKuSVasvuN",
-            "page_title": "And Beyond",
-            "page_slug": "and-beyond",
-            "page_type": "empty",
-            "subpage": [
-              {
-                "page_suid": "gwHOZFmpAU",
-                "page_title": "The End",
-                "page_slug": "the-end",
-                "page_type": "empty",
-                "subpage": [],
                 "publish": false
               }
             ],
