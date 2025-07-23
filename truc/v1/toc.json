@@ -95,6 +95,14 @@
           }
         ],
         "publish": false
+      },
+      {
+        "page_suid": "TrR5k9Yb6v",
+        "page_title": "truc",
+        "page_slug": "truc",
+        "page_type": "empty",
+        "minor_version": "1",
+        "subpage": []
       }
     ],
     "publish": true
