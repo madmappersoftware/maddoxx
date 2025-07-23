@@ -262,5 +262,46 @@
       }
     ],
     "publish": false
+  },
+  {
+    "page_suid": "REjK1pggPt",
+    "page_title": "MadProjectorControl",
+    "page_slug": "madprojectorcontrol",
+    "page_type": "card",
+    "minor_version": "",
+    "subpage": [
+      {
+        "page_suid": "Kc08Ll314e",
+        "page_title": "Getting started",
+        "page_slug": "getting-started",
+        "page_type": "empty",
+        "minor_version": "",
+        "subpage": []
+      },
+      {
+        "page_suid": "Lb8l9Ex6ct",
+        "page_title": "Setup",
+        "page_slug": "setup",
+        "page_type": "empty",
+        "minor_version": "",
+        "subpage": []
+      },
+      {
+        "page_suid": "YfZAQTcHwA",
+        "page_title": "Controls",
+        "page_slug": "controls",
+        "page_type": "empty",
+        "minor_version": "",
+        "subpage": []
+      },
+      {
+        "page_suid": "KetWCvrFUy",
+        "page_title": "Ressources",
+        "page_slug": "ressources",
+        "page_type": "empty",
+        "minor_version": "",
+        "subpage": []
+      }
+    ]
   }
 ]

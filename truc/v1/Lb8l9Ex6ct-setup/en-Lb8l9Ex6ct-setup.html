@@ -1,0 +1,104 @@
+<h2 class="int-link-anchors">MadProjectorControl</h2>
+<h3>Authorization</h3>
+<p><img src="MadProjectoControl setup.png" width="322" height="244" data-media-id="m59OAhs8Z7"></p>
+<p>&nbsp;</p>
+<ul>
+<li class="p1">Within <strong>MadMapper</strong>, click on the Account menu (top bar) then&nbsp;<strong>Manage Authorizations</strong>.</li>
+<li class="p1">Select <strong>MadProjectorControl</strong> and follow the procedure. The extension will be linked to the user account used for its purchase. Make sure you&rsquo;re using the right login.</li>
+</ul>
+<p class="p1"><strong>Must know:</strong></p>
+<p class="p1">Before restarting, an admin password will be asked. It&rsquo;s the admin password of your computer.</p>
+<p class="p1">&nbsp;</p>
+<h3>Add a module</h3>
+<p><img src="MadProjectorControl icon list.png" width="232" height="46" data-media-id="JCbgQUP2Mr"></p>
+<ul>
+<li class="p1">
+<p class="p1">Go to the Modules tab, accessible from the top left of the interface.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src="MadProjectoControl add module.png" width="46" height="39" data-media-id="tPmzn5lW8G"></p>
+<ul>
+<li class="p1">Click on the icon at the left of the Modules list to add a module.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src="MadProjectorControl module logo.png" width="90" height="65" data-media-id="hvLSl4UqYx"></p>
+<ul>
+<li class="p1">
+<p class="p1">Select the <strong>PJLink</strong> module to add one.</p>
+</li>
+</ul>
+<div class="alert-banner-notes">
+<p class="p1">Add a <strong>PJLink</strong> module instance for each projector you want&nbsp;to control.&nbsp;They will be listed in the modules list with the usual features&nbsp;allowing you to select, unselect, move or rename your modules.</p>
+</div>
+<p class="p1">&nbsp;</p>
+<div class="alert-banner-warning">
+<p class="p1">Please note as well that by default and for power/energy saving reasons, the&nbsp;projector&rsquo;s network interface may be disabled when the projector is turned off.&nbsp;Therefore, you may want to disable this power saving feature if <strong>MadMapper</strong> is&nbsp;supposed to turn on the projector.</p>
+<p class="p1">Once the network interface is available (the green LED on the Ethernet connector is lit), is physically connected to your computer, and both network interfaces are configured with compatible IP addresses/masks, you can test connectivity by pinging the projector on the network, or by logging into the projector&rsquo;s web interface.</p>
+</div>
+<p class="p1">&nbsp;</p>
+<h3>Target</h3>
+<p class="p1"><img src="MadProjectoControl Target 1.png" width="240" height="109" data-media-id="6kjToU4vdH"></p>
+<ul>
+<li class="p1">Once the projectors you want to control are physically connected to the same ethernet network, you must&nbsp;setup the <strong>Target</strong> fields of the module first.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src="MadProjectoControl Target 2.png" width="246" height="22" data-media-id="q5aV2G56rn"></p>
+<ul>
+<li class="p1">Select the projector your want to control in <strong>Device</strong>: relying on the <strong>PJLink</strong> discovery protocol, all the supported-devices IP addresses will appear in the dropdown list (that can take up to 30 seconds after <strong>MadMapper</strong> has started).</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src="MadProjectoControl Target 3.png" width="251" height="52" data-media-id="UdhIabR94Q"></p>
+<ul>
+<li class="p1">Since the protocol is not supported by all PJLink-enabled device, you can otherwise manually input the projector IP by selecting&nbsp;<strong>Custom Device.</strong></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong><img src="MadProjectoControl Target 4.png" width="248" height="21" data-media-id="KuACdfH2mJ"></strong></p>
+<ul>
+<li class="p1">In addition to IP-address, and depending on the projector&rsquo;s model and configuration, you may need to enter a&nbsp;<strong>password</strong> to connect to the device.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src="MadProjectoControl Target 5.png" width="246" height="22" data-media-id="BjHe9QAJFL"></p>
+<ul>
+<li class="p1">The status of the connection and error messages appears in the&nbsp;<strong>Status</strong> field.</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Controls</h3>
+<p><img src="MadProjectoControl Controls 1.png" width="253" height="107" data-media-id="64DrM1gSKa"></p>
+<ul>
+<li class="p1">Once the status become connected you will get access to the Power and Mute&nbsp;<strong>Controls</strong>.</li>
+</ul>
+<div class="alert-banner-notes">
+<p class="p1">The projector&rsquo;s <strong>Mute status</strong> (in the Controls section) remain&nbsp;blank until the device gets powered on.</p>
+</div>
+<p class="p1">&nbsp;</p>
+<p class="p1">&nbsp;</p>
+<p class="p1"><img src="MadProjectoControl Controls 2.png" width="258" height="47" data-media-id="MSOKK2SrUX"></p>
+<ul>
+<li class="p1">Use the <strong>Power</strong> button to turn the projector on and off.<br>When changed the <strong>Power </strong>button state represents the desired power state of the projector.</li>
+</ul>
+<div class="alert-banner-notes">
+<p class="p1"><strong>Must know : </strong>The desired state may not be reached immediately in&nbsp;certain situations.</p>
+<p class="p1">For example when the Power button is toggle on while&nbsp;the projector has just been powered off and is still&nbsp;cooling down, the order will be delayed until the&nbsp;projector is actually enabled to be powered on again.</p>
+</div>
+<div class="alert-banner-warning">
+<p class="p1">In the absence of power control change in the module, the <strong>Power </strong>button state matches with the actual power state of the&nbsp;projector.<br>For example: if the projector gets powered off using the device&rsquo;s&nbsp;physical remote, the <strong>PJLink</strong> module&rsquo;s Power button will&nbsp;eventually turn off to reflect the new projector&rsquo;s power state.</p>
+</div>
+<p class="p1">&nbsp;</p>
+<p class="p1">&nbsp;</p>
+<p class="p1"><img src="MadProjectoControl Controls 3.png" width="261" height="48" data-media-id="tte6Uhuy8b"></p>
+<ul>
+<li class="p1">Click the <strong>Mute</strong> button to mute / unmute both the audio and video of the projector. Video mute can have different effect depending on the projector&rsquo;s technology: older models have a motorized physical shutter to prevent the light from being projected, while newer models can instantly cut their light-source to achieve the same result.</li>
+</ul>
+<div class="alert-banner-notes">
+<p class="p1">In the absence of mute control change in the module, the <strong>Mute </strong>button state matches with the actual mute state of the&nbsp;projector.</p>
+<p class="p1">For example: if the projector gets muted using the device&rsquo;s&nbsp;physical remote, the <strong>PJLink</strong> module&rsquo;s <strong>Mute</strong> button will&nbsp;eventually turn on to reflect the new projector&rsquo;s mute state.</p>
+</div>
+<h3><br>Info</h3>
+<p class="p1"><img src="MadProjectoControl Info.png" width="263" height="147" data-media-id="iRwlk21QWK"></p>
+<ul>
+<li class="p1">The <strong>Info</strong> section will display the projector&rsquo;s Name,&nbsp;Model, Brand, Serial and Format once the Status&nbsp;become connected.</li>
+</ul>
+<div class="alert-banner-notes">
+<p class="p1">The projector&rsquo;s <strong>Format</strong> will remain blank until the projector is&nbsp;turned on and receives a signal.</p>
+</div>
