@@ -1,27 +1,27 @@
 [
   {
-    "page_suid": "UeMk7FMfxY",
-    "page_title": "The history of Video Mapping",
-    "page_slug": "the-history-of-video-mapping",
-    "page_type": "empty",
+    "pageSuid": "UeMk7FMfxY",
+    "pageTitle": "The history of Video Mapping",
+    "pageSlug": "the-history-of-video-mapping",
+    "pageType": "empty",
     "subpage": [
       {
-        "page_suid": "YxaRDWwB4v",
-        "page_title": "About",
-        "page_slug": "about",
-        "page_type": "empty",
+        "pageSuid": "YxaRDWwB4v",
+        "pageTitle": "About",
+        "pageSlug": "about",
+        "pageType": "empty",
         "subpage": [
           {
-            "page_suid": "cKuSVasvuN",
-            "page_title": "1 And Beyond",
-            "page_slug": "1-and-beyond",
-            "page_type": "empty",
+            "pageSuid": "cKuSVasvuN",
+            "pageTitle": "1 And Beyond",
+            "pageSlug": "1-and-beyond",
+            "pageType": "empty",
             "subpage": [
               {
-                "page_suid": "gwHOZFmpAU",
-                "page_title": "The End",
-                "page_slug": "the-end",
-                "page_type": "empty",
+                "pageSuid": "gwHOZFmpAU",
+                "pageTitle": "The End",
+                "pageSlug": "the-end",
+                "pageType": "empty",
                 "subpage": [],
                 "publish": false
               }
@@ -29,30 +29,30 @@
             "publish": false
           },
           {
-            "page_suid": "4A19MAyN4y",
-            "page_title": "not problematic page",
-            "page_slug": "not-problematic-page",
-            "page_type": "empty",
+            "pageSuid": "4A19MAyN4y",
+            "pageTitle": "not problematic page",
+            "pageSlug": "not-problematic-page",
+            "pageType": "empty",
             "subpage": [
               {
-                "page_suid": "RjJq1TKK4w",
-                "page_title": "The Future",
-                "page_slug": "the-future",
-                "page_type": "empty",
+                "pageSuid": "RjJq1TKK4w",
+                "pageTitle": "The Future",
+                "pageSlug": "the-future",
+                "pageType": "empty",
                 "subpage": [],
                 "publish": false
               },
               {
-                "page_suid": "EGea2fMGis",
-                "page_title": "The early days",
-                "page_slug": "the-early-days",
-                "page_type": "empty",
+                "pageSuid": "EGea2fMGis",
+                "pageTitle": "The early days",
+                "pageSlug": "the-early-days",
+                "pageType": "empty",
                 "subpage": [
                   {
-                    "page_suid": "K4zC0vQRsG",
-                    "page_title": "Problematic Page",
-                    "page_slug": "problematic-page",
-                    "page_type": "empty",
+                    "pageSuid": "K4zC0vQRsG",
+                    "pageTitle": "Problematic Page",
+                    "pageSlug": "problematic-page",
+                    "pageType": "empty",
                     "subpage": [],
                     "publish": false
                   }
@@ -69,16 +69,16 @@
     "publish": false
   },
   {
-    "page_suid": "0aAXfsfuIA",
-    "page_title": "Historicsal concept",
-    "page_slug": "historicsal-concept",
-    "page_type": "empty",
+    "pageSuid": "0aAXfsfuIA",
+    "pageTitle": "Historicsal concept",
+    "pageSlug": "historicsal-concept",
+    "pageType": "empty",
     "subpage": [
       {
-        "page_suid": "zhOoeZDMnI",
-        "page_title": "The day before it happenned",
-        "page_slug": "the-day-before-it-happenned",
-        "page_type": "empty",
+        "pageSuid": "zhOoeZDMnI",
+        "pageTitle": "The day before it happenned",
+        "pageSlug": "the-day-before-it-happenned",
+        "pageType": "empty",
         "subpage": [],
         "publish": false
       }

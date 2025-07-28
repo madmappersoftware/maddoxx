@@ -1,15 +1,15 @@
 [
   {
-    "page_suid": "MzeYYHIzCL",
-    "page_title": "test",
-    "page_slug": "test",
-    "page_type": "empty",
+    "pageSuid": "MzeYYHIzCL",
+    "pageTitle": "test",
+    "pageSlug": "test",
+    "pageType": "empty",
     "subpage": [
       {
-        "page_suid": "7HuEqFM26Q",
-        "page_title": "test2",
-        "page_slug": "test2",
-        "page_type": "empty",
+        "pageSuid": "7HuEqFM26Q",
+        "pageTitle": "test2",
+        "pageSlug": "test2",
+        "pageType": "empty",
         "subpage": [],
         "publish": true
       }
@@ -17,68 +17,68 @@
     "publish": true
   },
   {
-    "page_suid": "DT6ALV2Cce",
-    "page_title": "test35",
-    "page_slug": "test35",
-    "page_type": "empty",
+    "pageSuid": "DT6ALV2Cce",
+    "pageTitle": "test35",
+    "pageSlug": "test35",
+    "pageType": "empty",
     "subpage": [
       {
-        "page_suid": "IfpZwdwuwQ",
-        "page_title": "about",
-        "page_slug": "about",
-        "page_type": "empty",
+        "pageSuid": "IfpZwdwuwQ",
+        "pageTitle": "about",
+        "pageSlug": "about",
+        "pageType": "empty",
         "subpage": [],
         "publish": false
       },
       {
-        "page_suid": "21dqpmcLRt",
-        "page_title": "page4",
-        "page_slug": "page4",
-        "page_type": "empty",
+        "pageSuid": "21dqpmcLRt",
+        "pageTitle": "page4",
+        "pageSlug": "page4",
+        "pageType": "empty",
         "subpage": [],
         "publish": false
       },
       {
-        "page_suid": "59olGxDPUn",
-        "page_title": "test5",
-        "page_slug": "test5",
-        "page_type": "empty",
+        "pageSuid": "59olGxDPUn",
+        "pageTitle": "test5",
+        "pageSlug": "test5",
+        "pageType": "empty",
         "subpage": [],
         "publish": false
       },
       {
-        "page_suid": "AXqe4hfKr5",
-        "page_title": "test6",
-        "page_slug": "test6",
-        "page_type": "empty",
+        "pageSuid": "AXqe4hfKr5",
+        "pageTitle": "test6",
+        "pageSlug": "test6",
+        "pageType": "empty",
         "subpage": [
           {
-            "page_suid": "TcS6XvXCoF",
-            "page_title": "ssxrefx",
-            "page_slug": "ssxrefx",
-            "page_type": "empty",
+            "pageSuid": "TcS6XvXCoF",
+            "pageTitle": "ssxrefx",
+            "pageSlug": "ssxrefx",
+            "pageType": "empty",
             "subpage": [],
             "publish": false
           },
           {
-            "page_suid": "ttbSHqpQNm",
-            "page_title": "vhuyy",
-            "page_slug": "vhuyy",
-            "page_type": "empty",
+            "pageSuid": "ttbSHqpQNm",
+            "pageTitle": "vhuyy",
+            "pageSlug": "vhuyy",
+            "pageType": "empty",
             "subpage": [
               {
-                "page_suid": "P0bfryu6xE",
-                "page_title": "vgyhfgv",
-                "page_slug": "vgyhfgv",
-                "page_type": "empty",
+                "pageSuid": "P0bfryu6xE",
+                "pageTitle": "vgyhfgv",
+                "pageSlug": "vgyhfgv",
+                "pageType": "empty",
                 "subpage": [],
                 "publish": false
               },
               {
-                "page_suid": "7v8qe1L8oA",
-                "page_title": "xgvfcwx",
-                "page_slug": "xgvfcwx",
-                "page_type": "empty",
+                "pageSuid": "7v8qe1L8oA",
+                "pageTitle": "xgvfcwx",
+                "pageSlug": "xgvfcwx",
+                "pageType": "empty",
                 "subpage": [],
                 "publish": false
               }
@@ -89,10 +89,10 @@
         "publish": false
       },
       {
-        "page_suid": "TrR5k9Yb6v",
-        "page_title": "truc",
-        "page_slug": "truc",
-        "page_type": "empty",
+        "pageSuid": "TrR5k9Yb6v",
+        "pageTitle": "truc",
+        "pageSlug": "truc",
+        "pageType": "empty",
         "minor_version": "1",
         "subpage": []
       }
@@ -100,24 +100,24 @@
     "publish": true
   },
   {
-    "page_suid": "L2MkH4PKzC",
-    "page_title": "trucplus",
-    "page_slug": "trucplus",
-    "page_type": "empty",
+    "pageSuid": "L2MkH4PKzC",
+    "pageTitle": "trucplus",
+    "pageSlug": "trucplus",
+    "pageType": "empty",
     "subpage": [
       {
-        "page_suid": "cpd54HC9GP",
-        "page_title": "utc",
-        "page_slug": "utc",
-        "page_type": "empty",
+        "pageSuid": "cpd54HC9GP",
+        "pageTitle": "utc",
+        "pageSlug": "utc",
+        "pageType": "empty",
         "subpage": [],
         "publish": false
       },
       {
-        "page_suid": "GHOmwlSlWr",
-        "page_title": "xxdrgcn",
-        "page_slug": "xxdrgcn",
-        "page_type": "empty",
+        "pageSuid": "GHOmwlSlWr",
+        "pageTitle": "xxdrgcn",
+        "pageSlug": "xxdrgcn",
+        "pageType": "empty",
         "subpage": [],
         "publish": false
       }
@@ -125,24 +125,24 @@
     "publish": false
   },
   {
-    "page_suid": "zCeLHfj7Uu",
-    "page_title": "huphup",
-    "page_slug": "huphup",
-    "page_type": "empty",
+    "pageSuid": "zCeLHfj7Uu",
+    "pageTitle": "huphup",
+    "pageSlug": "huphup",
+    "pageType": "empty",
     "subpage": [
       {
-        "page_suid": "CJtWRAGx82",
-        "page_title": "szervg",
-        "page_slug": "szervg",
-        "page_type": "empty",
+        "pageSuid": "CJtWRAGx82",
+        "pageTitle": "szervg",
+        "pageSlug": "szervg",
+        "pageType": "empty",
         "subpage": [],
         "publish": false
       },
       {
-        "page_suid": "aQNDX1YdFW",
-        "page_title": "fyghtgc",
-        "page_slug": "fyghtgc",
-        "page_type": "empty",
+        "pageSuid": "aQNDX1YdFW",
+        "pageTitle": "fyghtgc",
+        "pageSlug": "fyghtgc",
+        "pageType": "empty",
         "subpage": [],
         "publish": false
       }
@@ -150,22 +150,22 @@
     "publish": false
   },
   {
-    "page_suid": "7uqoAYnrFn",
-    "page_title": "hophop",
-    "page_slug": "hophop",
-    "page_type": "empty",
+    "pageSuid": "7uqoAYnrFn",
+    "pageTitle": "hophop",
+    "pageSlug": "hophop",
+    "pageType": "empty",
     "subpage": [
       {
-        "page_suid": "KbwqzZ8f56",
-        "page_title": "huphip",
-        "page_slug": "huphip",
-        "page_type": "empty",
+        "pageSuid": "KbwqzZ8f56",
+        "pageTitle": "huphip",
+        "pageSlug": "huphip",
+        "pageType": "empty",
         "subpage": [
           {
-            "page_suid": "JoIyVqzwWK",
-            "page_title": "hopla",
-            "page_slug": "hopla",
-            "page_type": "empty",
+            "pageSuid": "JoIyVqzwWK",
+            "pageTitle": "hopla",
+            "pageSlug": "hopla",
+            "pageType": "empty",
             "subpage": [],
             "publish": false
           }
@@ -173,24 +173,24 @@
         "publish": false
       },
       {
-        "page_suid": "JDwD236DcM",
-        "page_title": "hiphpi",
-        "page_slug": "hiphpi",
-        "page_type": "empty",
+        "pageSuid": "JDwD236DcM",
+        "pageTitle": "hiphpi",
+        "pageSlug": "hiphpi",
+        "pageType": "empty",
         "subpage": [
           {
-            "page_suid": "LkBlKcvZ6N",
-            "page_title": "hiplo",
-            "page_slug": "hiplo",
-            "page_type": "empty",
+            "pageSuid": "LkBlKcvZ6N",
+            "pageTitle": "hiplo",
+            "pageSlug": "hiplo",
+            "pageType": "empty",
             "subpage": [],
             "publish": false
           },
           {
-            "page_suid": "PQLInMWYfK",
-            "page_title": "yoplay",
-            "page_slug": "yoplay",
-            "page_type": "empty",
+            "pageSuid": "PQLInMWYfK",
+            "pageTitle": "yoplay",
+            "pageSlug": "yoplay",
+            "pageType": "empty",
             "subpage": [],
             "publish": false
           }
@@ -201,53 +201,53 @@
     "publish": false
   },
   {
-    "page_suid": "eu02LAaJNr",
-    "page_title": "MadAI (test)",
-    "page_slug": "madai-(test)",
-    "page_type": "empty",
+    "pageSuid": "eu02LAaJNr",
+    "pageTitle": "MadAI (test)",
+    "pageSlug": "madai-(test)",
+    "pageType": "empty",
     "minor_version": "1",
     "subpage": [
       {
-        "page_suid": "YHwM11Cm4K",
-        "page_title": "Getting started",
-        "page_slug": "getting-started",
-        "page_type": "empty",
+        "pageSuid": "YHwM11Cm4K",
+        "pageTitle": "Getting started",
+        "pageSlug": "getting-started",
+        "pageType": "empty",
         "minor_version": "1",
         "subpage": [],
         "publish": false
       },
       {
-        "page_suid": "hjLCZqjVZ5",
-        "page_title": "Credits",
-        "page_slug": "credits",
-        "page_type": "empty",
+        "pageSuid": "hjLCZqjVZ5",
+        "pageTitle": "Credits",
+        "pageSlug": "credits",
+        "pageType": "empty",
         "minor_version": "1",
         "subpage": [],
         "publish": false
       },
       {
-        "page_suid": "HhvGRytJTm",
-        "page_title": "Troubleshooting",
-        "page_slug": "troubleshooting",
-        "page_type": "empty",
+        "pageSuid": "HhvGRytJTm",
+        "pageTitle": "Troubleshooting",
+        "pageSlug": "troubleshooting",
+        "pageType": "empty",
         "minor_version": "1",
         "subpage": [],
         "publish": false
       },
       {
-        "page_suid": "BgPeuLY4Ir",
-        "page_title": "Video tutorials",
-        "page_slug": "video-tutorials",
-        "page_type": "empty",
+        "pageSuid": "BgPeuLY4Ir",
+        "pageTitle": "Video tutorials",
+        "pageSlug": "video-tutorials",
+        "pageType": "empty",
         "minor_version": "1",
         "subpage": [],
         "publish": false
       },
       {
-        "page_suid": "zdMQRcZTP9",
-        "page_title": "Cheat sheet",
-        "page_slug": "cheat-sheet",
-        "page_type": "empty",
+        "pageSuid": "zdMQRcZTP9",
+        "pageTitle": "Cheat sheet",
+        "pageSlug": "cheat-sheet",
+        "pageType": "empty",
         "minor_version": "1",
         "subpage": [],
         "publish": false
@@ -256,41 +256,41 @@
     "publish": false
   },
   {
-    "page_suid": "REjK1pggPt",
-    "page_title": "MadProjectorControl",
-    "page_slug": "madprojectorcontrol",
-    "page_type": "card",
+    "pageSuid": "REjK1pggPt",
+    "pageTitle": "MadProjectorControl",
+    "pageSlug": "madprojectorcontrol",
+    "pageType": "card",
     "minor_version": "",
     "subpage": [
       {
-        "page_suid": "Kc08Ll314e",
-        "page_title": "Getting started",
-        "page_slug": "getting-started",
-        "page_type": "empty",
+        "pageSuid": "Kc08Ll314e",
+        "pageTitle": "Getting started",
+        "pageSlug": "getting-started",
+        "pageType": "empty",
         "minor_version": "",
         "subpage": []
       },
       {
-        "page_suid": "Lb8l9Ex6ct",
-        "page_title": "Setup",
-        "page_slug": "setup",
-        "page_type": "empty",
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageTitle": "Setup",
+        "pageSlug": "setup",
+        "pageType": "empty",
         "minor_version": "",
         "subpage": []
       },
       {
-        "page_suid": "YfZAQTcHwA",
-        "page_title": "Controls",
-        "page_slug": "controls",
-        "page_type": "empty",
+        "pageSuid": "YfZAQTcHwA",
+        "pageTitle": "Controls",
+        "pageSlug": "controls",
+        "pageType": "empty",
         "minor_version": "",
         "subpage": []
       },
       {
-        "page_suid": "KetWCvrFUy",
-        "page_title": "Video tutorials",
-        "page_slug": "video-tutorials",
-        "page_type": "empty",
+        "pageSuid": "KetWCvrFUy",
+        "pageTitle": "Video tutorials",
+        "pageSlug": "video-tutorials",
+        "pageType": "empty",
         "minor_version": "",
         "subpage": []
       }
