@@ -1,6 +1,6 @@
 [
-	{
-    "media_id": "weoEvxIOwT",
+  {
+    "mediaId": "weoEvxIOwT",
     "filename": "City shader MadMapper.jpg",
     "imgName": "City shader MadMapper",
     "ext": "jpg",
@@ -34,16 +34,20 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "YHwM11Cm4K",
-				"pageSlug": "getting-started"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "YHwM11Cm4K",
+        "pageSlug": "getting-started"
+      },
+      {
+        "pageSuid": "7HuEqFM26Q",
+        "pageSlug": "test2"
+      }
+    ]
   },
   {
-    "media_id": "2ubObORBVW",
+    "mediaId": "2ubObORBVW",
     "filename": "moustachat.jpg",
     "imgName": "moustachat",
     "ext": "jpg",
@@ -69,46 +73,67 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "YHwM11Cm4K",
-				"pageSlug": "getting-started"
-			},
-			{
-				"pageSuid": "7HuEqFM26Q",
-				"pageSlug": "test2"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "YHwM11Cm4K",
+        "pageSlug": "getting-started"
+      },
+      {
+        "pageSuid": "7HuEqFM26Q",
+        "pageSlug": "test2"
+      }
+    ]
   },
-	{
-    "media_id": "Q9SLPv8EXT",
+  {
+    "mediaId": "Q9SLPv8EXT",
     "filename": "Decoding the Cube.jpg",
     "imgName": "Decoding the Cube",
     "ext": "jpg",
     "mimetype": "image/jpeg",
     "folder": "/MzeYYHIzCL-test/medias",
     "url": "/Decoding the Cube.jpg",
-    "captions": { "en": "" },
+    "captions": {
+      "en": ""
+    },
     "size": [
-      { "name": "full", "dimension": 1920 },
-      { "name": "large", "dimension": 1440 },
-      { "name": "big", "dimension": 600 },
-      { "name": "small", "dimension": 350 },
-      { "name": "thumbnail", "dimension": 256 }
+      {
+        "name": "full",
+        "dimension": 1920
+      },
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "MzeYYHIzCL",
-				"pageSlug": "test"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "MzeYYHIzCL",
+        "pageSlug": "test"
+      },
+      {
+        "pageSuid": "7HuEqFM26Q",
+        "pageSlug": "test2"
+      }
+    ]
   },
-	{
-    "media_id": "m59OAhs8Z7",
+  {
+    "mediaId": "m59OAhs8Z7",
     "filename": "MadProjectoControl setup.png",
     "imgName": "MadProjectoControl setup",
     "ext": "png",
@@ -138,16 +163,20 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      },
+      {
+        "pageSuid": "7HuEqFM26Q",
+        "pageSlug": "test2"
+      }
+    ]
   },
   {
-    "media_id": "JCbgQUP2Mr",
+    "mediaId": "JCbgQUP2Mr",
     "filename": "MadProjectorControl icon list.png",
     "imgName": "MadProjectorControl icon list",
     "ext": "png",
@@ -177,16 +206,20 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      },
+      {
+        "pageSuid": "7HuEqFM26Q",
+        "pageSlug": "test2"
+      }
+    ]
   },
   {
-    "media_id": "tPmzn5lW8G",
+    "mediaId": "tPmzn5lW8G",
     "filename": "MadProjectoControl add module.png",
     "imgName": "MadProjectoControl add module",
     "ext": "png",
@@ -204,16 +237,20 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      },
+      {
+        "pageSuid": "7HuEqFM26Q",
+        "pageSlug": "test2"
+      }
+    ]
   },
   {
-    "media_id": "hvLSl4UqYx",
+    "mediaId": "hvLSl4UqYx",
     "filename": "MadProjectorControl module logo.png",
     "imgName": "MadProjectorControl module logo",
     "ext": "png",
@@ -239,16 +276,20 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      },
+      {
+        "pageSuid": "7HuEqFM26Q",
+        "pageSlug": "test2"
+      }
+    ]
   },
   {
-    "media_id": "6kjToU4vdH",
+    "mediaId": "6kjToU4vdH",
     "filename": "MadProjectoControl Target 1.png",
     "imgName": "MadProjectoControl Target 1",
     "ext": "png",
@@ -274,16 +315,20 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      },
+      {
+        "pageSuid": "7HuEqFM26Q",
+        "pageSlug": "test2"
+      }
+    ]
   },
   {
-    "media_id": "q5aV2G56rn",
+    "mediaId": "q5aV2G56rn",
     "filename": "MadProjectoControl Target 2.png",
     "imgName": "MadProjectoControl Target 2",
     "ext": "png",
@@ -309,16 +354,20 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      },
+      {
+        "pageSuid": "7HuEqFM26Q",
+        "pageSlug": "test2"
+      }
+    ]
   },
   {
-    "media_id": "UdhIabR94Q",
+    "mediaId": "UdhIabR94Q",
     "filename": "MadProjectoControl Target 3.png",
     "imgName": "MadProjectoControl Target 3",
     "ext": "png",
@@ -344,16 +393,16 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      }
+    ]
   },
   {
-    "media_id": "KuACdfH2mJ",
+    "mediaId": "KuACdfH2mJ",
     "filename": "MadProjectoControl Target 4.png",
     "imgName": "MadProjectoControl Target 4",
     "ext": "png",
@@ -379,16 +428,20 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      },
+      {
+        "pageSuid": "7HuEqFM26Q",
+        "pageSlug": "test2"
+      }
+    ]
   },
   {
-    "media_id": "BjHe9QAJFL",
+    "mediaId": "BjHe9QAJFL",
     "filename": "MadProjectoControl Target 5.png",
     "imgName": "MadProjectoControl Target 5",
     "ext": "png",
@@ -414,16 +467,16 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      }
+    ]
   },
   {
-    "media_id": "64DrM1gSKa",
+    "mediaId": "64DrM1gSKa",
     "filename": "MadProjectoControl Controls 1.png",
     "imgName": "MadProjectoControl Controls 1",
     "ext": "png",
@@ -449,16 +502,16 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      }
+    ]
   },
   {
-    "media_id": "MSOKK2SrUX",
+    "mediaId": "MSOKK2SrUX",
     "filename": "MadProjectoControl Controls 2.png",
     "imgName": "MadProjectoControl Controls 2",
     "ext": "png",
@@ -484,16 +537,16 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      }
+    ]
   },
   {
-    "media_id": "tte6Uhuy8b",
+    "mediaId": "tte6Uhuy8b",
     "filename": "MadProjectoControl Controls 3.png",
     "imgName": "MadProjectoControl Controls 3",
     "ext": "png",
@@ -519,16 +572,16 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      }
+    ]
   },
   {
-    "media_id": "iRwlk21QWK",
+    "mediaId": "iRwlk21QWK",
     "filename": "MadProjectoControl Info.png",
     "imgName": "MadProjectoControl Info",
     "ext": "png",
@@ -554,16 +607,16 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      }
+    ]
   },
   {
-    "media_id": "R6uEOW64qF",
+    "mediaId": "R6uEOW64qF",
     "filename": "mpc 1.png",
     "imgName": "mpc 1",
     "ext": "png",
@@ -589,16 +642,16 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Lb8l9Ex6ct",
-				"pageSlug": "setup"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Lb8l9Ex6ct",
+        "pageSlug": "setup"
+      }
+    ]
   },
-	{
-    "media_id": "Dj8lwxGEuv",
+  {
+    "mediaId": "Dj8lwxGEuv",
     "filename": "MadProjectorControl MadMapper.jpg",
     "imgName": "MadProjectorControl MadMapper",
     "ext": "jpg",
@@ -632,16 +685,16 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "Kc08Ll314e",
-				"pageSlug": "getting-started"
-			}
-		]
-	},
-	{
-    "media_id": "MjUpeEv7ts",
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "Kc08Ll314e",
+        "pageSlug": "getting-started"
+      }
+    ]
+  },
+  {
+    "mediaId": "MjUpeEv7ts",
     "filename": "Screenshot 2025-04-29 at 22.21.20.png",
     "imgName": "Screenshot 2025-04-29 at 22.21.20",
     "ext": "png",
@@ -675,16 +728,16 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "IfpZwdwuwQ",
-				"pageSlug": "about"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "IfpZwdwuwQ",
+        "pageSlug": "about"
+      }
+    ]
   },
-	{
-    "media_id": "WCVX3SjrQT",
+  {
+    "mediaId": "WCVX3SjrQT",
     "filename": "MadAI city.jpg",
     "imgName": "MadAI city",
     "ext": "jpg",
@@ -718,16 +771,16 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "eu02LAaJNr",
-				"pageSlug": "madai-(test)"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "eu02LAaJNr",
+        "pageSlug": "madai-(test)"
+      }
+    ]
   },
   {
-    "media_id": "4mWPVVI73p",
+    "mediaId": "4mWPVVI73p",
     "filename": "MadAI Material 3.jpg",
     "imgName": "MadAI Material 3",
     "ext": "jpg",
@@ -761,16 +814,16 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "eu02LAaJNr",
-				"pageSlug": "madai-(test)"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "eu02LAaJNr",
+        "pageSlug": "madai-(test)"
+      }
+    ]
   },
   {
-    "media_id": "WRu8lASiun",
+    "mediaId": "WRu8lASiun",
     "filename": "MadAI city shader.jpg",
     "imgName": "MadAI city shader",
     "ext": "jpg",
@@ -804,16 +857,16 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "eu02LAaJNr",
-				"pageSlug": "madai-(test)"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "eu02LAaJNr",
+        "pageSlug": "madai-(test)"
+      }
+    ]
   },
-	{
-    "media_id": "Jp8RPeE9UG",
+  {
+    "mediaId": "Jp8RPeE9UG",
     "filename": "7C3C6A98-D1A3-434D-B46F-A6B075411841.png",
     "imgName": "7C3C6A98-D1A3-434D-B46F-A6B075411841",
     "ext": "png",
@@ -843,16 +896,16 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "59olGxDPUn",
-				"pageSlug": "test5"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "59olGxDPUn",
+        "pageSlug": "test5"
+      }
+    ]
   },
   {
-    "media_id": "4pK0OHhSso",
+    "mediaId": "4pK0OHhSso",
     "filename": "burger.jpg",
     "imgName": "burger",
     "ext": "jpg",
@@ -878,37 +931,51 @@
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "59olGxDPUn",
-				"pageSlug": "test5"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "59olGxDPUn",
+        "pageSlug": "test5"
+      }
+    ]
   },
-	{
-    "media_id": "bXSlBADU39",
+  {
+    "mediaId": "bXSlBADU39",
     "filename": "truc.png",
     "imgName": "truc",
     "ext": "png",
     "mimetype": "image/png",
     "folder": "/7HuEqFM26Q-test2/medias",
     "url": "/truc.png",
-    "captions": { "en": "" },
+    "captions": {
+      "en": ""
+    },
     "size": [
-      { "name": "large", "dimension": 1440 },
-      { "name": "big", "dimension": 600 },
-      { "name": "small", "dimension": 350 },
-      { "name": "thumbnail", "dimension": 256 }
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
     ],
     "retina": false,
     "edited": 0,
-    "source_id": null,
-		"pages": [
-			{
-				"pageSuid": "7HuEqFM26Q",
-				"pageSlug": "test2"
-			}
-		]
+    "sourceId": null,
+    "pages": [
+      {
+        "pageSuid": "7HuEqFM26Q",
+        "pageSlug": "test2"
+      }
+    ]
   }
 ]
