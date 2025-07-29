@@ -282,6 +282,15 @@
         "publish": false
       },
       {
+        "pageSuid": "eVvib4v3Ti",
+        "pageTitle": "About PJlink",
+        "pageSlug": "about-pjlink",
+        "page_type": "empty",
+        "minor_version": "",
+        "subpage": [],
+        "publish": false
+      },
+      {
         "pageSuid": "KetWCvrFUy",
         "pageTitle": "Video tutorials",
         "pageSlug": "video-tutorials",
