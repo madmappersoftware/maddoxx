@@ -283,15 +283,23 @@
         "pageTitle": "Video tutorials",
         "pageSlug": "video-tutorials",
         "pageType": "empty",
-				"minor_version": "",
+        "minor_version": "",
         "subpage": []
       },
-			{
+      {
         "pageSuid": "qs8H9HL8AL",
         "pageTitle": "Troubleshooting",
         "pageSlug": "troubleshooting",
-        "page_type": "empty",
+        "pageType": "empty",
         "minor_version": "",
+        "subpage": []
+      },
+      {
+        "pageSuid": "gm8qyuAi4I",
+        "pageTitle": "mouimoui",
+        "pageSlug": "mouimoui",
+        "page_type": "empty",
+        "minor_version": "0",
         "subpage": []
       }
     ]
