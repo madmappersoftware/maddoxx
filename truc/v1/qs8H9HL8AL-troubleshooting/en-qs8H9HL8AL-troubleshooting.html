@@ -1,0 +1,17 @@
+<h2 class="int-link-anchors">Troubleshooting</h2>
+<h4>My Projector is PJLink-enabled but I can&rsquo;t make it work</h4>
+<p>First, all the projectors you want to control must be physically connected to the same ethernet network. Then, they must be configured with an IP address / mask that&rsquo;s compatible with the computer running MadMapper.</p>
+<p>To connect to a projector, you can either rely on PJLink discovery protocol (which is not supported by all PJLink-enabled device) to find all the supported-devices IP addresses (that can take up to 30 seconds after MadMapper has started) and select the one you want to control in Device, or manually input the projector IP by selecting the &ldquo;Custom&rdquo; Device.</p>
+<h4>Do we plan to support more video-projectors control protocols?</h4>
+<p>Yes, we would like to, but nothing has been planned yet.</p>
+<p>Feel free to share your request on the garageCube forum.</p>
+<h4>Can I remotely control Laser projectors with MadProjectorControl?</h4>
+<p>The extension&rsquo;s module currently works with PJLink-compatible video-projectors only.</p>
+<h4>Why doesn&rsquo;t my video-projector appear in the Device list?</h4>
+<p>Not all PJLink-compatible video-projector support being discovered on the network.</p>
+<h4>Why does my video-projector sometimes take a long time to respond to the module&rsquo;s controls?</h4>
+<p>In such cases, this is due to the fact that your projector is already busy with another task. It is therefore normal that the reactivity varies.</p>
+<h4>Why are the info and status sometimes incorrect?</h4>
+<p>Depending on the brand &amp; model, the quality of the PJLink implementation in the video-projector may vary. High-end brands &amp; models tend to have a better implementation and respond quickly to commands. To the contrary, low-end models may display incomplete info, miss the warming up &amp; cooling down status, and temporally display an incorrect mute status right after being powered-on.</p>
+<h4>Why does my video-projector still project some light when Muted?</h4>
+<p>Some low-end models, even though they have a light-source that can shutdown instantly, keep it on and only blank the video-signal, resulting in a dim but visible projection.</p>

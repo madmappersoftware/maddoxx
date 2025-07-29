@@ -375,5 +375,34 @@
     "retina": false,
     "edited": 0,
     "source_id": null
+  },
+  {
+    "media_id": "R6uEOW64qF",
+    "filename": "mpc 1.png",
+    "imgName": "mpc 1",
+    "ext": "png",
+    "mimetype": "image/png",
+    "folder": "/Lb8l9Ex6ct-setup/medias",
+    "url": "/mpc 1.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "source_id": null
   }
 ]

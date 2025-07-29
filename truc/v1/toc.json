@@ -279,18 +279,32 @@
         "subpage": []
       },
       {
+<<<<<<< Updated upstream
         "pageSuid": "YfZAQTcHwA",
         "pageTitle": "Controls",
         "pageSlug": "controls",
         "pageType": "empty",
+=======
+        "page_suid": "KetWCvrFUy",
+        "page_title": "Video tutorials",
+        "page_slug": "video-tutorials",
+        "page_type": "empty",
+>>>>>>> Stashed changes
         "minor_version": "",
         "subpage": []
       },
       {
+<<<<<<< Updated upstream
         "pageSuid": "KetWCvrFUy",
         "pageTitle": "Video tutorials",
         "pageSlug": "video-tutorials",
         "pageType": "empty",
+=======
+        "page_suid": "qs8H9HL8AL",
+        "page_title": "Troubleshooting",
+        "page_slug": "troubleshooting",
+        "page_type": "empty",
+>>>>>>> Stashed changes
         "minor_version": "",
         "subpage": []
       }
