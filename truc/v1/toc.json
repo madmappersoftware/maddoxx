@@ -94,7 +94,8 @@
         "pageSlug": "truc",
         "pageType": "empty",
         "minor_version": "1",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       }
     ],
     "publish": true
@@ -268,7 +269,8 @@
         "pageSlug": "getting-started",
         "pageType": "empty",
         "minor_version": "",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       },
       {
         "pageSuid": "Lb8l9Ex6ct",
@@ -276,32 +278,28 @@
         "pageSlug": "setup",
         "pageType": "empty",
         "minor_version": "",
-        "subpage": []
-      },
-      {
-        "page_suid": "KetWCvrFUy",
-        "page_title": "Video tutorials",
-        "page_slug": "video-tutorials",
-        "page_type": "empty",
-        "minor_version": "",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       },
       {
         "pageSuid": "KetWCvrFUy",
         "pageTitle": "Video tutorials",
         "pageSlug": "video-tutorials",
-        "pageType": "empty",
-				"minor_version": "",
-        "subpage": []
+        "page_type": "empty",
+        "minor_version": "",
+        "subpage": [],
+        "publish": false
       },
-			{
+      {
         "pageSuid": "qs8H9HL8AL",
         "pageTitle": "Troubleshooting",
         "pageSlug": "troubleshooting",
         "page_type": "empty",
         "minor_version": "",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       }
-    ]
+    ],
+    "publish": false
   }
 ]
