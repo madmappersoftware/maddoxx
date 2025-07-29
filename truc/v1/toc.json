@@ -94,7 +94,8 @@
         "pageSlug": "truc",
         "pageType": "empty",
         "minor_version": "1",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       }
     ],
     "publish": true
@@ -268,7 +269,8 @@
         "pageSlug": "getting-started",
         "pageType": "empty",
         "minor_version": "",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       },
       {
         "pageSuid": "Lb8l9Ex6ct",
@@ -276,7 +278,17 @@
         "pageSlug": "setup",
         "pageType": "empty",
         "minor_version": "",
-        "subpage": []
+        "subpage": [],
+        "publish": false
+      },
+      {
+        "pageSuid": "eVvib4v3Ti",
+        "pageTitle": "About PJlink",
+        "pageSlug": "about-pjlink",
+        "pageType": "empty",
+        "minor_version": "",
+        "subpage": [],
+        "publish": false
       },
       {
         "pageSuid": "KetWCvrFUy",
@@ -284,7 +296,8 @@
         "pageSlug": "video-tutorials",
         "pageType": "empty",
         "minor_version": "",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       },
       {
         "pageSuid": "qs8H9HL8AL",
@@ -292,16 +305,19 @@
         "pageSlug": "troubleshooting",
         "pageType": "empty",
         "minor_version": "",
-        "subpage": []
+        "subpage": [],
+				"publish": false
       },
       {
         "pageSuid": "gm8qyuAi4I",
         "pageTitle": "mouimoui",
         "pageSlug": "mouimoui",
-        "page_type": "empty",
+        "pageType": "empty",
         "minor_version": "0",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       }
-    ]
+    ],
+    "publish": false
   }
 ]
