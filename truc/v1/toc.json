@@ -314,7 +314,17 @@
         "pageSlug": "licensing",
         "pageType": "empty",
         "minorVersion": "",
-        "subpage": []
+        "subpage": [],
+        "publish": false
+      },
+      {
+        "pageSuid": "MlxZgpSLTw",
+        "pageTitle": "Project Tutorial",
+        "pageSlug": "project-tutorial",
+        "pageType": "empty",
+        "minorVersion": "",
+        "subpage": [],
+        "publish": false
       }
     ],
     "publish": false
