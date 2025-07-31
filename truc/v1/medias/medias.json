@@ -971,6 +971,10 @@
       {
         "pageSuid": "7HuEqFM26Q",
         "pageSlug": "test2"
+      },
+      {
+        "pageSuid": "TrR5k9Yb6v",
+        "pageSlug": "truc"
       }
     ]
   },
@@ -1007,6 +1011,38 @@
       {
         "pageSuid": "eVvib4v3Ti",
         "pageSlug": "about-pjlink"
+      }
+    ]
+  },
+  {
+    "mediaId": "ji8O1OfWnn",
+    "filename": "all versions.png",
+    "imgName": "all versions",
+    "ext": "png",
+    "mimetype": "image/png",
+    "folder": "/medias",
+    "url": "/all versions.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-07-31T08:09:31.972Z",
+    "pages": [
+      {
+        "pageSuid": "MzeYYHIzCL",
+        "pageSlug": "test"
       }
     ]
   }

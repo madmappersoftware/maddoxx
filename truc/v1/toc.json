@@ -12,6 +12,15 @@
         "pageType": "empty",
         "subpage": [],
         "publish": true
+      },
+      {
+        "pageSuid": "TrR5k9Yb6v",
+        "pageTitle": "truc",
+        "pageSlug": "truc",
+        "pageType": "empty",
+        "minor_version": "1",
+        "subpage": [],
+        "publish": false
       }
     ],
     "publish": true
@@ -86,15 +95,6 @@
             "publish": false
           }
         ],
-        "publish": false
-      },
-      {
-        "pageSuid": "TrR5k9Yb6v",
-        "pageTitle": "truc",
-        "pageSlug": "truc",
-        "pageType": "empty",
-        "minor_version": "1",
-        "subpage": [],
         "publish": false
       }
     ],
