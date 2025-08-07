@@ -258,8 +258,8 @@
   },
   {
     "pageSuid": "REjK1pggPt",
-    "pageTitle": "MadProjectorControl",
-    "pageSlug": "madprojectorcontrol",
+    "pageTitle": "MadProjectorControl (test)",
+    "pageSlug": "madprojectorcontrol-(test)",
     "pageType": "card",
     "minor_version": "",
     "subpage": [
@@ -282,15 +282,6 @@
         "publish": false
       },
       {
-        "pageSuid": "eVvib4v3Ti",
-        "pageTitle": "About PJlink",
-        "pageSlug": "about-pjlink",
-        "pageType": "empty",
-        "minor_version": "",
-        "subpage": [],
-        "publish": false
-      },
-      {
         "pageSuid": "KetWCvrFUy",
         "pageTitle": "Video tutorials",
         "pageSlug": "video-tutorials",
@@ -305,15 +296,6 @@
         "pageSlug": "troubleshooting",
         "pageType": "empty",
         "minor_version": "",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "MlxZgpSLTw",
-        "pageTitle": "Project Tutorial",
-        "pageSlug": "project-tutorial",
-        "pageType": "empty",
-        "minorVersion": "",
         "subpage": [],
         "publish": false
       }
