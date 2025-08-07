@@ -192,7 +192,17 @@
             "pageTitle": "yoplay",
             "pageSlug": "yoplay",
             "pageType": "empty",
-            "subpage": [],
+            "subpage": [
+              {
+                "pageSuid": "lv4Xeb8euj",
+                "pageTitle": "Getting Started",
+                "pageSlug": "getting-started",
+                "pageType": "empty",
+                "minorVersion": "",
+                "subpage": [],
+                "publish": false
+              }
+            ],
             "publish": false
           }
         ],
@@ -232,7 +242,17 @@
         "pageSlug": "troubleshooting",
         "pageType": "empty",
         "minor_version": "1",
-        "subpage": [],
+        "subpage": [
+          {
+            "pageSuid": "zZPjspww5S",
+            "pageTitle": "Getting Started",
+            "pageSlug": "getting-started",
+            "pageType": "empty",
+            "minorVersion": "",
+            "subpage": [],
+            "publish": false
+          }
+        ],
         "publish": false
       },
       {
@@ -296,6 +316,151 @@
         "pageSlug": "troubleshooting",
         "pageType": "empty",
         "minor_version": "",
+        "subpage": [],
+        "publish": false
+      }
+    ],
+    "publish": false
+  },
+  {
+    "pageSuid": "7IxQn3GEHe",
+    "pageTitle": "MiniMad (test)",
+    "pageSlug": "minimad-(test)",
+    "pageType": "card",
+    "minorVersion": "",
+    "subpage": [
+      {
+        "pageSuid": "eQfpYNVGAP",
+        "pageTitle": "Getting Started",
+        "pageSlug": "getting-started",
+        "pageType": "card",
+        "minorVersion": "",
+        "subpage": [
+          {
+            "pageSuid": "w7Az8ZY3AV",
+            "pageTitle": "Overview",
+            "pageSlug": "overview",
+            "pageType": "empty",
+            "minorVersion": "",
+            "subpage": []
+          },
+          {
+            "pageSuid": "z7EkpGGwe8",
+            "pageTitle": "Quick Start",
+            "pageSlug": "quick-start",
+            "pageType": "empty",
+            "minorVersion": "",
+            "subpage": []
+          },
+          {
+            "pageSuid": "ck8veo2Csg",
+            "pageTitle": "SD card",
+            "pageSlug": "sd-card",
+            "pageType": "empty",
+            "minorVersion": "",
+            "subpage": []
+          }
+        ],
+        "publish": false
+      },
+      {
+        "pageSuid": "XxQpQNUKy0",
+        "pageTitle": "MiniMad Video",
+        "pageSlug": "minimad-video",
+        "pageType": "card",
+        "minorVersion": "",
+        "subpage": [
+          {
+            "pageSuid": "DCOLmEgZEP",
+            "pageTitle": "Features",
+            "pageSlug": "features",
+            "pageType": "empty",
+            "minorVersion": "",
+            "subpage": [],
+            "publish": false
+          },
+          {
+            "pageSuid": "6CF0wlxzlQ",
+            "pageTitle": "Controls",
+            "pageSlug": "controls",
+            "pageType": "empty",
+            "minorVersion": "",
+            "subpage": [],
+            "publish": false
+          },
+          {
+            "pageSuid": "WGjMx58FGN",
+            "pageTitle": "Video Tutorials",
+            "pageSlug": "video-tutorials",
+            "pageType": "empty",
+            "minorVersion": "",
+            "subpage": [],
+            "publish": false
+          }
+        ],
+        "publish": false
+      },
+      {
+        "pageSuid": "zKk3XJrhlC",
+        "pageTitle": "MiniMad Light",
+        "pageSlug": "minimad-light",
+        "pageType": "card",
+        "minorVersion": "",
+        "subpage": [
+          {
+            "pageSuid": "1VXft8og0q",
+            "pageTitle": "Features",
+            "pageSlug": "features",
+            "pageType": "empty",
+            "minorVersion": "",
+            "subpage": [],
+            "publish": false
+          },
+          {
+            "pageSuid": "mb7HDs2Uxw",
+            "pageTitle": "Controls",
+            "pageSlug": "controls",
+            "pageType": "empty",
+            "minorVersion": "",
+            "subpage": [],
+            "publish": false
+          },
+          {
+            "pageSuid": "OPECunlVE6",
+            "pageTitle": "Video Tutorials",
+            "pageSlug": "video-tutorials",
+            "pageType": "empty",
+            "minorVersion": "",
+            "subpage": [],
+            "publish": false
+          }
+        ],
+        "publish": false
+      },
+      {
+        "pageSuid": "5KSdVdgwzl",
+        "pageTitle": "TouchOSC",
+        "pageSlug": "touchosc",
+        "pageType": "empty",
+        "minorVersion": "",
+        "subpage": [],
+        "publish": false
+      },
+      {
+        "pageSuid": "kB6rwfEBeB",
+        "pageTitle": "Additional Information",
+        "pageSlug": "additional-information",
+        "pageType": "empty",
+        "minorVersion": "",
+        "subpage": [],
+        "publish": false
+      },
+      {
+        "pageSuid": "yXN7fuKTkI",
+        "pageTitle": "Troubleshooting",
+        "pageSlug": "troubleshooting",
+        "pageType": "empty",
+        "minorVersion": "",
         "subpage": [],
         "publish": false
       }
