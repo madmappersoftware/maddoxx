@@ -1209,5 +1209,85 @@
         "pageSlug": "features"
       }
     ]
+  },
+  {
+    "mediaId": "cWMhXzh1xm",
+    "filename": "minimad export 2.png",
+    "imgName": "minimad export 2",
+    "ext": "png",
+    "mimetype": "image/png",
+    "folder": "/medias",
+    "url": "/minimad export 2.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-07T11:18:24.073Z",
+    "pages": [
+      {
+        "pageSuid": "LLalzPH0Be",
+        "pageSlug": "export"
+      }
+    ]
+  },
+  {
+    "mediaId": "bzs5zmc5Xf",
+    "filename": "minimad export 1.png",
+    "imgName": "minimad export 1",
+    "ext": "png",
+    "mimetype": "image/png",
+    "folder": "/medias",
+    "url": "/minimad export 1.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-07T11:19:08.507Z",
+    "pages": [
+      {
+        "pageSuid": "LLalzPH0Be",
+        "pageSlug": "export"
+      }
+    ]
   }
 ]

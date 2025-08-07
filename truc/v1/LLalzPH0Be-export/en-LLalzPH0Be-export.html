@@ -1,0 +1,37 @@
+<h2 class="int-link-anchors">MiniMad Video Export</h2>
+<p class="p1">In MadMapper, click&nbsp;<strong>File &gt; Export Video Mapping to MiniMad.</strong></p>
+<p class="p1">&nbsp;</p>
+<p class="p1">FFmpeg Tools is required to export MadMapper project to MiniMad, so please download FFmpeg Tools Installer&nbsp;using the provided link.</p>
+<p class="p1">&nbsp;</p>
+<p class="p1">You can either insert the MiniMad SD-card in your computer, or select a remote MiniMad.&nbsp;To connect remotely, your MiniMad must be powered on and connected to the same local ethernet network as&nbsp;MadMapper, or even through a VPN connection.</p>
+<p class="p1">&nbsp;</p>
+<p class="p1">In MadMapper, you can either select your MiniMad in the list of MiniMad units found on the network using Bonjour, or connect manually by entering the MiniMad&rsquo;s hostname or IP address (if you chose to disable Bonjour in a prior MiniMad export, or you want to connect to the MiniMad through a VPN for instance).</p>
+<p class="p1">&nbsp;</p>
+<p class="p1">When selecting a remote MiniMad, MadMapper may inform you that your MiniMad operating-system is not yet&nbsp;compatible with remote export. In this case, you would need to flash your MiniMad SD-card using the latest&nbsp;MiniMad Disk Image in order to export to the MiniMad remotely.</p>
+<div class="alert-banner-notes">
+<p class="p1">The whole flashing procedure is detailed in the Getting Started / Quick Start section.</p>
+</div>
+<p class="p1">&nbsp;</p>
+<p class="p1">If necessary, MadMapper will update the MiniMad Video application automatically prior to export too.</p>
+<p class="p1">&nbsp;</p>
+<p class="p1"><img src="minimad export 1.png" width="286" height="565" data-media-id="bzs5zmc5Xf">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="minimad export 2.png" width="275" height="567" data-media-id="cWMhXzh1xm"></p>
+<p class="p1">&nbsp;</p>
+<p class="p1">Then, select the projector you want to export to MiniMad, adjust the output resolution, the audio output,&nbsp;the playback options, optionally unselect and reorder your medias.&nbsp;In the case your mapping consists in a single fullscreen-quad with no color correction applied - typically&nbsp;when displaying on a TV-screen, a video-wall, a straight video-projection or perspective-corrected by&nbsp;the projector itself - MadMapper will propose you to switch the Fullscreen maximum quality mode on, so&nbsp;your media will be exported using the best possible resolution (up to 1080p30).</p>
+<div class="alert-banner-warning">
+<p class="p1">Note that when this mode is on, mapping and color correction controls are disabled on the MiniMad.</p>
+</div>
+<p class="p1">&nbsp;</p>
+<p class="p1">You can also specify a nickname for the the Bonjour OSC Discovery, or disable it completely to prevent the&nbsp;MiniMad from appearing in applications supporting Bonjour.</p>
+<p class="p1">(cf CONTROLS / OSC section for more details).</p>
+<p class="p1">&nbsp;</p>
+<p class="p1">For <strong>OSC control</strong>, you can either select automatic network configuration or manual network configuration&nbsp;and input the IP-address and mask the MiniMad will use on the network.</p>
+<p class="p1">&nbsp;</p>
+<p class="p1">When using automatic network configuration, the MiniMad will try to acquire its IP address and&nbsp;mask from a DHCP server if there&rsquo;s one available on the network, else it will use its internal network&nbsp;configuration mechanism, getting a random 169.x.y.z IP address with a 255.0.0.0 network mask.</p>
+<p class="p1">When using manual network configuration, and in case you export to several MiniMad units on the same&nbsp;network, make sure each MiniMad has a unique IP address.</p>
+<p class="p1">&nbsp;</p>
+<p class="p1">Once your mapping and media has already been exported to the MiniMad, you then have to option to&nbsp;either export the mapping or the media.&nbsp;You can also reset all of the export settings to default by clicking &ldquo;Load Default Settings&rdquo;.</p>
+<p class="p1">&nbsp;</p>
+<p class="p1"><strong>Finally, click the &ldquo;Export&rdquo; button to start the export.</strong></p>
+<p class="p1">&nbsp;</p>
+<p class="p1">The process may take some time depending on the number of movie files and their duration.&nbsp;MadMapper will avoid transcoding movie files that are already optimised on the SD-card.&nbsp;Once exported, the SD-card should be automatically ejected so you can directly stick it in your MiniMad.</p>
+<p class="p1">&nbsp;</p>

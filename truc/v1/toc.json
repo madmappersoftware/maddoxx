@@ -342,7 +342,8 @@
             "pageSlug": "overview",
             "pageType": "empty",
             "minorVersion": "",
-            "subpage": []
+            "subpage": [],
+            "publish": false
           },
           {
             "pageSuid": "z7EkpGGwe8",
@@ -350,7 +351,8 @@
             "pageSlug": "quick-start",
             "pageType": "empty",
             "minorVersion": "",
-            "subpage": []
+            "subpage": [],
+            "publish": false
           }
         ],
         "publish": false
@@ -366,6 +368,24 @@
             "pageSuid": "DCOLmEgZEP",
             "pageTitle": "Must Know",
             "pageSlug": "must-know",
+            "pageType": "empty",
+            "minorVersion": "",
+            "subpage": [],
+            "publish": false
+          },
+          {
+            "pageSuid": "LLalzPH0Be",
+            "pageTitle": "Export",
+            "pageSlug": "export",
+            "pageType": "empty",
+            "minorVersion": "",
+            "subpage": [],
+            "publish": false
+          },
+          {
+            "pageSuid": "ADM3fRTT3m",
+            "pageTitle": "Network Synchronisation",
+            "pageSlug": "network-synchronisation",
             "pageType": "empty",
             "minorVersion": "",
             "subpage": [],

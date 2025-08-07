@@ -1,0 +1,34 @@
+<h2 class="int-link-anchors">MiniMad Video Controls</h2>
+<h3>Buttons</h3>
+<h3>Keyboard</h3>
+<h3>MicroModul8</h3>
+<ul>
+<li class="p1">Blue buttons: direct access to the 16 first media</li>
+<li class="p1">First master knob: master luminosity</li>
+<li class="p1">Second master knob: master audio-level</li>
+</ul>
+<h3>OSC</h3>
+<p class="p1">The MiniMad declares itself as &ldquo;MiniMad Video( - Nickname)( - ProjectorName)&rdquo;, using the Bonjour&nbsp;protocol, where Nickname can be specified in the Advanced tab of the Export Video Mapping to&nbsp;MiniMad dialog, and ProjectorName is the name of the corresponding projector in MadMapper if there&nbsp;are several projectors in the project, for example: &ldquo;MiniMad Video - LOBBY - Projector-1&rdquo;.&nbsp;MiniMad listens to OSC commands on port 1111, in case the OSC software you&rsquo;re using doesn&rsquo;t support&nbsp;Bonjour.</p>
+<p class="p1">&nbsp;</p>
+<p class="p1">List of commands:</p>
+<ul>
+<li class="p1"><strong>/playing + integer OSC value (0 = pause, 1 = play)</strong>: play/pause the media playback</li>
+<li class="p1"><strong>/pause</strong>: pauses the playback</li>
+<li class="p1"><strong>/play</strong>: starts the playback after a pause</li>
+<li class="p1"><strong>/replay</strong>: restarts the current media / starts media over when in &ldquo;Play once&hellip;&rdquo; modes</li>
+<li class="p1"><strong>/previous_media</strong>: previous media</li>
+<li class="p1"><strong>/next_media</strong>: next media</li>
+<li class="p1"><strong>/playback_mode/{playback mode index}</strong>: set the playback mode (cf media playback mode list in MadMapper&rsquo;s export window), example: /playback_mode/1 will set &ldquo;Repeat media list&rdquo; playback mode</li>
+<li class="p1"><strong>/media_name/{media name}</strong>: set the current media by name, example: /media_name/machine-1. mov will play movie called machine-1 (on miniMAD movies have the .mov extension, images the .png extension)</li>
+<li class="p1"><strong>/media_index/{media index}</strong>: set the current media by index, example: /media_index/2 will play the third media in the playlist</li>
+<li class="p1"><strong>/media_index + integer OSC value</strong>: set the current media by index using a variable</li>
+<li class="p1"><strong>/image_time + integer OSC value</strong>: change the image display time in seconds</li>
+<li class="p1"><strong>/master_audio_level + float OSC value</strong>: master audio-level for the targeted MiniMad</li>
+<li class="p1"><strong>/master_luminosity + float OSC value</strong>: master luminosity for the targeted MiniMad</li>
+<li class="p1"><strong>/master_luminosity/all + float OSC value</strong>: master luminosity for all connected MiniMad units</li>
+<li class="p1"><strong>/shutdown + int OSC value</strong>: value = 1 will trigger the MiniMad shutdown which will be effective after 2,5 seconds, unless cancelled by a value = 0</li>
+<li class="p1"><strong>/shutdown/all + int OSC value</strong>: identical to /shutdown except it applies for all MiniMad units in the same group</li>
+</ul>
+<div class="alert-banner-notes">
+<p class="p1">Note that all indices start at 0.</p>
+</div>
