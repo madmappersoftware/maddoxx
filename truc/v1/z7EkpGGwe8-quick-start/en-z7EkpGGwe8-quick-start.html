@@ -1,10 +1,48 @@
-<p>General</p>
-<p>&nbsp;</p>
-<p class="p1">MiniMad is an all-in-one dedicated media playback device for video and LED mapping, based&nbsp;on the Raspberry Pi platform.&nbsp;Easy to use, small and versatile, it can be a good replacement for a computer in your future&nbsp;audiovisual installation.</p>
-<p class="p1">The MiniMad works with a SD-card that contains both the system and the software of the&nbsp;MiniMad.&nbsp;The MiniMad system can be updated or reinstalled if needed, by following the procedure&nbsp;described in the chapter called &ldquo;Flash your MiniMad SD-card&rdquo;.</p>
-<p class="p1">The MiniMad software is getting automatically updated when exporting from an updated&nbsp;version of Mad- Mapper.</p>
-<p class="p1">MiniMad can either be installed with MiniMad Video to play video-mapping, or with MiniMad&nbsp;Light to play recorded DMX sequences.</p>
-<p class="p1">Note that MiniMad Video and MiniMad Light cannot be installed at the same time on the same&nbsp;MiniMad.</p>
-<p class="p1">Finally, the SD-card must be activated for each new MiniMad it is used into.&nbsp;The SD-card is already activated in any brand new MiniMad.&nbsp;If you want to use a SD-card other than the one the MiniMad shipped with, please make sure&nbsp;to flash the latest system by following the chapter called &ldquo;Flash your MiniMad SD-card&rdquo; prior to</p>
-<p class="p1">activate it.&nbsp;At export time, MadMapper will remind you to activate when trying to export to a SD-card that</p>
-<p class="p1">was not yet activated.</p>
+<h2 class="int-link-anchors">Quick Start</h2>
+<h3>General</h3>
+<p class="p1">MiniMad is an all-in-one dedicated media playback device for video and LED mapping, based on the Raspberry Pi platform. Easy to use, small and versatile, it can be a good replacement for a computer in your future audiovisual installation.</p>
+<p class="p1">The MiniMad works with a SD-card that contains both the system and the software of the MiniMad. The MiniMad system can be updated or reinstalled if needed, by following the procedure described in the chapter called &ldquo;Flash your MiniMad SD-card&rdquo;. The MiniMad software is getting automatically updated when exporting from an updated version of MadMapper.</p>
+<p class="p1">MiniMad can either be installed with MiniMad Video to play video-mapping, or with MiniMad Light to play recorded DMX sequences. Note that MiniMad Video and MiniMad Light cannot be installed at the same time on the same MiniMad.</p>
+<p class="p1">Finally, the SD-card must be activated for each new MiniMad it is used into. The SD-card is already activated in any brand new MiniMad. If you want to use a SD-card other than the one the MiniMad shipped with, please make sure to flash the latest system by following the chapter called &ldquo;Flash your MiniMad SD-card&rdquo; prior to activate it. At export time, MadMapper will remind you to activate when trying to export to a SD-card that was not yet activated.</p>
+<p class="p1">&nbsp;</p>
+<p class="p1"><img src="Minimad 3.png" width="555" height="274" data-media-id="nuTWwmLS8d"></p>
+<h3>Turning the MiniMad On</h3>
+<p class="p1">Turning the MiniMad On is as simple as plugging it in.&nbsp;To avoid plugging it in and out, you can use an AC power-switch.&nbsp;If you want to schedule MiniMad&rsquo;s playback during the day, please refer to the TIPS &amp; TRICKS&nbsp;section.</p>
+<h3>Turning the MiniMad Off</h3>
+<p class="p1">Depending on the chosen export settings, you can safely disconnect the MiniMad from power,&nbsp;or be required to shutting it down properly to avoid data-corruption on the SD-card.&nbsp;Basically, data-corruptions happens when cutting the power of the MiniMad while it&rsquo;s writing on&nbsp;the SD-card, which can happen:</p>
+<ul>
+<li class="p1">when changing media, when the &ldquo;start last played media&rdquo; export setting is checked</li>
+<li class="p1">when changing master luminosity</li>
+<li class="p1">when changing audio volume</li>
+<li class="p1">when changing playback mode</li>
+<li class="p1">when editing using the mapping or image control modes in MiniMad Video</li>
+</ul>
+<p class="p1">By consequence, we strongly advice against turning off the MiniMad by cutting the power if you use any of the following features. Instead, you should perform a proper shutdown using either the MiniMad buttons, a USB keyboard, MiniMad Controller or using OSC. Please refer to the CONTROLS section for more details.</p>
+<h3>Activate your MiniMad SD card</h3>
+<p class="p1">If you flashed your MiniMad SD-card, or slot-in an SD-card that was used in another MiniMad&nbsp;unit, you will need to activate it prior to being able to export to, or use in the MiniMad.</p>
+<p class="p1">&nbsp;</p>
+<p class="p1">The activation procedure is quick though:</p>
+<p class="p1">1. Insert the SD-card in the MiniMad</p>
+<p class="p1">2. Connect the MiniMad to a HDMI display *</p>
+<p class="p1">3. Plug the power cord to turn the MiniMad on 4. Follow the on-screen procedure</p>
+<p class="p1">&nbsp;</p>
+<p class="p1">Note that the MiniMad red LED is blinking when the activation process is required, and stops blinking once the SD-card is activated.</p>
+<p class="p1">&nbsp;</p>
+<p class="p1">(*) If you cannot connect to a HDMI display, wait for the red LED to start blinking, then successively press the red, yellow and blue buttons. If the operation was successful, the LED should stop blinking, meaning the SD-card is now activated, and can be export to.</p>
+<h3>Flash your MiniMad SD card</h3>
+<p class="p1">Flashing a SD-card with MiniMad system can be necessary in the following cases:</p>
+<ul>
+<li class="p1">A newer version of the system is available, providing new features to the MiniMad. MadMapper will warn you if flashing is necessary.</li>
+<li class="p1">You want to use a brand new SD-card in the MiniMad.</li>
+<li class="p1">The system does not work anymore because of some data corruption. (cf. Turning off the Minimad)</li>
+</ul>
+<p class="p1">You first need to download the latest image of the MiniMad system (8, 16GB and 32GB versions&nbsp;are available) as well as the Etcher flashing tool.&nbsp;All those files are available to download in MadMapper Downloads.&nbsp;Note that you don&rsquo;t need to decompress the downloaded zipped images.</p>
+<p class="p1">&nbsp;</p>
+<p class="p1">Then:</p>
+<p class="p1">1. Insert your MiniMad SD-card in your computer&rsquo;s card-reader.</p>
+<p class="p1">2. Launch Etcher application.</p>
+<p class="p1">3. Select the downloaded .zip disk-image file as source.</p>
+<p class="p1">4. Select the SD-card drive as target.</p>
+<p class="p1">5. Click &ldquo;Flash!&rdquo; to start the operation.</p>
+<p class="p1">&nbsp;</p>
+<p class="p1">The flashing operation can take up to 20-30 minutes.&nbsp;The MiniMad image disk is big - if the image file doesn&rsquo;t work it may be due to a failed&nbsp;download and&nbsp;you&rsquo;ll have to download the image disk again.</p>

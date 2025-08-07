@@ -351,14 +351,6 @@
             "pageType": "empty",
             "minorVersion": "",
             "subpage": []
-          },
-          {
-            "pageSuid": "ck8veo2Csg",
-            "pageTitle": "SD card",
-            "pageSlug": "sd-card",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": []
           }
         ],
         "publish": false
@@ -372,8 +364,8 @@
         "subpage": [
           {
             "pageSuid": "DCOLmEgZEP",
-            "pageTitle": "Features",
-            "pageSlug": "features",
+            "pageTitle": "Must Know",
+            "pageSlug": "must-know",
             "pageType": "empty",
             "minorVersion": "",
             "subpage": [],
