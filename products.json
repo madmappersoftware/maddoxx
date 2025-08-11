@@ -1,7 +1,7 @@
 [
   {
-    "product_name": "truc",
-    "product_slug": "truc",
+    "productName": "truc",
+    "productSlug": "truc",
     "product_versions": [
       {
         "num": "1",
@@ -13,8 +13,8 @@
     ]
   },
   {
-    "product_name": "BedMapper",
-    "product_slug": "bedmapper",
+    "productName": "BedMapper",
+    "productSlug": "bedmapper",
     "product_versions": [
       {
         "num": "1",
@@ -26,8 +26,8 @@
     ]
   },
   {
-    "product_name": "BadMapper",
-    "product_slug": "badmapper",
+    "productName": "BadMapper",
+    "productSlug": "badmapper",
     "product_versions": [
       {
         "num": "1",
@@ -39,8 +39,8 @@
     ]
   },
   {
-    "product_name": "MadMapper",
-    "product_slug": "madmapper",
+    "productName": "MadMapper",
+    "productSlug": "madmapper",
     "product_versions": [
       {
         "num": "6",
@@ -52,8 +52,8 @@
     ]
   },
   {
-    "product_name": "MadPillow",
-    "product_slug": "madpillow",
+    "productName": "MadPillow",
+    "productSlug": "madpillow",
     "product_versions": [
       {
         "num": "1",
@@ -65,8 +65,8 @@
     ]
   },
   {
-    "product_name": "EyeMapper",
-    "product_slug": "eyemapper",
+    "productName": "EyeMapper",
+    "productSlug": "eyemapper",
     "product_versions": [
       {
         "num": "1",
