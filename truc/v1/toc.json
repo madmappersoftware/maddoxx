@@ -221,25 +221,6 @@
         "publish": false
       },
       {
-        "pageSuid": "HhvGRytJTm",
-        "pageTitle": "Troubleshooting",
-        "pageSlug": "troubleshooting",
-        "pageType": "empty",
-        "minor_version": "1",
-        "subpage": [
-          {
-            "pageSuid": "zZPjspww5S",
-            "pageTitle": "Getting Started",
-            "pageSlug": "getting-started",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          }
-        ],
-        "publish": false
-      },
-      {
         "pageSuid": "BgPeuLY4Ir",
         "pageTitle": "Video tutorials",
         "pageSlug": "video-tutorials",
@@ -499,9 +480,27 @@
         "publish": false
       },
       {
+        "pageSuid": "bHoVerfxlW",
+        "pageTitle": "Licensing",
+        "pageSlug": "licensing",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": false
+      },
+      {
         "pageSuid": "oqtFKEgB3S",
         "pageTitle": "Supported Hardware",
         "pageSlug": "supported-hardware",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": false
+      },
+      {
+        "pageSuid": "A7toEXUrgG",
+        "pageTitle": "Video Tutorials",
+        "pageSlug": "video-tutorials",
         "pageType": "empty",
         "minorVersion": "0",
         "subpage": [],
@@ -520,15 +519,6 @@
         "pageSuid": "vje7Arw1kZ",
         "pageTitle": "FAQ",
         "pageSlug": "faq",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "bHoVerfxlW",
-        "pageTitle": "Licensing",
-        "pageSlug": "licensing",
         "pageType": "empty",
         "minorVersion": "0",
         "subpage": [],

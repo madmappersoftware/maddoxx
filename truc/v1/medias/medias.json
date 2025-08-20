@@ -1704,5 +1704,180 @@
         "pageSlug": "test5"
       }
     ]
+  },
+  {
+    "mediaId": "irVhxTy5eI",
+    "filename": "Madlaser features 2.png",
+    "imgName": "Madlaser features 2",
+    "ext": "png",
+    "mimetype": "image/png",
+    "url": "/Madlaser features 2.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-20T13:16:54.351Z",
+    "pages": [
+      {
+        "pageSuid": "I4wq3xBBtU",
+        "pageSlug": "getting-started"
+      }
+    ]
+  },
+  {
+    "mediaId": "fg4JxbU6Cl",
+    "filename": "Madlaser features 1.png",
+    "imgName": "Madlaser features 1",
+    "ext": "png",
+    "mimetype": "image/png",
+    "url": "/Madlaser features 1.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-20T13:16:54.358Z",
+    "pages": [
+      {
+        "pageSuid": "I4wq3xBBtU",
+        "pageSlug": "getting-started"
+      }
+    ]
+  },
+  {
+    "mediaId": "agdARFDZwt",
+    "filename": "DAC list.png",
+    "imgName": "DAC list",
+    "ext": "png",
+    "mimetype": "image/png",
+    "url": "/DAC list.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-20T13:20:35.536Z",
+    "pages": [
+      {
+        "pageSuid": "oqtFKEgB3S",
+        "pageSlug": "supported-hardware"
+      }
+    ]
+  },
+  {
+    "mediaId": "qOD21OrQyU",
+    "filename": "Multi Hardware.png",
+    "imgName": "Multi Hardware",
+    "ext": "png",
+    "mimetype": "image/png",
+    "url": "/Multi Hardware.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-20T13:20:35.543Z",
+    "pages": [
+      {
+        "pageSuid": "oqtFKEgB3S",
+        "pageSlug": "supported-hardware"
+      }
+    ]
+  },
+  {
+    "mediaId": "JdVZMJZcGQ",
+    "filename": "Unlimited outputs.png",
+    "imgName": "Unlimited outputs",
+    "ext": "png",
+    "mimetype": "image/png",
+    "url": "/Unlimited outputs.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-20T13:20:35.647Z",
+    "pages": [
+      {
+        "pageSuid": "oqtFKEgB3S",
+        "pageSlug": "supported-hardware"
+      }
+    ]
   }
 ]
