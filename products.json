@@ -89,5 +89,31 @@
     "lang": [
       "en"
     ]
+  },
+  {
+    "productName": "DadMapper",
+    "productSlug": "dadmapper",
+    "product_versions": [
+      {
+        "num": "0",
+        "version": "v0"
+      }
+    ],
+    "lang": [
+      "en"
+    ]
+  },
+  {
+    "productName": "DeadMapper",
+    "productSlug": "deadmapper",
+    "product_versions": [
+      {
+        "num": "1",
+        "version": "v1"
+      }
+    ],
+    "lang": [
+      "en"
+    ]
   }
 ]
