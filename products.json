@@ -76,5 +76,18 @@
     "lang": [
       "en"
     ]
+  },
+  {
+    "productName": "madProduct",
+    "productSlug": "madproduct",
+    "product_versions": [
+      {
+        "num": "1",
+        "version": "v1"
+      }
+    ],
+    "lang": [
+      "en"
+    ]
   }
 ]
