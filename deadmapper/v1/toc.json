@@ -1,19 +1,20 @@
 [
   {
-    "pageSuid": "Gr2SBlzGTB",
-    "pageTitle": "How to sleep with BedMapper",
-    "pageSlug": "how-to-sleep-with-bedmapper",
+    "pageSuid": "mqmwaPpg7a",
+    "pageTitle": "How to",
+    "pageSlug": "how-to",
     "pageType": "empty",
     "minorVersion": "0",
     "subpage": [
       {
-        "pageSuid": "DGrnGxsy4t",
+        "pageSuid": "k7oSDk1MPM",
         "pageTitle": "1. hardware required",
         "pageSlug": "1.-hardware-required",
         "pageType": "empty",
         "minorVersion": "0",
         "subpage": []
       }
-    ]
+    ],
+    "publish": false
   }
 ]
