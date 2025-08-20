@@ -256,6 +256,15 @@
         "minor_version": "1",
         "subpage": [],
         "publish": false
+      },
+      {
+        "pageSuid": "OebCQjGqFd",
+        "pageTitle": "Troubleshooting",
+        "pageSlug": "troubleshooting",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": false
       }
     ],
     "publish": false
@@ -372,7 +381,17 @@
             "pageSlug": "network-synchronisation",
             "pageType": "empty",
             "minorVersion": "",
-            "subpage": [],
+            "subpage": [
+              {
+                "pageSuid": "6tN7lChaPI",
+                "pageTitle": "Video Tutorials",
+                "pageSlug": "video-tutorials",
+                "pageType": "empty",
+                "minorVersion": "0",
+                "subpage": [],
+                "publish": false
+              }
+            ],
             "publish": false
           },
           {
@@ -457,6 +476,61 @@
         "pageSlug": "troubleshooting",
         "pageType": "empty",
         "minorVersion": "",
+        "subpage": [],
+        "publish": false
+      }
+    ],
+    "publish": false
+  },
+  {
+    "pageSuid": "zIZko5WtJZ",
+    "pageTitle": "MadLaser (test)",
+    "pageSlug": "madlaser-(test)",
+    "pageType": "card",
+    "minorVersion": "0",
+    "subpage": [
+      {
+        "pageSuid": "I4wq3xBBtU",
+        "pageTitle": "Getting Started",
+        "pageSlug": "getting-started",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": false
+      },
+      {
+        "pageSuid": "oqtFKEgB3S",
+        "pageTitle": "Supported Hardware",
+        "pageSlug": "supported-hardware",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": false
+      },
+      {
+        "pageSuid": "cTw9Pq5rH7",
+        "pageTitle": "Troubleshooting",
+        "pageSlug": "troubleshooting",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": false
+      },
+      {
+        "pageSuid": "vje7Arw1kZ",
+        "pageTitle": "FAQ",
+        "pageSlug": "faq",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": false
+      },
+      {
+        "pageSuid": "bHoVerfxlW",
+        "pageTitle": "Licensing",
+        "pageSlug": "licensing",
+        "pageType": "empty",
+        "minorVersion": "0",
         "subpage": [],
         "publish": false
       }
