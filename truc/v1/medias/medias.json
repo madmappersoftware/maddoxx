@@ -1704,5 +1704,48 @@
         "pageSlug": "test5"
       }
     ]
+  },
+  {
+    "mediaId": "FLV65M4jv3",
+    "filename": "IMG_1369.jpeg",
+    "imgName": "IMG_1369",
+    "ext": "jpeg",
+    "mimetype": "image/jpeg",
+    "url": "/IMG_1369.jpeg",
+    "captions": {
+      "en": "burger"
+    },
+    "size": [
+      {
+        "name": "full",
+        "dimension": 1920
+      },
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-20T10:44:19.535Z",
+    "pages": [
+      {
+        "pageSuid": "59olGxDPUn",
+        "pageSlug": "test5"
+      }
+    ]
   }
 ]
