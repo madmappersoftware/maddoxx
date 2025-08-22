@@ -403,18 +403,18 @@
         "minorVersion": "",
         "subpage": [
           {
-            "pageSuid": "1VXft8og0q",
-            "pageTitle": "Features",
-            "pageSlug": "features",
+            "pageSuid": "DCOLmEgZEP",
+            "pageTitle": "Must Know",
+            "pageSlug": "must-know",
             "pageType": "empty",
             "minorVersion": "",
             "subpage": [],
             "publish": false
           },
           {
-            "pageSuid": "DCOLmEgZEP",
-            "pageTitle": "Must Know",
-            "pageSlug": "must-know",
+            "pageSuid": "1VXft8og0q",
+            "pageTitle": "Features",
+            "pageSlug": "features",
             "pageType": "empty",
             "minorVersion": "",
             "subpage": [],
