@@ -1809,5 +1809,91 @@
         "pageSlug": "touchosc"
       }
     ]
+  },
+  {
+    "mediaId": "51ACKz01Ym",
+    "filename": "madlaser grass.jpg",
+    "imgName": "madlaser grass",
+    "ext": "jpg",
+    "mimetype": "image/jpeg",
+    "url": "/madlaser grass.jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "full",
+        "dimension": 1920
+      },
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-27T12:33:29.478Z",
+    "pages": [
+      {
+        "pageSuid": "I4wq3xBBtU",
+        "pageSlug": "getting-started"
+      }
+    ]
+  },
+  {
+    "mediaId": "FAfFWd9L3N",
+    "filename": "madlaser hand.jpg",
+    "imgName": "madlaser hand",
+    "ext": "jpg",
+    "mimetype": "image/jpeg",
+    "url": "/madlaser hand.jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "full",
+        "dimension": 1920
+      },
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-27T12:33:29.547Z",
+    "pages": [
+      {
+        "pageSuid": "I4wq3xBBtU",
+        "pageSlug": "getting-started"
+      }
+    ]
   }
 ]
