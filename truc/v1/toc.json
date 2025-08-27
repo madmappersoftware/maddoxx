@@ -488,11 +488,11 @@
         "publish": false
       },
       {
-        "pageSuid": "kB6rwfEBeB",
-        "pageTitle": "Additional Information",
-        "pageSlug": "additional-information",
+        "pageSuid": "MDP33RCsIb",
+        "pageTitle": "Tips and tricks",
+        "pageSlug": "tips-and-tricks",
         "pageType": "empty",
-        "minorVersion": "",
+        "minorVersion": "0",
         "subpage": [],
         "publish": false
       },
@@ -504,6 +504,23 @@
         "minorVersion": "",
         "subpage": [],
         "publish": false
+      },
+      {
+        "pageSuid": "kB6rwfEBeB",
+        "pageTitle": "Additional Information",
+        "pageSlug": "additional-information",
+        "pageType": "empty",
+        "minorVersion": "",
+        "subpage": [],
+        "publish": false
+      },
+      {
+        "pageSuid": "vSgAeKeeO6",
+        "pageTitle": "Frequently asked questions",
+        "pageSlug": "frequently-asked-questions",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": []
       }
     ],
     "publish": false
