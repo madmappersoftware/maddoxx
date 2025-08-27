@@ -85,117 +85,6 @@
     "publish": true
   },
   {
-    "pageSuid": "L2MkH4PKzC",
-    "pageTitle": "trucplus",
-    "pageSlug": "trucplus",
-    "pageType": "empty",
-    "subpage": [
-      {
-        "pageSuid": "cpd54HC9GP",
-        "pageTitle": "utc",
-        "pageSlug": "utc",
-        "pageType": "empty",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "GHOmwlSlWr",
-        "pageTitle": "xxdrgcn",
-        "pageSlug": "xxdrgcn",
-        "pageType": "empty",
-        "subpage": [],
-        "publish": false
-      }
-    ],
-    "publish": false
-  },
-  {
-    "pageSuid": "zCeLHfj7Uu",
-    "pageTitle": "huphup",
-    "pageSlug": "huphup",
-    "pageType": "empty",
-    "subpage": [
-      {
-        "pageSuid": "CJtWRAGx82",
-        "pageTitle": "szervg",
-        "pageSlug": "szervg",
-        "pageType": "empty",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "aQNDX1YdFW",
-        "pageTitle": "fyghtgc",
-        "pageSlug": "fyghtgc",
-        "pageType": "empty",
-        "subpage": [],
-        "publish": false
-      }
-    ],
-    "publish": false
-  },
-  {
-    "pageSuid": "7uqoAYnrFn",
-    "pageTitle": "hophop",
-    "pageSlug": "hophop",
-    "pageType": "empty",
-    "subpage": [
-      {
-        "pageSuid": "KbwqzZ8f56",
-        "pageTitle": "huphip",
-        "pageSlug": "huphip",
-        "pageType": "empty",
-        "subpage": [
-          {
-            "pageSuid": "JoIyVqzwWK",
-            "pageTitle": "hopla",
-            "pageSlug": "hopla",
-            "pageType": "empty",
-            "subpage": [],
-            "publish": false
-          }
-        ],
-        "publish": false
-      },
-      {
-        "pageSuid": "JDwD236DcM",
-        "pageTitle": "hiphpi",
-        "pageSlug": "hiphpi",
-        "pageType": "empty",
-        "subpage": [
-          {
-            "pageSuid": "LkBlKcvZ6N",
-            "pageTitle": "hiplo",
-            "pageSlug": "hiplo",
-            "pageType": "empty",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "PQLInMWYfK",
-            "pageTitle": "yoplay",
-            "pageSlug": "yoplay",
-            "pageType": "empty",
-            "subpage": [
-              {
-                "pageSuid": "lv4Xeb8euj",
-                "pageTitle": "Getting Started",
-                "pageSlug": "getting-started",
-                "pageType": "empty",
-                "minorVersion": "",
-                "subpage": [],
-                "publish": false
-              }
-            ],
-            "publish": false
-          }
-        ],
-        "publish": false
-      }
-    ],
-    "publish": false
-  },
-  {
     "pageSuid": "zIZko5WtJZ",
     "pageTitle": "MadLaser (test)",
     "pageSlug": "madlaser-(test)",
@@ -242,15 +131,6 @@
         "pageSuid": "cTw9Pq5rH7",
         "pageTitle": "Troubleshooting",
         "pageSlug": "troubleshooting",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "vje7Arw1kZ",
-        "pageTitle": "FAQ",
-        "pageSlug": "faq",
         "pageType": "empty",
         "minorVersion": "0",
         "subpage": [],
@@ -403,15 +283,6 @@
         "minorVersion": "",
         "subpage": [
           {
-            "pageSuid": "1VXft8og0q",
-            "pageTitle": "Features",
-            "pageSlug": "features",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          },
-          {
             "pageSuid": "DCOLmEgZEP",
             "pageTitle": "Must Know",
             "pageSlug": "must-know",
@@ -467,9 +338,9 @@
         "minorVersion": "",
         "subpage": [
           {
-            "pageSuid": "mb7HDs2Uxw",
-            "pageTitle": "Controls",
-            "pageSlug": "controls",
+            "pageSuid": "1VXft8og0q",
+            "pageTitle": "Features",
+            "pageSlug": "features",
             "pageType": "empty",
             "minorVersion": "",
             "subpage": [],
@@ -497,11 +368,11 @@
         "publish": false
       },
       {
-        "pageSuid": "kB6rwfEBeB",
-        "pageTitle": "Additional Information",
-        "pageSlug": "additional-information",
+        "pageSuid": "MDP33RCsIb",
+        "pageTitle": "Tips and tricks",
+        "pageSlug": "tips-and-tricks",
         "pageType": "empty",
-        "minorVersion": "",
+        "minorVersion": "0",
         "subpage": [],
         "publish": false
       },
@@ -513,6 +384,23 @@
         "minorVersion": "",
         "subpage": [],
         "publish": false
+      },
+      {
+        "pageSuid": "kB6rwfEBeB",
+        "pageTitle": "Additional Information",
+        "pageSlug": "additional-information",
+        "pageType": "empty",
+        "minorVersion": "",
+        "subpage": [],
+        "publish": false
+      },
+      {
+        "pageSuid": "vSgAeKeeO6",
+        "pageTitle": "Frequently asked questions",
+        "pageSlug": "frequently-asked-questions",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": []
       }
     ],
     "publish": false
