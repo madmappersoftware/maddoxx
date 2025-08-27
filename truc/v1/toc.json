@@ -412,15 +412,6 @@
             "publish": false
           },
           {
-            "pageSuid": "1VXft8og0q",
-            "pageTitle": "Features",
-            "pageSlug": "features",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          },
-          {
             "pageSuid": "LLalzPH0Be",
             "pageTitle": "Export",
             "pageSlug": "export",
@@ -467,9 +458,9 @@
         "minorVersion": "",
         "subpage": [
           {
-            "pageSuid": "mb7HDs2Uxw",
-            "pageTitle": "Controls",
-            "pageSlug": "controls",
+            "pageSuid": "1VXft8og0q",
+            "pageTitle": "Features",
+            "pageSlug": "features",
             "pageType": "empty",
             "minorVersion": "",
             "subpage": [],
