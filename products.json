@@ -2,7 +2,7 @@
   {
     "productName": "truc",
     "productSlug": "truc",
-    "product_versions": [
+    "productVersions": [
       {
         "num": "1",
         "version": "v1"
@@ -15,7 +15,7 @@
   {
     "productName": "BedMapper",
     "productSlug": "bedmapper",
-    "product_versions": [
+    "productVersions": [
       {
         "num": "1",
         "version": "v1"
@@ -28,7 +28,7 @@
   {
     "productName": "BadMapper",
     "productSlug": "badmapper",
-    "product_versions": [
+    "productVersions": [
       {
         "num": "1",
         "version": "v1"
@@ -41,7 +41,7 @@
   {
     "productName": "MadMapper",
     "productSlug": "madmapper",
-    "product_versions": [
+    "productVersions": [
       {
         "num": "6",
         "version": "v6"
@@ -54,7 +54,7 @@
   {
     "productName": "MadPillow",
     "productSlug": "madpillow",
-    "product_versions": [
+    "productVersions": [
       {
         "num": "1",
         "version": "v1"
@@ -67,7 +67,7 @@
   {
     "productName": "EyeMapper",
     "productSlug": "eyemapper",
-    "product_versions": [
+    "productVersions": [
       {
         "num": "1",
         "version": "v1"
@@ -80,7 +80,7 @@
   {
     "productName": "madProduct",
     "productSlug": "madproduct",
-    "product_versions": [
+    "productVersions": [
       {
         "num": "1",
         "version": "v1"
@@ -93,7 +93,7 @@
   {
     "productName": "DadMapper",
     "productSlug": "dadmapper",
-    "product_versions": [
+    "productVersions": [
       {
         "num": "0",
         "version": "v0"
@@ -106,7 +106,7 @@
   {
     "productName": "DeadMapper",
     "productSlug": "deadmapper",
-    "product_versions": [
+    "productVersions": [
       {
         "num": "1",
         "version": "v1"

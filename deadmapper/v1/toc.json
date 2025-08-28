@@ -12,7 +12,16 @@
         "pageSlug": "1.-hardware-required",
         "pageType": "empty",
         "minorVersion": "0",
-        "subpage": []
+        "subpage": [
+          {
+            "pageSuid": "BAcN0rOMT9",
+            "pageTitle": "bug",
+            "pageSlug": "bug",
+            "pageType": "empty",
+            "minorVersion": "0",
+            "subpage": []
+          }
+        ]
       }
     ],
     "publish": false
