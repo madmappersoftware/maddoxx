@@ -115,5 +115,18 @@
     "lang": [
       "en"
     ]
+  },
+  {
+    "productName": "swissMapper",
+    "productSlug": "swissmapper",
+    "productVersions": [
+      {
+        "num": "1",
+        "version": "v1"
+      }
+    ],
+    "lang": [
+      "en"
+    ]
   }
 ]
