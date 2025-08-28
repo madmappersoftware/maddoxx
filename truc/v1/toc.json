@@ -119,6 +119,67 @@
         "publish": false
       },
       {
+        "pageSuid": "NXkU66mzQm",
+        "pageTitle": "In Depth",
+        "pageSlug": "in-depth",
+        "pageType": "card",
+        "minorVersion": "0",
+        "subpage": [
+          {
+            "pageSuid": "Prc5AlpLSx",
+            "pageTitle": "Laser Outputs",
+            "pageSlug": "laser-outputs",
+            "pageType": "empty",
+            "minorVersion": "0",
+            "subpage": []
+          },
+          {
+            "pageSuid": "lb5f1LunhK",
+            "pageTitle": "Laser Surfaces",
+            "pageSlug": "laser-surfaces",
+            "pageType": "empty",
+            "minorVersion": "0",
+            "subpage": [
+              {
+                "pageSuid": "6wYIMfBXTM",
+                "pageTitle": "Laser quads",
+                "pageSlug": "laser-quads",
+                "pageType": "empty",
+                "minorVersion": "0",
+                "subpage": []
+              },
+              {
+                "pageSuid": "31PoAXAxEN",
+                "pageTitle": "Laser lines",
+                "pageSlug": "laser-lines",
+                "pageType": "empty",
+                "minorVersion": "0",
+                "subpage": [],
+                "publish": false
+              },
+              {
+                "pageSuid": "bDebZaeANs",
+                "pageTitle": "Laser text",
+                "pageSlug": "laser-text",
+                "pageType": "empty",
+                "minorVersion": "0",
+                "subpage": [],
+                "publish": false
+              }
+            ]
+          },
+          {
+            "pageSuid": "o9YP47ud88",
+            "pageTitle": "Laser Materials",
+            "pageSlug": "laser-materials",
+            "pageType": "empty",
+            "minorVersion": "0",
+            "subpage": []
+          }
+        ],
+        "publish": false
+      },
+      {
         "pageSuid": "A7toEXUrgG",
         "pageTitle": "Video Tutorials",
         "pageSlug": "video-tutorials",
@@ -400,7 +461,8 @@
         "pageSlug": "frequently-asked-questions",
         "pageType": "empty",
         "minorVersion": "0",
-        "subpage": []
+        "subpage": [],
+        "publish": false
       }
     ],
     "publish": false
