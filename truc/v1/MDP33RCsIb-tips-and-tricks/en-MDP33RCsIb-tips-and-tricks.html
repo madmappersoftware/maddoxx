@@ -1,0 +1,25 @@
+<h2 class="int-link-anchors">Tips and tricks</h2>
+<h4>Audio Output</h4>
+<p>Audio-jack output is very sensitive to other electronic devices running on the same electrical line, as well as network activity if using the ethernet connection. The best way to get a clear sound is using a USB audio device (any cheap USB with a 3.5 audio-jack output will do, as long as they don't rely on any specific drivers): just make sure to plug the device to any USB port prior to powering the MiniMads on. Please note that this only applies to MiniMad Light, not MiniMad Video.</p>
+<h4>Behavior after a power cut</h4>
+<p class="p2">The MiniMad does support power cuts and failures, it will restart by itself once the power is back. However, we advise to make a clone of your SD-card(s) in case a data corruption happens that could prevent the MiniMad from starting.</p>
+<h4>Control your MiniMad with a MIDI controller</h4>
+<p class="p2">MiniMad supports the MicroModul8 controller, in addition to buttons and USB-keyboard. We might have plans for universal MIDI support for the MiniMad in the future, stay tuned.</p>
+<h4>OSC commands</h4>
+<p>The best way to control the MiniMad is to use the "TouchOSC" application on iOS or Android. The MiniMad must be plugged in a DHCP-enabled ethernet network with a Wifi access-point for the tablet connection. TouchOSC layouts are available in the Download section of your user account.</p>
+<h4>Export materials or generators</h4>
+<p class="p2">MiniMad Video can natively play video and image files exported by MadMapper but doesn&rsquo;t come with Materials support. A solution to get them playing on the MiniMad would consist in recording your MadMapper projector&rsquo;s output using Syphon Recorder on Mac or Spout on Windows, then create a new project with a single fullscreen quad displaying you projector&rsquo;s recording, which will be exported to the MiniMad.</p>
+<h4>One-frame delay</h4>
+<p>Media playback (video) is automatically synced when MiniMad units are connected to the same ethernet network but it can indeed induce a one-frame delay between the different units, therefore we don't advice its usage for soft-edge because it's precisely the situations in which you could witness the lack of synchronization between the video-signals.&nbsp;However, this is absolutely invisible to the eye in cases where the screens/projectors are not edge-to-edge (ie our 28 MiniMad installation: https://youtu.be/YqKo7WgSI88?t=15).</p>
+<h4>Industrial grade SD-cards</h4>
+<p class="p2">In some situations where space is limited, the MiniMad units might get hot. If too hot for a long time, data&nbsp;corruption may appear on entry level SD-card. In these situations we advise you to use an Industrial/&nbsp;Military grade SD card. Such cards will allow you to run your installation for a very long time.&nbsp;Industrial grade SD-cards are now available on the <span class="s1">garageCube online shop</span>.</p>
+<h4>Reboot the MiniMad</h4>
+<p class="p2">You can reboot the MiniMad by holding the three colored buttons at the same time.</p>
+<h4>Save modifications</h4>
+<p class="p2">No action is required: the MiniMad automatically saves all modifications you do with your mapping, when exiting the mapping mode (RED button).</p>
+<h4>Schedule the starting time of the MiniMad</h4>
+<p class="p2">For now, the easiest way to schedule the MiniMad is to use a power plug with a timer: it will power the MiniMad on and off at desired hours of the day. Please refer to TURNING THE MINIMAD OFF section to determine if your MiniMad can be safely turned off by cutting the power.</p>
+<h4>Using SSH for scheduling the MiniMad</h4>
+<p>You can also send commands through SSH to the MiniMad to reboot or turn the MiniMad off among many other things.</p>
+<h4>Why the MiniMad applied a white background to my video instead of a transparent background?</h4>
+<p>The MiniMad uses H264 codec, which doesn't support alpha channel. However, if the alpha-mask on your movie is fixed, you can create a matching mask with MadMapper 4 and above.</p>

@@ -37,7 +37,7 @@
     "pages": [
       {
         "pageSuid": "7HuEqFM26Q",
-        "pageSlug": "test2"
+        "pageSlug": "test3"
       }
     ]
   },
@@ -71,11 +71,15 @@
     "pages": [
       {
         "pageSuid": "7HuEqFM26Q",
-        "pageSlug": "test2"
+        "pageSlug": "test3"
       },
       {
         "pageSuid": "eQfpYNVGAP",
         "pageSlug": "getting-started"
+      },
+      {
+        "pageSuid": "DT6ALV2Cce",
+        "pageSlug": "test35"
       }
     ]
   },
@@ -121,7 +125,7 @@
       },
       {
         "pageSuid": "7HuEqFM26Q",
-        "pageSlug": "test2"
+        "pageSlug": "test3"
       },
       {
         "pageSuid": "eQfpYNVGAP",
@@ -167,7 +171,7 @@
       },
       {
         "pageSuid": "7HuEqFM26Q",
-        "pageSlug": "test2"
+        "pageSlug": "test3"
       }
     ]
   },
@@ -209,7 +213,7 @@
       },
       {
         "pageSuid": "7HuEqFM26Q",
-        "pageSlug": "test2"
+        "pageSlug": "test3"
       }
     ]
   },
@@ -239,7 +243,7 @@
       },
       {
         "pageSuid": "7HuEqFM26Q",
-        "pageSlug": "test2"
+        "pageSlug": "test3"
       }
     ]
   },
@@ -277,7 +281,7 @@
       },
       {
         "pageSuid": "7HuEqFM26Q",
-        "pageSlug": "test2"
+        "pageSlug": "test3"
       }
     ]
   },
@@ -315,7 +319,7 @@
       },
       {
         "pageSuid": "7HuEqFM26Q",
-        "pageSlug": "test2"
+        "pageSlug": "test3"
       }
     ]
   },
@@ -353,41 +357,7 @@
       },
       {
         "pageSuid": "7HuEqFM26Q",
-        "pageSlug": "test2"
-      }
-    ]
-  },
-  {
-    "mediaId": "UdhIabR94Q",
-    "filename": "MadProjectoControl Target 3.png",
-    "imgName": "MadProjectoControl Target 3",
-    "ext": "png",
-    "mimetype": "image/png",
-    "url": "/MadProjectoControl Target 3.png",
-    "captions": {
-      "en": ""
-    },
-    "size": [
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "Lb8l9Ex6ct",
-        "pageSlug": "setup"
+        "pageSlug": "test3"
       }
     ]
   },
@@ -425,497 +395,7 @@
       },
       {
         "pageSuid": "7HuEqFM26Q",
-        "pageSlug": "test2"
-      }
-    ]
-  },
-  {
-    "mediaId": "BjHe9QAJFL",
-    "filename": "MadProjectoControl Target 5.png",
-    "imgName": "MadProjectoControl Target 5",
-    "ext": "png",
-    "mimetype": "image/png",
-    "url": "/MadProjectoControl Target 5.png",
-    "captions": {
-      "en": ""
-    },
-    "size": [
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "Lb8l9Ex6ct",
-        "pageSlug": "setup"
-      }
-    ]
-  },
-  {
-    "mediaId": "64DrM1gSKa",
-    "filename": "MadProjectoControl Controls 1.png",
-    "imgName": "MadProjectoControl Controls 1",
-    "ext": "png",
-    "mimetype": "image/png",
-    "url": "/MadProjectoControl Controls 1.png",
-    "captions": {
-      "en": ""
-    },
-    "size": [
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "Lb8l9Ex6ct",
-        "pageSlug": "setup"
-      }
-    ]
-  },
-  {
-    "mediaId": "MSOKK2SrUX",
-    "filename": "MadProjectoControl Controls 2.png",
-    "imgName": "MadProjectoControl Controls 2",
-    "ext": "png",
-    "mimetype": "image/png",
-    "url": "/MadProjectoControl Controls 2.png",
-    "captions": {
-      "en": ""
-    },
-    "size": [
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "Lb8l9Ex6ct",
-        "pageSlug": "setup"
-      }
-    ]
-  },
-  {
-    "mediaId": "tte6Uhuy8b",
-    "filename": "MadProjectoControl Controls 3.png",
-    "imgName": "MadProjectoControl Controls 3",
-    "ext": "png",
-    "mimetype": "image/png",
-    "url": "/MadProjectoControl Controls 3.png",
-    "captions": {
-      "en": ""
-    },
-    "size": [
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "Lb8l9Ex6ct",
-        "pageSlug": "setup"
-      }
-    ]
-  },
-  {
-    "mediaId": "iRwlk21QWK",
-    "filename": "MadProjectoControl Info.png",
-    "imgName": "MadProjectoControl Info",
-    "ext": "png",
-    "mimetype": "image/png",
-    "url": "/MadProjectoControl Info.png",
-    "captions": {
-      "en": ""
-    },
-    "size": [
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "Lb8l9Ex6ct",
-        "pageSlug": "setup"
-      }
-    ]
-  },
-  {
-    "mediaId": "R6uEOW64qF",
-    "filename": "mpc 1.png",
-    "imgName": "mpc 1",
-    "ext": "png",
-    "mimetype": "image/png",
-    "url": "/mpc 1.png",
-    "captions": {
-      "en": ""
-    },
-    "size": [
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "Lb8l9Ex6ct",
-        "pageSlug": "setup"
-      }
-    ]
-  },
-  {
-    "mediaId": "Dj8lwxGEuv",
-    "filename": "MadProjectorControl MadMapper.jpg",
-    "imgName": "MadProjectorControl MadMapper",
-    "ext": "jpg",
-    "mimetype": "image/jpeg",
-    "url": "/MadProjectorControl MadMapper.jpg",
-    "captions": {
-      "en": ""
-    },
-    "size": [
-      {
-        "name": "full",
-        "dimension": 1920
-      },
-      {
-        "name": "large",
-        "dimension": 1440
-      },
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "Kc08Ll314e",
-        "pageSlug": "getting-started"
-      }
-    ]
-  },
-  {
-    "mediaId": "MjUpeEv7ts",
-    "filename": "Screenshot 2025-04-29 at 22.21.20.png",
-    "imgName": "Screenshot 2025-04-29 at 22.21.20",
-    "ext": "png",
-    "mimetype": "image/png",
-    "url": "/Screenshot 2025-04-29 at 22.21.20.png",
-    "captions": {
-      "en": ""
-    },
-    "size": [
-      {
-        "name": "full",
-        "dimension": 1920
-      },
-      {
-        "name": "large",
-        "dimension": 1440
-      },
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "IfpZwdwuwQ",
-        "pageSlug": "about"
-      }
-    ]
-  },
-  {
-    "mediaId": "WCVX3SjrQT",
-    "filename": "MadAI city.jpg",
-    "imgName": "MadAI city",
-    "ext": "jpg",
-    "mimetype": "image/jpeg",
-    "url": "/MadAI city.jpg",
-    "captions": {
-      "en": "MadAI City Shader"
-    },
-    "size": [
-      {
-        "name": "full",
-        "dimension": 1920
-      },
-      {
-        "name": "large",
-        "dimension": 1440
-      },
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "eu02LAaJNr",
-        "pageSlug": "madai-(test)"
-      }
-    ]
-  },
-  {
-    "mediaId": "4mWPVVI73p",
-    "filename": "MadAI Material 3.jpg",
-    "imgName": "MadAI Material 3",
-    "ext": "jpg",
-    "mimetype": "image/jpeg",
-    "url": "/MadAI Material 3.jpg",
-    "captions": {
-      "en": "MadAI Material 3"
-    },
-    "size": [
-      {
-        "name": "full",
-        "dimension": 1920
-      },
-      {
-        "name": "large",
-        "dimension": 1440
-      },
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "eu02LAaJNr",
-        "pageSlug": "madai-(test)"
-      }
-    ]
-  },
-  {
-    "mediaId": "WRu8lASiun",
-    "filename": "MadAI city shader.jpg",
-    "imgName": "MadAI city shader",
-    "ext": "jpg",
-    "mimetype": "image/jpeg",
-    "url": "/MadAI city shader.jpg",
-    "captions": {
-      "en": ""
-    },
-    "size": [
-      {
-        "name": "full",
-        "dimension": 1920
-      },
-      {
-        "name": "large",
-        "dimension": 1440
-      },
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "eu02LAaJNr",
-        "pageSlug": "madai-(test)"
-      }
-    ]
-  },
-  {
-    "mediaId": "Jp8RPeE9UG",
-    "filename": "7C3C6A98-D1A3-434D-B46F-A6B075411841.png",
-    "imgName": "7C3C6A98-D1A3-434D-B46F-A6B075411841",
-    "ext": "png",
-    "mimetype": "image/png",
-    "url": "/7C3C6A98-D1A3-434D-B46F-A6B075411841.png",
-    "captions": {
-      "en": ""
-    },
-    "size": [
-      {
-        "name": "large",
-        "dimension": 1440
-      },
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "59olGxDPUn",
-        "pageSlug": "test5"
-      },
-      {
-        "pageSuid": "YHwM11Cm4K",
-        "pageSlug": "getting-started"
-      }
-    ]
-  },
-  {
-    "mediaId": "4pK0OHhSso",
-    "filename": "burger.jpg",
-    "imgName": "burger",
-    "ext": "jpg",
-    "mimetype": "image/jpeg",
-    "url": "/burger.jpg",
-    "captions": {
-      "en": ""
-    },
-    "size": [
-      {
-        "name": "big",
-        "dimension": 600
-      },
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "pages": [
-      {
-        "pageSuid": "59olGxDPUn",
-        "pageSlug": "test5"
+        "pageSlug": "test3"
       }
     ]
   },
@@ -953,7 +433,7 @@
     "pages": [
       {
         "pageSuid": "7HuEqFM26Q",
-        "pageSlug": "test2"
+        "pageSlug": "test3"
       },
       {
         "pageSuid": "TrR5k9Yb6v",
@@ -1706,6 +1186,197 @@
       {
         "pageSuid": "59olGxDPUn",
         "pageSlug": "test5"
+      }
+    ]
+  },
+  {
+    "mediaId": "WftDWuo6Rz",
+    "filename": "touch osc 1.png",
+    "imgName": "touch osc 1",
+    "ext": "png",
+    "mimetype": "image/png",
+    "url": "/touch osc 1.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-27T08:31:44.320Z",
+    "pages": [
+      {
+        "pageSuid": "5KSdVdgwzl",
+        "pageSlug": "touchosc"
+      }
+    ]
+  },
+  {
+    "mediaId": "uHJhEX9Uib",
+    "filename": "touch osc 3.png",
+    "imgName": "touch osc 3",
+    "ext": "png",
+    "mimetype": "image/png",
+    "url": "/touch osc 3.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-27T08:31:44.325Z",
+    "pages": [
+      {
+        "pageSuid": "5KSdVdgwzl",
+        "pageSlug": "touchosc"
+      }
+    ]
+  },
+  {
+    "mediaId": "lJoIBfyeUh",
+    "filename": "touch osc 2.png",
+    "imgName": "touch osc 2",
+    "ext": "png",
+    "mimetype": "image/png",
+    "url": "/touch osc 2.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-27T08:31:44.421Z",
+    "pages": [
+      {
+        "pageSuid": "5KSdVdgwzl",
+        "pageSlug": "touchosc"
+      }
+    ]
+  },
+  {
+    "mediaId": "51ACKz01Ym",
+    "filename": "madlaser grass.jpg",
+    "imgName": "madlaser grass",
+    "ext": "jpg",
+    "mimetype": "image/jpeg",
+    "url": "/madlaser grass.jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "full",
+        "dimension": 1920
+      },
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-27T12:33:29.478Z",
+    "pages": [
+      {
+        "pageSuid": "I4wq3xBBtU",
+        "pageSlug": "getting-started"
+      }
+    ]
+  },
+  {
+    "mediaId": "FAfFWd9L3N",
+    "filename": "madlaser hand.jpg",
+    "imgName": "madlaser hand",
+    "ext": "jpg",
+    "mimetype": "image/jpeg",
+    "url": "/madlaser hand.jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "full",
+        "dimension": 1920
+      },
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-08-27T12:33:29.547Z",
+    "pages": [
+      {
+        "pageSuid": "I4wq3xBBtU",
+        "pageSlug": "getting-started"
       }
     ]
   }

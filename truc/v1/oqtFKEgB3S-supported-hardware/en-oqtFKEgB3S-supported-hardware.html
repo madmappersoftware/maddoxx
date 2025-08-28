@@ -1,0 +1,30 @@
+<h2 class="int-link-anchors">MadLaser supported Laser hardware</h2>
+<h3>LaserCube</h3>
+<p>We support LaserCube Wifi, Ethernet and usb on all platforms.&nbsp;Although both protocols are supported, prefer Ethernet over Wi-Fi. Please note that the USB version is Mac only.</p>
+<p><a title="Laseros" href="https://www.laseros.com" target="_blank" rel="noopener">https://www.laseros.com</a></p>
+<h3>FB3/FB4*</h3>
+<p>With FX4 through Pangolin Beyond, you need to be on Windows and have the licence. That's not the option we promote but since many people have lasers with only FB4 DAC integrated (and no ILDA input) we decided to handle it. Be sure Beyond is up to date. Some first Beyond 5 builds were not handling external control. Also MadMapper has to run on the same computer than the one Beyond is running on. Please note that MadLaser can&rsquo;t work with Pangolin QuickShow. It only works with Pangolin Beyond 5. FB3/ FB4 are proprietary protocols from Pangolin. They made an API to interact with Beyond so MadLaser can control FB3/FB4 laser through Pangolin Beyond. Please note as well that Pangolin Beyond version 5 is required. While MadMapper will propose projection zones for Pangolin Beyond 4, it will not work (Pangolin changed a lot of things in their API in-between).</p>
+<p><a title="Pangolin" href="https://pangolin.com" target="_blank" rel="noopener">https://pangolin.com</a></p>
+<div class="alert-banner-notes">
+<p>You must have Pangolin running on the same machine where MadMapper 5 is running. Then File / New / Laser Project. In the fourth tab on the left part ("Manage Outputs"), select the laser project and in its parameters / Destination, choose a Pangolin Projection Zone.</p>
+</div>
+<p>&nbsp;</p>
+<p>*Requires a Pangolin Beyond license. Windows only.</p>
+<h3>IDN (ILDA Digital Network)</h3>
+<p><a title="Ilda" href="http://www.ilda-digital.com" target="_blank" rel="noopener">http://www.ilda-digital.com</a></p>
+<h3>ShowNET</h3>
+<p>MadMapper supports ShowNET protocol - DAC, so any LaserWorld projector with ShowNET (Tarm are good machines, ie Tarm ShowNET) will work directly with just a network cable (Auto IP works fine). Also prefer putting your ShowNET devices on a network without other traffic for best smoothness. Check your laser device documentation to see how to set the ShowNET dipswitch for the network mode you&rsquo;re using (DHCP / Auto-IP or static IP).</p>
+<p><a title="Laserworld" href="https://www.laserworld.com" target="_blank" rel="noopener">https://www.laserworld.com</a></p>
+<div class="alert-banner-notes">
+<p>If your ShowNET device appears as a destination in MadMapper Laser Output destinations but does not connect (status keeps &ldquo;Disconnected&rdquo;), verify that you don&rsquo;t have multiple network interfaces on the same IP address range (ie 192.168.0.xxx / 255.255.255.0). If you have a wifi or another network in the same IP range, either disable your other network adapter or change its IP address, or change the ShowNET pins for &ldquo;Auto-IP&rdquo; mode (&amp; your computer interface in DHCP so your system setups an AutoIP address too (169.254.xxx.xxx / 255.255.0.0)</p>
+</div>
+<h3>Helios USB</h3>
+<p><span style="text-decoration: underline;"><em>website link missing</em></span></p>
+<h3>Ether Dream</h3>
+<p>Etherdream (ethernet - 16 bits XY) needs to run on a clean network without other traffic. For instance, don&rsquo;t mix Art-Net and Etherdream on the same network or you&rsquo;ll get disconnections. You can safely put a bunch of Etherdram on the same network though.</p>
+<p><a title="Ether Dream" href="https://ether-dream.com" target="_blank" rel="noopener">https://ether-dream.com</a></p>
+<h3>AVB / Dante</h3>
+<p><a title="Laser Animation" href="https://laseranimation.com" target="_blank" rel="noopener">https://laseranimation.com</a></p>
+<h3>Moncha DAC</h3>
+<p><a title="Moncha DAC" href="https://www.showtacle.com" target="_blank" rel="noopener">https://www.showtacle.com</a></p>
+<p>&nbsp;</p>

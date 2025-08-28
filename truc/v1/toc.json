@@ -7,8 +7,8 @@
     "subpage": [
       {
         "pageSuid": "7HuEqFM26Q",
-        "pageTitle": "test2",
-        "pageSlug": "test2",
+        "pageTitle": "test3",
+        "pageSlug": "test3",
         "pageType": "empty",
         "subpage": [],
         "publish": true
@@ -85,111 +85,116 @@
     "publish": true
   },
   {
-    "pageSuid": "L2MkH4PKzC",
-    "pageTitle": "trucplus",
-    "pageSlug": "trucplus",
-    "pageType": "empty",
+    "pageSuid": "zIZko5WtJZ",
+    "pageTitle": "MadLaser (test)",
+    "pageSlug": "madlaser-(test)",
+    "pageType": "card",
+    "minorVersion": "0",
     "subpage": [
       {
-        "pageSuid": "cpd54HC9GP",
-        "pageTitle": "utc",
-        "pageSlug": "utc",
+        "pageSuid": "I4wq3xBBtU",
+        "pageTitle": "Getting Started",
+        "pageSlug": "getting-started",
         "pageType": "empty",
+        "minorVersion": "0",
         "subpage": [],
         "publish": false
       },
       {
-        "pageSuid": "GHOmwlSlWr",
-        "pageTitle": "xxdrgcn",
-        "pageSlug": "xxdrgcn",
+        "pageSuid": "bHoVerfxlW",
+        "pageTitle": "Licensing",
+        "pageSlug": "licensing",
         "pageType": "empty",
-        "subpage": [],
-        "publish": false
-      }
-    ],
-    "publish": false
-  },
-  {
-    "pageSuid": "zCeLHfj7Uu",
-    "pageTitle": "huphup",
-    "pageSlug": "huphup",
-    "pageType": "empty",
-    "subpage": [
-      {
-        "pageSuid": "CJtWRAGx82",
-        "pageTitle": "szervg",
-        "pageSlug": "szervg",
-        "pageType": "empty",
+        "minorVersion": "0",
         "subpage": [],
         "publish": false
       },
       {
-        "pageSuid": "aQNDX1YdFW",
-        "pageTitle": "fyghtgc",
-        "pageSlug": "fyghtgc",
+        "pageSuid": "oqtFKEgB3S",
+        "pageTitle": "Supported Hardware",
+        "pageSlug": "supported-hardware",
         "pageType": "empty",
+        "minorVersion": "0",
         "subpage": [],
         "publish": false
-      }
-    ],
-    "publish": false
-  },
-  {
-    "pageSuid": "7uqoAYnrFn",
-    "pageTitle": "hophop",
-    "pageSlug": "hophop",
-    "pageType": "empty",
-    "subpage": [
+      },
       {
-        "pageSuid": "KbwqzZ8f56",
-        "pageTitle": "huphip",
-        "pageSlug": "huphip",
-        "pageType": "empty",
+        "pageSuid": "NXkU66mzQm",
+        "pageTitle": "In Depth",
+        "pageSlug": "in-depth",
+        "pageType": "card",
+        "minorVersion": "0",
         "subpage": [
           {
-            "pageSuid": "JoIyVqzwWK",
-            "pageTitle": "hopla",
-            "pageSlug": "hopla",
+            "pageSuid": "Prc5AlpLSx",
+            "pageTitle": "Laser Outputs",
+            "pageSlug": "laser-outputs",
             "pageType": "empty",
-            "subpage": [],
-            "publish": false
-          }
-        ],
-        "publish": false
-      },
-      {
-        "pageSuid": "JDwD236DcM",
-        "pageTitle": "hiphpi",
-        "pageSlug": "hiphpi",
-        "pageType": "empty",
-        "subpage": [
-          {
-            "pageSuid": "LkBlKcvZ6N",
-            "pageTitle": "hiplo",
-            "pageSlug": "hiplo",
-            "pageType": "empty",
-            "subpage": [],
-            "publish": false
+            "minorVersion": "0",
+            "subpage": []
           },
           {
-            "pageSuid": "PQLInMWYfK",
-            "pageTitle": "yoplay",
-            "pageSlug": "yoplay",
+            "pageSuid": "lb5f1LunhK",
+            "pageTitle": "Laser Surfaces",
+            "pageSlug": "laser-surfaces",
             "pageType": "empty",
+            "minorVersion": "0",
             "subpage": [
               {
-                "pageSuid": "lv4Xeb8euj",
-                "pageTitle": "Getting Started",
-                "pageSlug": "getting-started",
+                "pageSuid": "6wYIMfBXTM",
+                "pageTitle": "Laser quads",
+                "pageSlug": "laser-quads",
                 "pageType": "empty",
-                "minorVersion": "",
+                "minorVersion": "0",
+                "subpage": []
+              },
+              {
+                "pageSuid": "31PoAXAxEN",
+                "pageTitle": "Laser lines",
+                "pageSlug": "laser-lines",
+                "pageType": "empty",
+                "minorVersion": "0",
+                "subpage": [],
+                "publish": false
+              },
+              {
+                "pageSuid": "bDebZaeANs",
+                "pageTitle": "Laser text",
+                "pageSlug": "laser-text",
+                "pageType": "empty",
+                "minorVersion": "0",
                 "subpage": [],
                 "publish": false
               }
-            ],
-            "publish": false
+            ]
+          },
+          {
+            "pageSuid": "o9YP47ud88",
+            "pageTitle": "Laser Materials",
+            "pageSlug": "laser-materials",
+            "pageType": "empty",
+            "minorVersion": "0",
+            "subpage": []
           }
         ],
+        "publish": false
+      },
+      {
+        "pageSuid": "A7toEXUrgG",
+        "pageTitle": "Video Tutorials",
+        "pageSlug": "video-tutorials",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": false
+      },
+      {
+        "pageSuid": "cTw9Pq5rH7",
+        "pageTitle": "Troubleshooting",
+        "pageSlug": "troubleshooting",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
         "publish": false
       }
     ],
@@ -218,25 +223,6 @@
         "pageType": "empty",
         "minor_version": "1",
         "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "HhvGRytJTm",
-        "pageTitle": "Troubleshooting",
-        "pageSlug": "troubleshooting",
-        "pageType": "empty",
-        "minor_version": "1",
-        "subpage": [
-          {
-            "pageSuid": "zZPjspww5S",
-            "pageTitle": "Getting Started",
-            "pageSlug": "getting-started",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          }
-        ],
         "publish": false
       },
       {
@@ -381,17 +367,7 @@
             "pageSlug": "network-synchronisation",
             "pageType": "empty",
             "minorVersion": "",
-            "subpage": [
-              {
-                "pageSuid": "6tN7lChaPI",
-                "pageTitle": "Video Tutorials",
-                "pageSlug": "video-tutorials",
-                "pageType": "empty",
-                "minorVersion": "0",
-                "subpage": [],
-                "publish": false
-              }
-            ],
+            "subpage": [],
             "publish": false
           },
           {
@@ -432,15 +408,6 @@
             "publish": false
           },
           {
-            "pageSuid": "mb7HDs2Uxw",
-            "pageTitle": "Controls",
-            "pageSlug": "controls",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          },
-          {
             "pageSuid": "OPECunlVE6",
             "pageTitle": "Video Tutorials",
             "pageSlug": "video-tutorials",
@@ -462,11 +429,11 @@
         "publish": false
       },
       {
-        "pageSuid": "kB6rwfEBeB",
-        "pageTitle": "Additional Information",
-        "pageSlug": "additional-information",
+        "pageSuid": "MDP33RCsIb",
+        "pageTitle": "Tips and tricks",
+        "pageSlug": "tips-and-tricks",
         "pageType": "empty",
-        "minorVersion": "",
+        "minorVersion": "0",
         "subpage": [],
         "publish": false
       },
@@ -478,57 +445,20 @@
         "minorVersion": "",
         "subpage": [],
         "publish": false
-      }
-    ],
-    "publish": false
-  },
-  {
-    "pageSuid": "zIZko5WtJZ",
-    "pageTitle": "MadLaser (test)",
-    "pageSlug": "madlaser-(test)",
-    "pageType": "card",
-    "minorVersion": "0",
-    "subpage": [
+      },
       {
-        "pageSuid": "I4wq3xBBtU",
-        "pageTitle": "Getting Started",
-        "pageSlug": "getting-started",
+        "pageSuid": "kB6rwfEBeB",
+        "pageTitle": "Additional Information",
+        "pageSlug": "additional-information",
         "pageType": "empty",
-        "minorVersion": "0",
+        "minorVersion": "",
         "subpage": [],
         "publish": false
       },
       {
-        "pageSuid": "oqtFKEgB3S",
-        "pageTitle": "Supported Hardware",
-        "pageSlug": "supported-hardware",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "cTw9Pq5rH7",
-        "pageTitle": "Troubleshooting",
-        "pageSlug": "troubleshooting",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "vje7Arw1kZ",
-        "pageTitle": "FAQ",
-        "pageSlug": "faq",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "bHoVerfxlW",
-        "pageTitle": "Licensing",
-        "pageSlug": "licensing",
+        "pageSuid": "vSgAeKeeO6",
+        "pageTitle": "Frequently asked questions",
+        "pageSlug": "frequently-asked-questions",
         "pageType": "empty",
         "minorVersion": "0",
         "subpage": [],
