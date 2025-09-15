@@ -23,10 +23,10 @@
                 "pageSlug": "the-end",
                 "pageType": "empty",
                 "subpage": [],
-                "publish": false
+                "publish": true
               }
             ],
-            "publish": false
+            "publish": true
           },
           {
             "pageSuid": "4A19MAyN4y",
@@ -40,7 +40,7 @@
                 "pageSlug": "the-future",
                 "pageType": "empty",
                 "subpage": [],
-                "publish": false
+                "publish": true
               },
               {
                 "pageSuid": "EGea2fMGis",
@@ -54,19 +54,19 @@
                     "pageSlug": "problematic-page",
                     "pageType": "empty",
                     "subpage": [],
-                    "publish": false
+                    "publish": true
                   }
                 ],
-                "publish": false
+                "publish": true
               }
             ],
-            "publish": false
+            "publish": true
           }
         ],
         "publish": true
       }
     ],
-    "publish": false
+    "publish": true
   },
   {
     "pageSuid": "0aAXfsfuIA",
@@ -80,9 +80,9 @@
         "pageSlug": "the-day-before-it-happenned",
         "pageType": "empty",
         "subpage": [],
-        "publish": false
+        "publish": true
       }
     ],
-    "publish": false
+    "publish": true
   }
 ]
