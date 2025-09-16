@@ -26,7 +26,7 @@
                 "publish": true
               }
             ],
-            "publish": true
+            "publish": false
           },
           {
             "pageSuid": "4A19MAyN4y",
@@ -40,7 +40,7 @@
                 "pageSlug": "the-future",
                 "pageType": "empty",
                 "subpage": [],
-                "publish": true
+                "publish": false
               },
               {
                 "pageSuid": "EGea2fMGis",
