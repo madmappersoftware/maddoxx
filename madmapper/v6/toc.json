@@ -26,7 +26,8 @@
                 "publish": true
               }
             ],
-            "publish": false
+            "publish": false,
+            "breadcrumb": "The history of Video Mapping > About"
           },
           {
             "pageSuid": "4A19MAyN4y",
@@ -40,7 +41,8 @@
                 "pageSlug": "the-future",
                 "pageType": "empty",
                 "subpage": [],
-                "publish": false
+                "publish": false,
+                "breadcrumb": "The history of Video Mapping > About > 1 And Beyond > not problematic page"
               },
               {
                 "pageSuid": "EGea2fMGis",
