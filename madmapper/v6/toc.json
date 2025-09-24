@@ -111,6 +111,42 @@
         "minorVersion": "6",
         "subpage": [],
         "publish": true
+      },
+      {
+        "pageSuid": "320vdCTyXG",
+        "pageTitle": "Credits",
+        "pageSlug": "credits",
+        "pageType": "empty",
+        "minorVersion": "6",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "Vpyz73pef5",
+        "pageTitle": "Video Tutorials",
+        "pageSlug": "video-tutorials",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "PRw6mbHC73",
+        "pageTitle": "Cheat sheet",
+        "pageSlug": "cheat-sheet",
+        "pageType": "empty",
+        "minorVersion": "6",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "qttFw8vcap",
+        "pageTitle": "Troubleshooting",
+        "pageSlug": "troubleshooting",
+        "pageType": "empty",
+        "minorVersion": "6",
+        "subpage": [],
+        "publish": true
       }
     ],
     "publish": true
