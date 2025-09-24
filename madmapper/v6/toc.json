@@ -95,5 +95,24 @@
     "minorVersion": "6",
     "subpage": [],
     "publish": true
+  },
+  {
+    "pageSuid": "r0NrKs4C9N",
+    "pageTitle": "MadAI",
+    "pageSlug": "madai",
+    "pageType": "card",
+    "minorVersion": "6",
+    "subpage": [
+      {
+        "pageSuid": "w3JeqA9XUa",
+        "pageTitle": "Getting Started",
+        "pageSlug": "getting-started",
+        "pageType": "empty",
+        "minorVersion": "6",
+        "subpage": [],
+        "publish": true
+      }
+    ],
+    "publish": true
   }
 ]
