@@ -86,5 +86,14 @@
       }
     ],
     "publish": true
+  },
+  {
+    "pageSuid": "b0iVTYJnoe",
+    "pageTitle": "About MadMapper",
+    "pageSlug": "about-madmapper",
+    "pageType": "empty",
+    "minorVersion": "6",
+    "subpage": [],
+    "publish": true
   }
 ]
