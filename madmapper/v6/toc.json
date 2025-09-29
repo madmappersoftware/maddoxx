@@ -156,6 +156,14 @@
         "minorVersion": "0",
         "subpage": [],
         "publish": true
+      },
+      {
+        "pageSuid": "FemLlzHh3B",
+        "pageTitle": "MadAI Stars",
+        "pageSlug": "madai-stars",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": []
       }
     ],
     "publish": true
