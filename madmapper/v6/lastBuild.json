@@ -3,7 +3,7 @@
     "pageSuid": "UeMk7FMfxY",
     "pageSlug": "the-history-of-video-mapping",
     "lang": "en",
-    "content": "<p>Hello My Name is FRZ</p>\n<p>Hello My Name is <a class=\"int-link\" href=\"/madmapper/6/the-history-of-video-mapping/about\" data-page-suid=\"YxaRDWwB4v\">BOBO</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><img src=\"https://download.madmapper.com/madshop_test/piment.png\" width=\"139\" height=\"139\" data-media-id=\"DQTDpNkeFI\"></p>\n<p>&nbsp;</p>\n<p>hellowww</p>\n<p>&nbsp;</p>\n<p>abcdefghijklmnopqrstuvwxyz</p>\n<p>0123456789</p>"
+    "content": "<p>Hello My Name is <a class=\"int-link\" href=\"/madmapper/6/the-history-of-video-mapping/about/1-and-beyond/the-end\" data-page-suid=\"gwHOZFmpAU\">FRZ</a></p>\n<p>Hello My Name is <a class=\"int-link\" href=\"/madmapper/6/the-history-of-video-mapping/about\" data-page-suid=\"YxaRDWwB4v\">BOBO</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><img src=\"https://download.madmapper.com/madshop_prod/piment.png\" width=\"139\" height=\"139\" data-media-id=\"DQTDpNkeFI\"></p>\n<p>&nbsp;</p>\n<p>hellowww</p>\n<p>&nbsp;</p>\n<p>abcdefghijklmnopqrstuvwxyz</p>\n<p>0123456789</p>"
   },
   {
     "pageSuid": "YxaRDWwB4v",
@@ -40,5 +40,59 @@
     "pageSlug": "the-day-before-it-happenned",
     "lang": "en",
     "content": "<h2>BALBLALALA</h2>\n<p>1233456</p>\n<h2 id=\"thebigbangandcosmicexpansion\">The Big Bang and Cosmic Expansion</h2>\n<p>alors le big bang ce n'est pas s&ucirc;r</p>\n<p>The <strong>Big Bang theory</strong> represents our current best understanding of how the universe began and evolved into what we observe today. According to this model, the universe started from an extremely hot, dense state approximately <strong>13.8 billion years ago</strong>.</p>\n<h3 id=\"theinitialsingularity\">The Initial Singularity</h3>\n<p>At the very beginning, all matter and energy in the universe was compressed into a point of infinite density called a <strong>singularity</strong>. At this moment, the fundamental forces of physics as we know them did not yet exist, and our current understanding of space and time breaks down.</p>\n<h3 id=\"thefirstmomentsofexpansion\">The First Moments of Expansion</h3>\n<p>Rather than an explosion <em>into</em> space, the Big Bang was an expansion <em>of</em> space itself. In the first fraction of a second:</p>\n<ul>\n<li>The universe underwent <strong>rapid inflation</strong>, expanding faster than the speed of light</li>\n<li>Temperatures were incredibly high, preventing the formation of atoms</li>\n<li>Only fundamental particles and energy existed in this primordial soup</li>\n</ul>\n<h3 id=\"coolingandstructureformation\">Cooling and Structure Formation</h3>\n<p>As the universe continued to expand, it began to cool:</p>\n<ul>\n<li><strong>Protons and neutrons</strong> formed from quarks</li>\n<li>Light elements like <strong>hydrogen and helium</strong> were created through nucleosynthesis</li>\n<li>After about 380,000 years, the universe cooled enough for electrons to combine with nuclei, forming the first atoms</li>\n<li>This allowed light to travel freely for the first time, creating what we now observe as the <strong>cosmic microwave background radiation</strong></li>\n</ul>\n<h3 id=\"evidenceforexpansion\">Evidence for Expansion</h3>\n<p>The expansion theory is supported by several key observations:</p>\n<ul>\n<li><strong>Hubble's Law</strong>: Distant galaxies are moving away from us, with more distant galaxies receding faster</li>\n<li><strong>Cosmic microwave background</strong>: The afterglow of the Big Bang fills the entire universe</li>\n<li><strong>Abundance of light elements</strong>: The observed ratios of hydrogen and helium match theoretical predictions</li>\n</ul>\n<p>This expansion continues today, with the universe growing larger and cooler as time progresses.</p>"
+  },
+  {
+    "pageSuid": "cKuSVasvuN",
+    "pageSlug": "1-and-beyond",
+    "lang": "en",
+    "content": "<p>After they invented the video projector</p>\n<p>test</p>\n<p>un truc</p>"
+  },
+  {
+    "pageSuid": "gwHOZFmpAU",
+    "pageSlug": "the-end",
+    "lang": "en",
+    "content": "<p>My only friend</p>"
+  },
+  {
+    "pageSuid": "b0iVTYJnoe",
+    "pageSlug": "about-madmapper",
+    "lang": "en",
+    "content": "<h2 class=\"int-link-anchors\">About MadMapper</h2>\n<p>MadMapper is a collaborative software project between the french installation studio 1024 architecture and the Swiss software makers GarageCube. With more than 10 years experience in the field, we are devoted to bringing you the best tool for your artistic needs.</p>\n<p>&nbsp;</p>\n<p>More photos to come below.</p>"
+  },
+  {
+    "pageSuid": "r0NrKs4C9N",
+    "pageSlug": "madai",
+    "lang": "en",
+    "content": ""
+  },
+  {
+    "pageSuid": "w3JeqA9XUa",
+    "pageSlug": "getting-started",
+    "lang": "en",
+    "content": "<h2 class=\"int-link-anchors\">About MadAI</h2>\n<h3>Extra Intelligence at your fingertips !</h3>\n<p>MadAI uses artificial intelligence to help you develop realtime materials and FX for MadMapper.</p>\n<p>Let your imagination go wild !</p>\n<p>&nbsp;</p>\n<p><img src=\"https://download.madmapper.com/madshop_prod/7C3C6A98-D1A3-434D-B46F-A6B075411841.png\" width=\"638\" height=\"425\" data-media-id=\"Jp8RPeE9UG\"></p>\n<h3>What you can do</h3>\n<p>MadAI allows you to:</p>\n<ul>\n<li>Generate brand-new shaders</li>\n<li>Remix existing materials</li>\n<li>Create laser materials</li>\n<li>Build and edit 2DFX surfaces</li>\n<li>Publish your creations to the online Library</li>\n</ul>\n<h3>Coding skills</h3>\n<p>MadAI is designed for everyone, including non-coders. If you're just getting started, you can generate stunning results using simple prompts - no technical knowledge required.</p>\n<h3>Iterative prompts</h3>\n<p>Iterative prompting means building your creation step by step using short, focused prompts.</p>\n<p>Here are a few helpful examples:</p>\n<ul>\n<li>&ldquo;Create a sphere in 3D with lighting&rdquo;</li>\n<li>&ldquo;Add camera angle controls&rdquo;</li>\n<li>&ldquo;Add depth fog\"</li>\n</ul>\n<div id=\"products\"></div>"
+  },
+  {
+    "pageSuid": "320vdCTyXG",
+    "pageSlug": "credits",
+    "lang": "en",
+    "content": "<h2 class=\"int-link-anchors\">Credits</h2>\n<h3>Basics</h3>\n<p>MadAI credits are required to make requests to MadAI Artificial Intelligence. You can purchase credits here: <a title=\"MadAI Credits\" href=\"https://madmapper.com/extensions/madai\" target=\"_blank\" rel=\"noopener\">https://madmapper.com/extensions/madai</a></p>\n<p>The credits will be stored in your MadMapper account. Basically 1 credit = 1 prompt.</p>\n<h4>Expiration</h4>\n<p>Unused credits remain in your account until you use them. They don&rsquo;t expire!</p>\n<h4>Prompts</h4>\n<p>Basically 1 credit = 1 prompt. The quality level or style you choose does not affect credit usage. Even at maximum settings, 1 credit always equals 1 prompt.</p>\n<h3>Troubleshooting</h3>\n<h4>I&rsquo;ve purchased credits but they don&rsquo;t appear in MadMapper</h4>\n<ul>\n<li>Check your email for the order confirmation</li>\n<li>Log in to your MadMapper account to verify that the order has been placed and successfully paid</li>\n<li>In MadMapper, go to Account (top menu) and make sure you're logged into the correct account</li>\n<li>Try logging out and logging back in</li>\n</ul>\n<p>If the issue persists, please contact the support with your order number and MadMapper account ID.</p>\n<h4>I submitted a prompt but received an error message</h4>\n<ul>\n<li>Please share the exact error message with our support team</li>\n<li>Also make sure you&rsquo;re using the latest version of MadMapper available under your license</li>\n</ul>"
+  },
+  {
+    "pageSuid": "Vpyz73pef5",
+    "pageSlug": "video-tutorials",
+    "lang": "en",
+    "content": "<h2 class=\"int-link-anchors\">Youtube video tutorials</h2>\n<h3>Discover MadAI</h3>\n<p><iframe src=\"https://www.youtube.com/embed/nA_oM8N7Mxw?embeds_referring_euri=https\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>&nbsp;</p>\n<h3>Audio reactive materials using MadAI</h3>\n<p><iframe src=\"https://www.youtube.com/embed/ZM7ExAPOEf4\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>&nbsp;</p>\n<h3>Remix materials with AI in MadMapper</h3>\n<p><iframe src=\"https://www.youtube.com/embed/qKd6o-ttl2g\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<h3><br>MadAI creates 2D surface FX</h3>\n<p><iframe src=\"https://www.youtube.com/embed/juLnN9MOFfg\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>&nbsp;</p>\n<h3>Use AI to generate a Laser Material</h3>\n<p><iframe src=\"https://www.youtube.com/embed/KTkepMgTTGU\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>&nbsp;</p>\n<h3>Use Mad AI to generate a city !</h3>\n<p><iframe src=\"https://www.youtube.com/embed/1-Kom9MUt68\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>"
+  },
+  {
+    "pageSuid": "PRw6mbHC73",
+    "pageSlug": "cheat-sheet",
+    "lang": "en",
+    "content": "<h2 class=\"int-link-anchors\">MadAI cheat sheet</h2>\n<h3>Prompting best practices</h3>\n<h4>Basic shapes</h4>\n<p class=\"p1\">sphere</p>\n<p class=\"p1\">cube</p>\n<p class=\"p1\">pyramid</p>\n<p class=\"p1\">platonic solid</p>\n<p class=\"p1\">torus</p>\n<p class=\"p1\">cylinder</p>\n<p class=\"p1\">plane</p>\n<h4>Rendering</h4>\n<p class=\"p1\">3d</p>\n<p class=\"p1\">raymarching</p>\n<p class=\"p1\">sdf</p>\n<p class=\"p1\">ambient occlusion</p>\n<p class=\"p1\">lighting</p>\n<p class=\"p1\">shading</p>\n<p class=\"p1\">specular</p>\n<p class=\"p1\">diﬀuse lighting</p>\n<p class=\"p1\">soft shadow</p>\n<p class=\"p1\">hard shadow</p>\n<p class=\"p1\">fresnel</p>\n<p class=\"p1\">bloom</p>\n<p class=\"p1\">glow</p>\n<p class=\"p1\">outline</p>\n<p class=\"p1\">curvature</p>\n<p class=\"p1\">normal displacement</p>\n<p class=\"p1\">deformation</p>\n<p class=\"p1\">greeble</p>\n<p class=\"p1\">outline</p>\n<p class=\"p1\">repeat in X Y Z axis</p>\n<p class=\"p1\">pMod</p>\n<p class=\"p1\">depth fog</p>\n<h4>Noises</h4>\n<p class=\"p1\">fBm</p>\n<p class=\"p1\">vnoise</p>\n<p class=\"p1\">voronoi</p>\n<p class=\"p1\">flowNoise</p>\n<h4>Camera</h4>\n<p class=\"p1\">camera angle</p>\n<p class=\"p1\">camera orbit</p>\n<p class=\"p1\">FOV</p>\n<h4>Animation</h4>\n<p class=\"p1\">breathe</p>\n<p class=\"p1\">wobble</p>\n<p class=\"p1\">flicker</p>\n<p class=\"p1\">bounce</p>\n<p class=\"p1\">rotozoom</p>\n<p class=\"p1\">sine warp</p>"
+  },
+  {
+    "pageSuid": "qttFw8vcap",
+    "pageSlug": "troubleshooting",
+    "lang": "en",
+    "content": "<h2 class=\"int-link-anchors\">Troubleshooting</h2>\n<h4>I can&rsquo;t find MadAI in MadMapper</h4>\n<p>Make sure you are using MadMapper version 5.7 or later, and you are logged into MadMapper with the correct account.</p>\n<p>To access MadAI:</p>\n<ul>\n<li>In MadMapper, go to the bottom panel</li>\n<li>Open the Tools section</li>\n<li>Find AI / Code Editor in the list</li>\n<li>Click the + (plus) button &rarr; Select New Material</li>\n<li>Make sure \"Using MadAI\" is checked</li>\n</ul>\n<p>If the option is still missing, try restarting MadMapper or reinstalling the latest version supported by your license.</p>\n<h4>MadMapper says the material name is already in use, but I&rsquo;ve deleted it</h4>\n<p>This is a known behavior. Simply choose a different material name, even if the previous one was deleted. The name may still be cached.</p>\n<h4>I can&rsquo;t connect to the MadMapper Library</h4>\n<p>Please check the following:</p>\n<ul>\n<li>Are you connected to the internet?</li>\n<li>Are you using the correct password for your account?</li>\n<li>Do you have any firewalls or security software that could be blocking access? Try temporarily disabling them or whitelisting MadMapper</li>\n</ul>\n<h4>I&rsquo;ve purchased credits but they don&rsquo;t appear in MadMapper</h4>\n<ul>\n<li>Check your email for the order confirmation</li>\n<li>Log in to your MadMapper account to verify that the order has been placed and successfully paid</li>\n<li>In MadMapper, go to Account (top menu) and make sure you're logged into the correct account</li>\n<li>Try logging out and logging back in</li>\n</ul>\n<p>If the issue persists, please contact the support with your order number and MadMapper account ID.</p>\n<h4>I submitted a prompt but received an error message</h4>\n<ul>\n<li>Please share the exact error message with our support team</li>\n<li>Also make sure you&rsquo;re using the latest version of MadMapper available under your license</li>\n</ul>\n<h4>I can&rsquo;t post my material to the library</h4>\n<ul>\n<li>Make sure you&rsquo;re connected to the Library in MadMapper</li>\n<li>Double-check that you are using the correct account</li>\n<li>Restart MadMapper and check for updates</li>\n</ul>\n<p>If the issue persists, please contact the support team</p>\n<h4>MadMapper is crashing</h4>\n<ul>\n<li>Make sure you&rsquo;re using the latest version available for your license</li>\n<li>If the crash persists, please send the crash report (which appears after reopening the app) to our support team</li>\n</ul>"
   }
 ]

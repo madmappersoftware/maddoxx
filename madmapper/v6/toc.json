@@ -147,6 +147,14 @@
         "minorVersion": "6",
         "subpage": [],
         "publish": true
+      },
+      {
+        "pageSuid": "u3IVMwF3Rz",
+        "pageTitle": "AI users projects",
+        "pageSlug": "ai-users-projects",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": []
       }
     ],
     "publish": true
