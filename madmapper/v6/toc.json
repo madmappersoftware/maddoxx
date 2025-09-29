@@ -154,7 +154,8 @@
         "pageSlug": "ai-users-projects",
         "pageType": "empty",
         "minorVersion": "0",
-        "subpage": []
+        "subpage": [],
+        "publish": true
       }
     ],
     "publish": true
