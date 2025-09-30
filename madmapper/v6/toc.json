@@ -26,7 +26,7 @@
                 "publish": true
               }
             ],
-            "publish": false,
+            "publish": true,
             "breadcrumb": "The history of Video Mapping > About"
           },
           {
@@ -41,7 +41,7 @@
                 "pageSlug": "the-future",
                 "pageType": "empty",
                 "subpage": [],
-                "publish": false,
+                "publish": true,
                 "breadcrumb": "The history of Video Mapping > About > 1 And Beyond > not problematic page"
               },
               {
@@ -59,6 +59,25 @@
                     "publish": true
                   }
                 ],
+                "publish": true
+              }
+            ],
+            "publish": true
+          },
+          {
+            "pageSuid": "7BQ514ZYg3",
+            "pageTitle": "About What?",
+            "pageSlug": "about-what",
+            "pageType": "empty",
+            "minorVersion": "0",
+            "subpage": [
+              {
+                "pageSuid": "X8TJ9Q6WGQ",
+                "pageTitle": "You know",
+                "pageSlug": "you-know",
+                "pageType": "empty",
+                "minorVersion": "0",
+                "subpage": [],
                 "publish": true
               }
             ],
@@ -81,6 +100,15 @@
         "pageTitle": "The day before it happenned",
         "pageSlug": "the-day-before-it-happenned",
         "pageType": "empty",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "9cWOdAKBSn",
+        "pageTitle": "The origins of Mapping",
+        "pageSlug": "the-origins-of-mapping",
+        "pageType": "empty",
+        "minorVersion": "0",
         "subpage": [],
         "publish": true
       }
@@ -109,6 +137,15 @@
         "pageSlug": "getting-started",
         "pageType": "empty",
         "minorVersion": "6",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "aRZYkYar4M",
+        "pageTitle": "MadAI Last News",
+        "pageSlug": "madai-last-news",
+        "pageType": "empty",
+        "minorVersion": "0",
         "subpage": [],
         "publish": true
       },
