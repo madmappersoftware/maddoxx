@@ -23,7 +23,7 @@
                 "pageSlug": "the-end",
                 "pageType": "empty",
                 "subpage": [],
-                "publish": true
+                "publish": false
               }
             ],
             "publish": true,
@@ -84,7 +84,8 @@
             "publish": true
           }
         ],
-        "publish": false
+        "publish": false,
+        "breadcrumb": "The history of Video Mapping"
       }
     ],
     "publish": true
