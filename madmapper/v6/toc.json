@@ -59,7 +59,7 @@
                     "publish": true
                   }
                 ],
-                "publish": true
+                "publish": false
               }
             ],
             "publish": true
