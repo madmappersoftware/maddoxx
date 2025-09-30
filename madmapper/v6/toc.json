@@ -23,7 +23,8 @@
                 "pageSlug": "the-end",
                 "pageType": "empty",
                 "subpage": [],
-                "publish": false
+                "publish": false,
+                "breadcrumb": "The history of Video Mapping > About > 1 And Beyond"
               }
             ],
             "publish": true,
@@ -59,7 +60,8 @@
                     "publish": true
                   }
                 ],
-                "publish": false
+                "publish": true,
+                "breadcrumb": "The history of Video Mapping > About > 1 And Beyond > not problematic page"
               }
             ],
             "publish": true
