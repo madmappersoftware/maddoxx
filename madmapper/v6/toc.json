@@ -147,6 +147,24 @@
         "minorVersion": "6",
         "subpage": [],
         "publish": true
+      },
+      {
+        "pageSuid": "u3IVMwF3Rz",
+        "pageTitle": "AI users projects",
+        "pageSlug": "ai-users-projects",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "FemLlzHh3B",
+        "pageTitle": "MadAI Stars",
+        "pageSlug": "madai-stars",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": true
       }
     ],
     "publish": true

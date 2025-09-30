@@ -1,9 +1,6 @@
 [
   {
-    "pageSuid": "UeMk7FMfxY",
-    "pageSlug": "the-history-of-video-mapping",
-    "lang": "en",
-    "content": "<p>Hello My Name is FRZ</p>\n<p>Hello My Name is <a class=\"int-link\" href=\"/madmapper/6/the-history-of-video-mapping/about\" data-page-suid=\"YxaRDWwB4v\">BOBO</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><img src=\"https://download.madmapper.com/madshop_prod/piment.png\" width=\"139\" height=\"139\" data-media-id=\"DQTDpNkeFI\"></p>\n<p>&nbsp;</p>\n<p>hellowww</p>\n<p>&nbsp;</p>\n<p>abcdefghijklmnopqrstuvwxyz</p>\n<p>0123456789</p>"
+    "content": "<p>Hello My Name is <a class=\"int-link\" href=\"/madmapper/6/the-history-of-video-mapping/about/1-and-beyond/the-end\" data-page-suid=\"gwHOZFmpAU\">FRZ</a></p>\n<p>Hello My Name is <a class=\"int-link\" href=\"/madmapper/6/the-history-of-video-mapping/about\" data-page-suid=\"YxaRDWwB4v\">BOBO</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><img src=\"https://download.madmapper.com/madshop_prod/piment.png\" width=\"139\" height=\"139\" data-media-id=\"DQTDpNkeFI\"></p>\n<p>&nbsp;</p>\n<p>hellowww</p>\n<p>&nbsp;</p>\n<p>abcdefghijklmnopqrstuvwxyz</p>\n<p>0123456789</p>"
   },
   {
     "pageSuid": "YxaRDWwB4v",
@@ -94,5 +91,17 @@
     "pageSlug": "troubleshooting",
     "lang": "en",
     "content": "<h2 class=\"int-link-anchors\">Troubleshooting</h2>\n<h4>I can&rsquo;t find MadAI in MadMapper</h4>\n<p>Make sure you are using MadMapper version 5.7 or later, and you are logged into MadMapper with the correct account.</p>\n<p>To access MadAI:</p>\n<ul>\n<li>In MadMapper, go to the bottom panel</li>\n<li>Open the Tools section</li>\n<li>Find AI / Code Editor in the list</li>\n<li>Click the + (plus) button &rarr; Select New Material</li>\n<li>Make sure \"Using MadAI\" is checked</li>\n</ul>\n<p>If the option is still missing, try restarting MadMapper or reinstalling the latest version supported by your license.</p>\n<h4>MadMapper says the material name is already in use, but I&rsquo;ve deleted it</h4>\n<p>This is a known behavior. Simply choose a different material name, even if the previous one was deleted. The name may still be cached.</p>\n<h4>I can&rsquo;t connect to the MadMapper Library</h4>\n<p>Please check the following:</p>\n<ul>\n<li>Are you connected to the internet?</li>\n<li>Are you using the correct password for your account?</li>\n<li>Do you have any firewalls or security software that could be blocking access? Try temporarily disabling them or whitelisting MadMapper</li>\n</ul>\n<h4>I&rsquo;ve purchased credits but they don&rsquo;t appear in MadMapper</h4>\n<ul>\n<li>Check your email for the order confirmation</li>\n<li>Log in to your MadMapper account to verify that the order has been placed and successfully paid</li>\n<li>In MadMapper, go to Account (top menu) and make sure you're logged into the correct account</li>\n<li>Try logging out and logging back in</li>\n</ul>\n<p>If the issue persists, please contact the support with your order number and MadMapper account ID.</p>\n<h4>I submitted a prompt but received an error message</h4>\n<ul>\n<li>Please share the exact error message with our support team</li>\n<li>Also make sure you&rsquo;re using the latest version of MadMapper available under your license</li>\n</ul>\n<h4>I can&rsquo;t post my material to the library</h4>\n<ul>\n<li>Make sure you&rsquo;re connected to the Library in MadMapper</li>\n<li>Double-check that you are using the correct account</li>\n<li>Restart MadMapper and check for updates</li>\n</ul>\n<p>If the issue persists, please contact the support team</p>\n<h4>MadMapper is crashing</h4>\n<ul>\n<li>Make sure you&rsquo;re using the latest version available for your license</li>\n<li>If the crash persists, please send the crash report (which appears after reopening the app) to our support team</li>\n</ul>"
+  },
+  {
+    "pageSuid": "u3IVMwF3Rz",
+    "pageSlug": "ai-users-projects",
+    "lang": "en",
+    "content": "<h2 class=\"int-link-anchors\">AI users wonders</h2>\n<p><img src=\"https://download.madmapper.com/madshop_prod/Playmodes Beyond.jpg\" width=\"794\" height=\"447\" data-media-id=\"NNN93ZVPaC\"></p>\n<h4>Playmodes / Beyond - 2025</h4>\n<p>More to come...</p>"
+  },
+  {
+    "pageSuid": "FemLlzHh3B",
+    "pageSlug": "madai-stars",
+    "lang": "en",
+    "content": ""
   }
 ]
