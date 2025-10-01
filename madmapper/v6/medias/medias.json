@@ -26,7 +26,7 @@
     "retina": false,
     "edited": 0,
     "source_id": null,
-		"pages": [
+    "pages": [
       {
         "pageSuid": "K4zC0vQRsG",
         "pageSlug": "problematic-page"
@@ -64,7 +64,7 @@
     "retina": false,
     "edited": 0,
     "source_id": null,
-		"pages": [
+    "pages": [
       {
         "pageSuid": "K4zC0vQRsG",
         "pageSlug": "problematic-page"
@@ -98,7 +98,7 @@
     "retina": false,
     "edited": 0,
     "source_id": null,
-		"pages": [
+    "pages": [
       {
         "pageSuid": "K4zC0vQRsG",
         "pageSlug": "problematic-page"
@@ -132,10 +132,84 @@
     "retina": false,
     "edited": 0,
     "source_id": null,
-		"pages": [
+    "pages": [
       {
         "pageSuid": "K4zC0vQRsG",
         "pageSlug": "problematic-page"
+      }
+    ]
+  },
+  {
+    "mediaId": "DQTDpNkeFI",
+    "filename": "piment.png",
+    "imgName": "piment",
+    "ext": "png",
+    "mimetype": "",
+    "url": "/piment.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-09-22T12:31:19.859Z",
+    "pages": [
+      {
+        "pageSuid": "UeMk7FMfxY",
+        "pageSlug": "the-history-of-video-mapping"
+      }
+    ]
+  },
+  {
+    "mediaId": "NNN93ZVPaC",
+    "filename": "Playmodes Beyond.jpg",
+    "imgName": "Playmodes Beyond",
+    "ext": "jpg",
+    "mimetype": "image/jpeg",
+    "url": "/Playmodes Beyond.jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "full",
+        "dimension": 1920
+      },
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-09-29T15:11:02.278Z",
+    "pages": [
+      {
+        "pageSuid": "u3IVMwF3Rz",
+        "pageSlug": "ai-users-projects"
       }
     ]
   }

@@ -23,10 +23,12 @@
                 "pageSlug": "the-end",
                 "pageType": "empty",
                 "subpage": [],
-                "publish": false
+                "publish": false,
+                "breadcrumb": "The history of Video Mapping > About > 1 And Beyond"
               }
             ],
-            "publish": false
+            "publish": true,
+            "breadcrumb": "The history of Video Mapping > About"
           },
           {
             "pageSuid": "4A19MAyN4y",
@@ -40,7 +42,8 @@
                 "pageSlug": "the-future",
                 "pageType": "empty",
                 "subpage": [],
-                "publish": false
+                "publish": false,
+                "breadcrumb": "The history of Video Mapping > About > 1 And Beyond > not problematic page"
               },
               {
                 "pageSuid": "EGea2fMGis",
@@ -54,19 +57,40 @@
                     "pageSlug": "problematic-page",
                     "pageType": "empty",
                     "subpage": [],
-                    "publish": false
+                    "publish": true
                   }
                 ],
-                "publish": false
+                "publish": false,
+                "breadcrumb": "The history of Video Mapping > About > 1 And Beyond > not problematic page"
               }
             ],
-            "publish": false
+            "publish": true
+          },
+          {
+            "pageSuid": "7BQ514ZYg3",
+            "pageTitle": "About What?",
+            "pageSlug": "about-what",
+            "pageType": "empty",
+            "minorVersion": "0",
+            "subpage": [
+              {
+                "pageSuid": "X8TJ9Q6WGQ",
+                "pageTitle": "You know",
+                "pageSlug": "you-know",
+                "pageType": "empty",
+                "minorVersion": "0",
+                "subpage": [],
+                "publish": true
+              }
+            ],
+            "publish": true
           }
         ],
-        "publish": true
+        "publish": true,
+        "breadcrumb": "The history of Video Mapping"
       }
     ],
-    "publish": false
+    "publish": true
   },
   {
     "pageSuid": "0aAXfsfuIA",
@@ -80,9 +104,109 @@
         "pageSlug": "the-day-before-it-happenned",
         "pageType": "empty",
         "subpage": [],
-        "publish": false
+        "publish": true
+      },
+      {
+        "pageSuid": "9cWOdAKBSn",
+        "pageTitle": "The origins of Mapping",
+        "pageSlug": "the-origins-of-mapping",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": true
       }
     ],
-    "publish": false
+    "publish": true
+  },
+  {
+    "pageSuid": "b0iVTYJnoe",
+    "pageTitle": "About MadMapper",
+    "pageSlug": "about-madmapper",
+    "pageType": "empty",
+    "minorVersion": "6",
+    "subpage": [],
+    "publish": true
+  },
+  {
+    "pageSuid": "r0NrKs4C9N",
+    "pageTitle": "MadAI",
+    "pageSlug": "madai",
+    "pageType": "card",
+    "minorVersion": "6",
+    "subpage": [
+      {
+        "pageSuid": "w3JeqA9XUa",
+        "pageTitle": "Getting Started",
+        "pageSlug": "getting-started",
+        "pageType": "empty",
+        "minorVersion": "6",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "aRZYkYar4M",
+        "pageTitle": "MadAI Last News",
+        "pageSlug": "madai-last-news",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "320vdCTyXG",
+        "pageTitle": "Credits",
+        "pageSlug": "credits",
+        "pageType": "empty",
+        "minorVersion": "6",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "Vpyz73pef5",
+        "pageTitle": "Video Tutorials",
+        "pageSlug": "video-tutorials",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "PRw6mbHC73",
+        "pageTitle": "Cheat sheet",
+        "pageSlug": "cheat-sheet",
+        "pageType": "empty",
+        "minorVersion": "6",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "qttFw8vcap",
+        "pageTitle": "Troubleshooting",
+        "pageSlug": "troubleshooting",
+        "pageType": "empty",
+        "minorVersion": "6",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "u3IVMwF3Rz",
+        "pageTitle": "AI users projects",
+        "pageSlug": "ai-users-projects",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "FemLlzHh3B",
+        "pageTitle": "MadAI Stars",
+        "pageSlug": "madai-stars",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": true
+      }
+    ],
+    "publish": true
   }
 ]
