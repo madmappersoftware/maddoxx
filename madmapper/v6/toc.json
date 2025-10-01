@@ -201,7 +201,7 @@
         "pageType": "empty",
         "minorVersion": "0",
         "subpage": [],
-        "publish": false
+        "publish": true
       }
     ],
     "publish": true
