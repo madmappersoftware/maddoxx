@@ -255,5 +255,40 @@
         "pageSlug": "1-and-beyond"
       }
     ]
+  },
+  {
+    "mediaId": "fIo9rSqNbA",
+    "filename": "ChatGPT Image 19 août 2025 à 11_03_22.png",
+    "imgName": "ChatGPT Image 19 août 2025 à 11_03_22",
+    "ext": "png",
+    "mimetype": "",
+    "url": "/ChatGPT Image 19 août 2025 à 11_03_22.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-10-01T10:00:43.976Z",
+    "pages": [
+      {
+        "pageSuid": "cKuSVasvuN",
+        "pageSlug": "1-and-beyond"
+      }
+    ]
   }
 ]
