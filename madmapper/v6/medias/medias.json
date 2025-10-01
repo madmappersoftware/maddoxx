@@ -212,5 +212,48 @@
         "pageSlug": "ai-users-projects"
       }
     ]
+  },
+  {
+    "mediaId": "gVCUVqHWGf",
+    "filename": "Playmodes - Beyond 2(for test).jpg",
+    "imgName": "Playmodes - Beyond 2(for test)",
+    "ext": "jpg",
+    "mimetype": "",
+    "url": "/Playmodes - Beyond 2(for test).jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "full",
+        "dimension": 1920
+      },
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-10-01T11:26:13.229Z",
+    "pages": [
+      {
+        "pageSuid": "FemLlzHh3B",
+        "pageSlug": "madai-stars"
+      }
+    ]
   }
 ]
