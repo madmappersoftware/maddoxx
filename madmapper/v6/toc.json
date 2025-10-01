@@ -1,760 +1,212 @@
 [
   {
-    "pageSuid": "MzeYYHIzCL",
-    "pageTitle": "test",
-    "pageSlug": "test",
+    "pageSuid": "UeMk7FMfxY",
+    "pageTitle": "The history of Video Mapping",
+    "pageSlug": "the-history-of-video-mapping",
     "pageType": "empty",
     "subpage": [
       {
-        "pageSuid": "7HuEqFM26Q",
-        "pageTitle": "test3",
-        "pageSlug": "test3",
-        "pageType": "empty",
-        "subpage": [],
-        "publish": true
-      },
-      {
-        "pageSuid": "TrR5k9Yb6v",
-        "pageTitle": "truc",
-        "pageSlug": "truc",
-        "pageType": "empty",
-        "minor_version": "1",
-        "subpage": [],
-        "publish": false
-      }
-    ],
-    "publish": false
-  },
-  {
-    "pageSuid": "DT6ALV2Cce",
-    "pageTitle": "test35",
-    "pageSlug": "test35",
-    "pageType": "empty",
-    "subpage": [
-      {
-        "pageSuid": "59olGxDPUn",
-        "pageTitle": "test5",
-        "pageSlug": "test5",
-        "pageType": "empty",
-        "subpage": [],
-        "publish": true
-      },
-      {
-        "pageSuid": "AXqe4hfKr5",
-        "pageTitle": "test6",
-        "pageSlug": "test6",
+        "pageSuid": "YxaRDWwB4v",
+        "pageTitle": "About",
+        "pageSlug": "about",
         "pageType": "empty",
         "subpage": [
           {
-            "pageSuid": "TcS6XvXCoF",
-            "pageTitle": "ssxrefx",
-            "pageSlug": "ssxrefx",
-            "pageType": "empty",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "ttbSHqpQNm",
-            "pageTitle": "vhuyy",
-            "pageSlug": "vhuyy",
+            "pageSuid": "cKuSVasvuN",
+            "pageTitle": "1 And Beyond",
+            "pageSlug": "1-and-beyond",
             "pageType": "empty",
             "subpage": [
               {
-                "pageSuid": "P0bfryu6xE",
-                "pageTitle": "vgyhfgv",
-                "pageSlug": "vgyhfgv",
+                "pageSuid": "gwHOZFmpAU",
+                "pageTitle": "The End",
+                "pageSlug": "the-end",
                 "pageType": "empty",
                 "subpage": [],
-                "publish": false
-              },
-              {
-                "pageSuid": "7v8qe1L8oA",
-                "pageTitle": "xgvfcwx",
-                "pageSlug": "xgvfcwx",
-                "pageType": "empty",
-                "subpage": [],
-                "publish": false
+                "publish": false,
+                "breadcrumb": "The history of Video Mapping > About > 1 And Beyond"
               }
             ],
-            "publish": false
+            "publish": true,
+            "breadcrumb": "The history of Video Mapping > About"
+          },
+          {
+            "pageSuid": "4A19MAyN4y",
+            "pageTitle": "not problematic page",
+            "pageSlug": "not-problematic-page",
+            "pageType": "empty",
+            "subpage": [
+              {
+                "pageSuid": "RjJq1TKK4w",
+                "pageTitle": "The Future",
+                "pageSlug": "the-future",
+                "pageType": "empty",
+                "subpage": [],
+                "publish": false,
+                "breadcrumb": "The history of Video Mapping > About > 1 And Beyond > not problematic page"
+              },
+              {
+                "pageSuid": "EGea2fMGis",
+                "pageTitle": "The early days",
+                "pageSlug": "the-early-days",
+                "pageType": "empty",
+                "subpage": [
+                  {
+                    "pageSuid": "K4zC0vQRsG",
+                    "pageTitle": "Problematic Page",
+                    "pageSlug": "problematic-page",
+                    "pageType": "empty",
+                    "subpage": [],
+                    "publish": true
+                  }
+                ],
+                "publish": false,
+                "breadcrumb": "The history of Video Mapping > About > 1 And Beyond > not problematic page"
+              }
+            ],
+            "publish": true
+          },
+          {
+            "pageSuid": "7BQ514ZYg3",
+            "pageTitle": "About What?",
+            "pageSlug": "about-what",
+            "pageType": "empty",
+            "minorVersion": "0",
+            "subpage": [
+              {
+                "pageSuid": "X8TJ9Q6WGQ",
+                "pageTitle": "You know",
+                "pageSlug": "you-know",
+                "pageType": "empty",
+                "minorVersion": "0",
+                "subpage": [],
+                "publish": true
+              }
+            ],
+            "publish": true
           }
         ],
+        "publish": true,
+        "breadcrumb": "The history of Video Mapping"
+      }
+    ],
+    "publish": true
+  },
+  {
+    "pageSuid": "0aAXfsfuIA",
+    "pageTitle": "Historicsal concept",
+    "pageSlug": "historicsal-concept",
+    "pageType": "empty",
+    "subpage": [
+      {
+        "pageSuid": "zhOoeZDMnI",
+        "pageTitle": "The day before it happenned",
+        "pageSlug": "the-day-before-it-happenned",
+        "pageType": "empty",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "9cWOdAKBSn",
+        "pageTitle": "The origins of Mapping",
+        "pageSlug": "the-origins-of-mapping",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
         "publish": true
       }
     ],
     "publish": true
   },
   {
-    "pageSuid": "eu02LAaJNr",
-    "pageTitle": "MadAI (test)",
-    "pageSlug": "madai-(test)",
+    "pageSuid": "b0iVTYJnoe",
+    "pageTitle": "About MadMapper",
+    "pageSlug": "about-madmapper",
     "pageType": "empty",
-    "minor_version": "1",
+    "minorVersion": "6",
+    "subpage": [],
+    "publish": true
+  },
+  {
+    "pageSuid": "r0NrKs4C9N",
+    "pageTitle": "MadAI",
+    "pageSlug": "madai",
+    "pageType": "card",
+    "minorVersion": "6",
     "subpage": [
       {
-        "pageSuid": "YHwM11Cm4K",
-        "pageTitle": "Getting started",
+        "pageSuid": "w3JeqA9XUa",
+        "pageTitle": "Getting Started",
         "pageSlug": "getting-started",
         "pageType": "empty",
-        "minor_version": "1",
+        "minorVersion": "6",
         "subpage": [],
-        "publish": false
+        "publish": true
       },
       {
-        "pageSuid": "hjLCZqjVZ5",
+        "pageSuid": "aRZYkYar4M",
+        "pageTitle": "MadAI Last News",
+        "pageSlug": "madai-last-news",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "320vdCTyXG",
         "pageTitle": "Credits",
         "pageSlug": "credits",
         "pageType": "empty",
-        "minor_version": "1",
+        "minorVersion": "6",
         "subpage": [],
-        "publish": false
+        "publish": true
       },
       {
-        "pageSuid": "BgPeuLY4Ir",
-        "pageTitle": "Video tutorials",
-        "pageSlug": "video-tutorials",
-        "pageType": "empty",
-        "minor_version": "1",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "zdMQRcZTP9",
-        "pageTitle": "Cheat sheet",
-        "pageSlug": "cheat-sheet",
-        "pageType": "empty",
-        "minor_version": "1",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "OebCQjGqFd",
-        "pageTitle": "Troubleshooting",
-        "pageSlug": "troubleshooting",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [],
-        "publish": false
-      }
-    ],
-    "publish": false
-  },
-  {
-    "pageSuid": "REjK1pggPt",
-    "pageTitle": "MadProjectorControl (test)",
-    "pageSlug": "madprojectorcontrol-(test)",
-    "pageType": "card",
-    "minor_version": "",
-    "subpage": [
-      {
-        "pageSuid": "Kc08Ll314e",
-        "pageTitle": "Getting started",
-        "pageSlug": "getting-started",
-        "pageType": "empty",
-        "minor_version": "",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "Lb8l9Ex6ct",
-        "pageTitle": "Setup",
-        "pageSlug": "setup",
-        "pageType": "empty",
-        "minor_version": "",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "KetWCvrFUy",
-        "pageTitle": "Video tutorials",
-        "pageSlug": "video-tutorials",
-        "pageType": "empty",
-        "minor_version": "",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "qs8H9HL8AL",
-        "pageTitle": "Troubleshooting",
-        "pageSlug": "troubleshooting",
-        "pageType": "empty",
-        "minor_version": "",
-        "subpage": [],
-        "publish": false
-      }
-    ],
-    "publish": false
-  },
-  {
-    "pageSuid": "7IxQn3GEHe",
-    "pageTitle": "MiniMad (test)",
-    "pageSlug": "minimad-(test)",
-    "pageType": "card",
-    "minorVersion": "",
-    "subpage": [
-      {
-        "pageSuid": "eQfpYNVGAP",
-        "pageTitle": "Getting Started",
-        "pageSlug": "getting-started",
-        "pageType": "card",
-        "minorVersion": "",
-        "subpage": [
-          {
-            "pageSuid": "w7Az8ZY3AV",
-            "pageTitle": "Overview",
-            "pageSlug": "overview",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "z7EkpGGwe8",
-            "pageTitle": "Quick Start",
-            "pageSlug": "quick-start",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          }
-        ],
-        "publish": false
-      },
-      {
-        "pageSuid": "XxQpQNUKy0",
-        "pageTitle": "MiniMad Video",
-        "pageSlug": "minimad-video",
-        "pageType": "card",
-        "minorVersion": "",
-        "subpage": [
-          {
-            "pageSuid": "DCOLmEgZEP",
-            "pageTitle": "Must Know",
-            "pageSlug": "must-know",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "LLalzPH0Be",
-            "pageTitle": "Export",
-            "pageSlug": "export",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "ADM3fRTT3m",
-            "pageTitle": "Network Synchronisation",
-            "pageSlug": "network-synchronisation",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "6CF0wlxzlQ",
-            "pageTitle": "Controls",
-            "pageSlug": "controls",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "WGjMx58FGN",
-            "pageTitle": "Video Tutorials",
-            "pageSlug": "video-tutorials",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          }
-        ],
-        "publish": false
-      },
-      {
-        "pageSuid": "zKk3XJrhlC",
-        "pageTitle": "MiniMad Light",
-        "pageSlug": "minimad-light",
-        "pageType": "card",
-        "minorVersion": "",
-        "subpage": [
-          {
-            "pageSuid": "1VXft8og0q",
-            "pageTitle": "Features",
-            "pageSlug": "features",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "OPECunlVE6",
-            "pageTitle": "Video Tutorials",
-            "pageSlug": "video-tutorials",
-            "pageType": "empty",
-            "minorVersion": "",
-            "subpage": [],
-            "publish": false
-          }
-        ],
-        "publish": false
-      },
-      {
-        "pageSuid": "5KSdVdgwzl",
-        "pageTitle": "TouchOSC",
-        "pageSlug": "touchosc",
-        "pageType": "empty",
-        "minorVersion": "",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "MDP33RCsIb",
-        "pageTitle": "Tips and tricks",
-        "pageSlug": "tips-and-tricks",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "yXN7fuKTkI",
-        "pageTitle": "Troubleshooting",
-        "pageSlug": "troubleshooting",
-        "pageType": "empty",
-        "minorVersion": "",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "kB6rwfEBeB",
-        "pageTitle": "Additional Information",
-        "pageSlug": "additional-information",
-        "pageType": "empty",
-        "minorVersion": "",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "vSgAeKeeO6",
-        "pageTitle": "Frequently asked questions",
-        "pageSlug": "frequently-asked-questions",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [],
-        "publish": false
-      }
-    ],
-    "publish": false
-  },
-  {
-    "pageSuid": "zIZko5WtJZ",
-    "pageTitle": "MadLaser (test)",
-    "pageSlug": "madlaser-(test)",
-    "pageType": "card",
-    "minorVersion": "0",
-    "subpage": [
-      {
-        "pageSuid": "I4wq3xBBtU",
-        "pageTitle": "Getting Started",
-        "pageSlug": "getting-started",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "bHoVerfxlW",
-        "pageTitle": "Licensing",
-        "pageSlug": "licensing",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "oqtFKEgB3S",
-        "pageTitle": "Supported Hardware",
-        "pageSlug": "supported-hardware",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [],
-        "publish": false
-      },
-      {
-        "pageSuid": "NXkU66mzQm",
-        "pageTitle": "In Depth",
-        "pageSlug": "in-depth",
-        "pageType": "card",
-        "minorVersion": "0",
-        "subpage": [
-          {
-            "pageSuid": "Prc5AlpLSx",
-            "pageTitle": "Laser Outputs",
-            "pageSlug": "laser-outputs",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "lb5f1LunhK",
-            "pageTitle": "Laser Surfaces",
-            "pageSlug": "laser-surfaces",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [
-              {
-                "pageSuid": "6wYIMfBXTM",
-                "pageTitle": "Laser quads",
-                "pageSlug": "laser-quads",
-                "pageType": "empty",
-                "minorVersion": "0",
-                "subpage": [],
-                "publish": false
-              },
-              {
-                "pageSuid": "31PoAXAxEN",
-                "pageTitle": "Laser lines",
-                "pageSlug": "laser-lines",
-                "pageType": "empty",
-                "minorVersion": "0",
-                "subpage": [],
-                "publish": false
-              },
-              {
-                "pageSuid": "bDebZaeANs",
-                "pageTitle": "Laser text",
-                "pageSlug": "laser-text",
-                "pageType": "empty",
-                "minorVersion": "0",
-                "subpage": [],
-                "publish": false
-              }
-            ],
-            "publish": false
-          },
-          {
-            "pageSuid": "o9YP47ud88",
-            "pageTitle": "Laser Materials",
-            "pageSlug": "laser-materials",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          }
-        ],
-        "publish": false
-      },
-      {
-        "pageSuid": "A7toEXUrgG",
+        "pageSuid": "Vpyz73pef5",
         "pageTitle": "Video Tutorials",
         "pageSlug": "video-tutorials",
         "pageType": "empty",
         "minorVersion": "0",
         "subpage": [],
-        "publish": false
+        "publish": true
       },
       {
-        "pageSuid": "cTw9Pq5rH7",
+        "pageSuid": "PRw6mbHC73",
+        "pageTitle": "Cheat sheet",
+        "pageSlug": "cheat-sheet",
+        "pageType": "empty",
+        "minorVersion": "6",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "qttFw8vcap",
         "pageTitle": "Troubleshooting",
         "pageSlug": "troubleshooting",
         "pageType": "empty",
+        "minorVersion": "6",
+        "subpage": [],
+        "publish": true
+      },
+      {
+        "pageSuid": "u3IVMwF3Rz",
+        "pageTitle": "AI users projects",
+        "pageSlug": "ai-users-projects",
+        "pageType": "empty",
         "minorVersion": "0",
         "subpage": [],
-        "publish": false
+        "publish": true
+      },
+      {
+        "pageSuid": "FemLlzHh3B",
+        "pageTitle": "MadAI Stars",
+        "pageSlug": "madai-stars",
+        "pageType": "empty",
+        "minorVersion": "0",
+        "subpage": [],
+        "publish": true
       }
     ],
-    "publish": false
-  },
-  {
-    "pageSuid": "6vg4lfW7m6",
-    "pageTitle": "MadMapper (test)",
-    "pageSlug": "madmapper-(test)",
-    "pageType": "empty",
-    "minorVersion": "0",
-    "subpage": [
-      {
-        "pageSuid": "oSqSJbxypE",
-        "pageTitle": "Getting Started",
-        "pageSlug": "getting-started",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [
-          {
-            "pageSuid": "5CFKVIL5gI",
-            "pageTitle": "What is video mapping",
-            "pageSlug": "what-is-video-mapping",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "KFwnZ19rke",
-            "pageTitle": "Hardware requirements",
-            "pageSlug": "hardware-requirements",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "4xJYWxT9f8",
-            "pageTitle": "Licensing",
-            "pageSlug": "licensing",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "pppoptxGye",
-            "pageTitle": "Installation",
-            "pageSlug": "installation",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "igtVmmiYNC",
-            "pageTitle": "User interface",
-            "pageSlug": "user-interface",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          }
-        ],
-        "publish": false
-      },
-      {
-        "pageSuid": "gKoyh8wTmT",
-        "pageTitle": "Video Mapping",
-        "pageSlug": "video-mapping",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [
-          {
-            "pageSuid": "6phgS6wdzF",
-            "pageTitle": "Export to MiniMad",
-            "pageSlug": "export-to-minimad",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "jdYj2UBNPY",
-            "pageTitle": "Hardware recommendations",
-            "pageSlug": "hardware-recommendations",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "z0s22hbPnl",
-            "pageTitle": "Controllers",
-            "pageSlug": "controllers",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "5hcRz2en8r",
-            "pageTitle": "Surfaces",
-            "pageSlug": "surfaces",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "QB07rIeH2b",
-            "pageTitle": "Video effects",
-            "pageSlug": "video-effects",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "KTdhV4rJ4m",
-            "pageTitle": "Mapping Tools",
-            "pageSlug": "mapping-tools",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [
-              {
-                "pageSuid": "fESHNkwbjZ",
-                "pageTitle": "Masking",
-                "pageSlug": "masking",
-                "pageType": "empty",
-                "minorVersion": "0",
-                "subpage": [],
-                "publish": false
-              },
-              {
-                "pageSuid": "2hAZ51aALr",
-                "pageTitle": "Mesh warping",
-                "pageSlug": "mesh-warping",
-                "pageType": "empty",
-                "minorVersion": "0",
-                "subpage": [],
-                "publish": false
-              }
-            ],
-            "publish": false
-          },
-          {
-            "pageSuid": "QrgoxBn6AS",
-            "pageTitle": "Setup a projector",
-            "pageSlug": "setup-a-projector",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          }
-        ],
-        "publish": false
-      },
-      {
-        "pageSuid": "7SWz2TZ1EY",
-        "pageTitle": "Light Mapping",
-        "pageSlug": "light-mapping",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [
-          {
-            "pageSuid": "hujPL6soDQ",
-            "pageTitle": "MadLight Recorder",
-            "pageSlug": "madlight-recorder",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "7EAWK8KWU7",
-            "pageTitle": "Hardware recommendations",
-            "pageSlug": "hardware-recommendations",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "lo4dp52ygi",
-            "pageTitle": "Controllers",
-            "pageSlug": "controllers",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "d2nmFKrN7r",
-            "pageTitle": "DMX",
-            "pageSlug": "dmx",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "ENISkSEhLU",
-            "pageTitle": "Setup DMX equipment",
-            "pageSlug": "setup-dmx-equipment",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          }
-        ],
-        "publish": false
-      },
-      {
-        "pageSuid": "qdyLZaJmQl",
-        "pageTitle": "Modules",
-        "pageSlug": "modules",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [
-          {
-            "pageSuid": "NeaMvfbYF1",
-            "pageTitle": "Cue Scheduler",
-            "pageSlug": "cue-scheduler",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "CjQe9HqXJg",
-            "pageTitle": "Calendar scheduler",
-            "pageSlug": "calendar-scheduler",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "5Xihh8yB98",
-            "pageTitle": "Arduino",
-            "pageSlug": "arduino",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "MvizuKbCiV",
-            "pageTitle": "Weather and pollution",
-            "pageSlug": "weather-and-pollution",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          }
-        ],
-        "publish": false
-      },
-      {
-        "pageSuid": "P3RlctPxG9",
-        "pageTitle": "Live Performances",
-        "pageSlug": "live-performances",
-        "pageType": "empty",
-        "minorVersion": "0",
-        "subpage": [
-          {
-            "pageSuid": "dBlSyxu3IN",
-            "pageTitle": "Controllers",
-            "pageSlug": "controllers",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          },
-          {
-            "pageSuid": "wRJXzWLWse",
-            "pageTitle": "Scenes and Cues / Snapshots",
-            "pageSlug": "scenes-and-cues-snapshots",
-            "pageType": "empty",
-            "minorVersion": "0",
-            "subpage": [],
-            "publish": false
-          }
-        ],
-        "publish": false
-      }
-    ],
-    "publish": false
+    "publish": true
   }
 ]
