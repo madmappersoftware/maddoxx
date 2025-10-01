@@ -290,5 +290,36 @@
         "pageSlug": "1-and-beyond"
       }
     ]
+  },
+  {
+    "mediaId": "zsespvbVPf",
+    "filename": "ballon-de-football.png",
+    "imgName": "ballon-de-football",
+    "ext": "png",
+    "mimetype": "",
+    "url": "/ballon-de-football.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-10-01T10:56:01.632Z",
+    "pages": [
+      {
+        "pageSuid": "cKuSVasvuN",
+        "pageSlug": "1-and-beyond"
+      }
+    ]
   }
 ]
