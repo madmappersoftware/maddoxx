@@ -165,10 +165,12 @@
             "pageSlug": "about-us",
             "pageType": "empty",
             "minorVersion": "1",
-            "subpage": []
+            "subpage": [],
+            "publish": true
           }
         ],
-        "publish": false
+        "publish": true,
+        "breadcrumb": "The history of Video Mapping > Historicsal concept > MadAI"
       },
       {
         "pageSuid": "320vdCTyXG",
