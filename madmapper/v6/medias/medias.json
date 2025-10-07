@@ -140,37 +140,6 @@
     ]
   },
   {
-    "mediaId": "DQTDpNkeFI",
-    "filename": "piment.png",
-    "imgName": "piment",
-    "ext": "png",
-    "mimetype": "",
-    "url": "/piment.png",
-    "captions": {
-      "en": ""
-    },
-    "size": [
-      {
-        "name": "small",
-        "dimension": 350
-      },
-      {
-        "name": "thumbnail",
-        "dimension": 256
-      }
-    ],
-    "retina": false,
-    "edited": 0,
-    "sourceId": null,
-    "date": "2025-09-22T12:31:19.859Z",
-    "pages": [
-      {
-        "pageSuid": "UeMk7FMfxY",
-        "pageSlug": "the-history-of-video-mapping"
-      }
-    ]
-  },
-  {
     "mediaId": "NNN93ZVPaC",
     "filename": "Playmodes Beyond.jpg",
     "imgName": "Playmodes Beyond",
@@ -214,6 +183,76 @@
     ]
   },
   {
+    "mediaId": "Ag3yDk3HB7",
+    "filename": "viande de shawarma.jpg",
+    "imgName": "viande de shawarma",
+    "ext": "jpg",
+    "mimetype": "",
+    "url": "/viande de shawarma.jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-10-01T09:28:35.122Z",
+    "pages": [
+      {
+        "pageSuid": "cKuSVasvuN",
+        "pageSlug": "1-and-beyond"
+      }
+    ]
+  },
+  {
+    "mediaId": "fIo9rSqNbA",
+    "filename": "ChatGPT Image 19 août 2025 à 11_03_22.png",
+    "imgName": "ChatGPT Image 19 août 2025 à 11_03_22",
+    "ext": "png",
+    "mimetype": "",
+    "url": "/ChatGPT Image 19 août 2025 à 11_03_22.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-10-01T10:00:43.976Z",
+    "pages": [
+      {
+        "pageSuid": "cKuSVasvuN",
+        "pageSlug": "1-and-beyond"
+      }
+    ]
+  },
+  {
     "mediaId": "gVCUVqHWGf",
     "filename": "Playmodes - Beyond 2(for test).jpg",
     "imgName": "Playmodes - Beyond 2(for test)",
@@ -253,6 +292,111 @@
       {
         "pageSuid": "FemLlzHh3B",
         "pageSlug": "madai-stars"
+      }
+    ]
+  },
+  {
+    "mediaId": "EjdYlpBCYS",
+    "filename": "Stack of Led.jpg",
+    "imgName": "Stack of Led",
+    "ext": "jpg",
+    "mimetype": "image/jpeg",
+    "url": "/Stack of Led.jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-10-01T08:11:37.526Z",
+    "pages": [
+      {
+        "pageSuid": "UeMk7FMfxY",
+        "pageSlug": "the-history-of-video-mapping"
+      }
+    ]
+  },
+  {
+    "mediaId": "zsespvbVPf",
+    "filename": "ballon-de-football.png",
+    "imgName": "ballon-de-football",
+    "ext": "png",
+    "mimetype": "",
+    "url": "/ballon-de-football.png",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-10-01T10:56:01.632Z",
+    "pages": [
+      {
+        "pageSuid": "cKuSVasvuN",
+        "pageSlug": "1-and-beyond"
+      }
+    ]
+  },
+  {
+    "mediaId": "2rGrybVolu",
+    "filename": "Test red cover.jpg",
+    "imgName": "Test red cover",
+    "ext": "jpg",
+    "mimetype": "image/jpeg",
+    "url": "/Test red cover.jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-10-07T09:24:35.741Z",
+    "pages": [
+      {
+        "pageSuid": "aRZYkYar4M",
+        "pageSlug": "madai-last-news"
+      },
+      {
+        "pageSuid": "Vpyz73pef5",
+        "pageSlug": "video-tutorials"
       }
     ]
   }
