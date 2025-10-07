@@ -399,5 +399,122 @@
         "pageSlug": "video-tutorials"
       }
     ]
+  },
+  {
+    "mediaId": "eRYh2NK9A5",
+    "filename": "Module art 1.jpg",
+    "imgName": "Module art 1",
+    "ext": "jpg",
+    "mimetype": "image/jpeg",
+    "url": "/Module art 1.jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-10-07T09:31:58.914Z",
+    "pages": [
+      {
+        "pageSuid": "oQIPNxshME",
+        "pageSlug": "about-us"
+      }
+    ]
+  },
+  {
+    "mediaId": "hpELcdOhay",
+    "filename": "Module art 2.jpg",
+    "imgName": "Module art 2",
+    "ext": "jpg",
+    "mimetype": "image/jpeg",
+    "url": "/Module art 2.jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-10-07T09:31:58.953Z",
+    "pages": [
+      {
+        "pageSuid": "oQIPNxshME",
+        "pageSlug": "about-us"
+      }
+    ]
+  },
+  {
+    "mediaId": "P5zfA0trYf",
+    "filename": "Module art 3.jpg",
+    "imgName": "Module art 3",
+    "ext": "jpg",
+    "mimetype": "image/jpeg",
+    "url": "/Module art 3.jpg",
+    "captions": {
+      "en": ""
+    },
+    "size": [
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-10-07T09:31:59.016Z",
+    "pages": [
+      {
+        "pageSuid": "oQIPNxshME",
+        "pageSlug": "about-us"
+      }
+    ]
   }
 ]

@@ -153,6 +153,24 @@
         "publish": true
       },
       {
+        "pageSuid": "1jaqEgeA5p",
+        "pageTitle": "MadAI Philosophy",
+        "pageSlug": "madai-philosophy",
+        "pageType": "card",
+        "minorVersion": "1",
+        "subpage": [
+          {
+            "pageSuid": "oQIPNxshME",
+            "pageTitle": "About Us",
+            "pageSlug": "about-us",
+            "pageType": "empty",
+            "minorVersion": "1",
+            "subpage": []
+          }
+        ],
+        "publish": false
+      },
+      {
         "pageSuid": "320vdCTyXG",
         "pageTitle": "Credits",
         "pageSlug": "credits",
