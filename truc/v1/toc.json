@@ -23,7 +23,7 @@
         "publish": false
       }
     ],
-    "publish": true
+    "publish": false
   },
   {
     "pageSuid": "DT6ALV2Cce",
@@ -37,7 +37,7 @@
         "pageSlug": "test5",
         "pageType": "empty",
         "subpage": [],
-        "publish": false
+        "publish": true
       },
       {
         "pageSuid": "AXqe4hfKr5",
@@ -79,7 +79,7 @@
             "publish": false
           }
         ],
-        "publish": false
+        "publish": true
       }
     ],
     "publish": true
