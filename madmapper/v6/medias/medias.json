@@ -516,5 +516,44 @@
         "pageSlug": "about-us"
       }
     ]
+  },
+  {
+    "mediaId": "zRfqRkVfUN",
+    "filename": "Star citizen.jpg",
+    "imgName": "Star citizen",
+    "ext": "jpg",
+    "mimetype": "image/jpeg",
+    "url": "/Star citizen.jpg",
+    "captions": {
+      "en": "boom"
+    },
+    "size": [
+      {
+        "name": "large",
+        "dimension": 1440
+      },
+      {
+        "name": "big",
+        "dimension": 600
+      },
+      {
+        "name": "small",
+        "dimension": 350
+      },
+      {
+        "name": "thumbnail",
+        "dimension": 256
+      }
+    ],
+    "retina": false,
+    "edited": 0,
+    "sourceId": null,
+    "date": "2025-10-15T13:41:46.307Z",
+    "pages": [
+      {
+        "pageSuid": "YxaRDWwB4v",
+        "pageSlug": "about"
+      }
+    ]
   }
 ]
