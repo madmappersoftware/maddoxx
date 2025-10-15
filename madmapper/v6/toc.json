@@ -86,7 +86,7 @@
             "publish": true
           }
         ],
-        "publish": true,
+        "publish": false,
         "breadcrumb": "The history of Video Mapping"
       }
     ],
