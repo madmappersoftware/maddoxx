@@ -23,7 +23,7 @@
                 "pageSlug": "the-end",
                 "pageType": "empty",
                 "subpage": [],
-                "publish": false,
+                "publish": true,
                 "breadcrumb": "The history of Video Mapping > About > 1 And Beyond"
               }
             ],
@@ -42,7 +42,7 @@
                 "pageSlug": "the-future",
                 "pageType": "empty",
                 "subpage": [],
-                "publish": false,
+                "publish": true,
                 "breadcrumb": "The history of Video Mapping > About > 1 And Beyond > not problematic page"
               },
               {
@@ -60,7 +60,7 @@
                     "publish": true
                   }
                 ],
-                "publish": false,
+                "publish": true,
                 "breadcrumb": "The history of Video Mapping > About > 1 And Beyond > not problematic page"
               }
             ],
@@ -150,7 +150,27 @@
         "pageType": "empty",
         "minorVersion": "0",
         "subpage": [],
-        "publish": true
+        "publish": false
+      },
+      {
+        "pageSuid": "1jaqEgeA5p",
+        "pageTitle": "MadAI Philosophy",
+        "pageSlug": "madai-philosophy",
+        "pageType": "card",
+        "minorVersion": "1",
+        "subpage": [
+          {
+            "pageSuid": "oQIPNxshME",
+            "pageTitle": "About Us",
+            "pageSlug": "about-us",
+            "pageType": "empty",
+            "minorVersion": "1",
+            "subpage": [],
+            "publish": true
+          }
+        ],
+        "publish": true,
+        "breadcrumb": "The history of Video Mapping > Historicsal concept > MadAI"
       },
       {
         "pageSuid": "320vdCTyXG",
