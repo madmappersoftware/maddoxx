@@ -27,7 +27,7 @@
                 "breadcrumb": "The history of Video Mapping > About > 1 And Beyond"
               }
             ],
-            "publish": true,
+            "publish": false,
             "breadcrumb": "The history of Video Mapping > About"
           },
           {
@@ -86,11 +86,11 @@
             "publish": true
           }
         ],
-        "publish": true,
+        "publish": false,
         "breadcrumb": "The history of Video Mapping"
       }
     ],
-    "publish": true
+    "publish": false
   },
   {
     "pageSuid": "0aAXfsfuIA",
