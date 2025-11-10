@@ -27,7 +27,7 @@
                 "breadcrumb": "The history of Video Mapping > About > 1 And Beyond"
               }
             ],
-            "publish": false,
+            "publish": true,
             "breadcrumb": "The history of Video Mapping > About"
           },
           {
@@ -42,7 +42,7 @@
                 "pageSlug": "the-future",
                 "pageType": "empty",
                 "subpage": [],
-                "publish": false,
+                "publish": true,
                 "breadcrumb": "The history of Video Mapping > About > 1 And Beyond > not problematic page"
               },
               {
@@ -86,11 +86,12 @@
             "publish": true
           }
         ],
-        "publish": false,
+        "publish": true,
         "breadcrumb": "The history of Video Mapping"
       }
     ],
-    "publish": false
+    "publish": true,
+    "breadcrumb": ""
   },
   {
     "pageSuid": "0aAXfsfuIA",
@@ -150,7 +151,8 @@
         "pageType": "empty",
         "minorVersion": "0",
         "subpage": [],
-        "publish": false
+        "publish": false,
+        "breadcrumb": "The history of Video Mapping > Historicsal concept > MadAI"
       },
       {
         "pageSuid": "1jaqEgeA5p",
